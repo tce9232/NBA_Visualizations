@@ -1,0 +1,3325 @@
+Team,year,Distance,Frequency
+All Teams,2001,0-3 ft,0.273
+All Teams,2001,3-10 ft,0.168
+All Teams,2001,10-16 ft,0.158
+All Teams,2001,Over 16 ft,0.232
+All Teams,2001,3P Corner,0.04063
+All Teams,2001,3P Top,0.12937
+All Teams,2002,0-3 ft,0.287
+All Teams,2002,3-10 ft,0.148
+All Teams,2002,10-16 ft,0.153
+All Teams,2002,Over 16 ft,0.23
+All Teams,2002,3P Corner,0.042535
+All Teams,2002,3P Top,0.138465
+All Teams,2003,0-3 ft,0.286
+All Teams,2003,3-10 ft,0.15
+All Teams,2003,10-16 ft,0.146
+All Teams,2003,Over 16 ft,0.236
+All Teams,2003,3P Corner,0.046774
+All Teams,2003,3P Top,0.135226
+All Teams,2004,0-3 ft,0.297
+All Teams,2004,3-10 ft,0.147
+All Teams,2004,10-16 ft,0.141
+All Teams,2004,Over 16 ft,0.229
+All Teams,2004,3P Corner,0.048807
+All Teams,2004,3P Top,0.138193
+All Teams,2005,0-3 ft,0.304
+All Teams,2005,3-10 ft,0.135
+All Teams,2005,10-16 ft,0.129
+All Teams,2005,Over 16 ft,0.236
+All Teams,2005,3P Corner,0.053312
+All Teams,2005,3P Top,0.142688
+All Teams,2006,0-3 ft,0.309
+All Teams,2006,3-10 ft,0.133
+All Teams,2006,10-16 ft,0.119
+All Teams,2006,Over 16 ft,0.236
+All Teams,2006,3P Corner,0.05454
+All Teams,2006,3P Top,0.14746
+All Teams,2007,0-3 ft,0.314
+All Teams,2007,3-10 ft,0.131
+All Teams,2007,10-16 ft,0.113
+All Teams,2007,Over 16 ft,0.229
+All Teams,2007,3P Corner,0.057723
+All Teams,2007,3P Top,0.155277
+All Teams,2008,0-3 ft,0.308
+All Teams,2008,3-10 ft,0.124
+All Teams,2008,10-16 ft,0.111
+All Teams,2008,Over 16 ft,0.235
+All Teams,2008,3P Corner,0.058608
+All Teams,2008,3P Top,0.163392
+All Teams,2009,0-3 ft,0.314
+All Teams,2009,3-10 ft,0.124
+All Teams,2009,10-16 ft,0.111
+All Teams,2009,Over 16 ft,0.227
+All Teams,2009,3P Corner,0.061376
+All Teams,2009,3P Top,0.162624
+All Teams,2010,0-3 ft,0.32
+All Teams,2010,3-10 ft,0.129
+All Teams,2010,10-16 ft,0.11
+All Teams,2010,Over 16 ft,0.218
+All Teams,2010,3P Corner,0.057276
+All Teams,2010,3P Top,0.164724
+All Teams,2011,0-3 ft,0.276
+All Teams,2011,3-10 ft,0.178
+All Teams,2011,10-16 ft,0.11
+All Teams,2011,Over 16 ft,0.214
+All Teams,2011,3P Corner,0.05994
+All Teams,2011,3P Top,0.16206
+All Teams,2012,0-3 ft,0.287
+All Teams,2012,3-10 ft,0.169
+All Teams,2012,10-16 ft,0.11
+All Teams,2012,Over 16 ft,0.208
+All Teams,2012,3P Corner,0.058986
+All Teams,2012,3P Top,0.167014
+All Teams,2013,0-3 ft,0.293
+All Teams,2013,3-10 ft,0.164
+All Teams,2013,10-16 ft,0.107
+All Teams,2013,Over 16 ft,0.193
+All Teams,2013,3P Corner,0.065124
+All Teams,2013,3P Top,0.177876
+All Teams,2014,0-3 ft,0.286
+All Teams,2014,3-10 ft,0.169
+All Teams,2014,10-16 ft,0.105
+All Teams,2014,Over 16 ft,0.18
+All Teams,2014,3P Corner,0.064232
+All Teams,2014,3P Top,0.194768
+All Teams,2015,0-3 ft,0.288
+All Teams,2015,3-10 ft,0.165
+All Teams,2015,10-16 ft,0.103
+All Teams,2015,Over 16 ft,0.175
+All Teams,2015,3P Corner,0.067804
+All Teams,2015,3P Top,0.200196
+All Teams,2016,0-3 ft,0.293
+All Teams,2016,3-10 ft,0.158
+All Teams,2016,10-16 ft,0.103
+All Teams,2016,Over 16 ft,0.162
+All Teams,2016,3P Corner,0.07068
+All Teams,2016,3P Top,0.21432
+All Teams,2017,0-3 ft,0.29
+All Teams,2017,3-10 ft,0.152
+All Teams,2017,10-16 ft,0.099
+All Teams,2017,Over 16 ft,0.142
+All Teams,2017,3P Corner,0.072048
+All Teams,2017,3P Top,0.243952
+All Teams,2018,0-3 ft,0.281
+All Teams,2018,3-10 ft,0.156
+All Teams,2018,10-16 ft,0.106
+All Teams,2018,Over 16 ft,0.12
+All Teams,2018,3P Corner,0.070096
+All Teams,2018,3P Top,0.266904
+Atlanta Hawks,2001,0-3 ft,0.258
+Atlanta Hawks,2001,3-10 ft,0.19
+Atlanta Hawks,2001,10-16 ft,0.214
+Atlanta Hawks,2001,Over 16 ft,0.198
+Atlanta Hawks,2001,3P Corner,0.03192
+Atlanta Hawks,2001,3P Top,0.10808
+Atlanta Hawks,2002,0-3 ft,0.328
+Atlanta Hawks,2002,3-10 ft,0.153
+Atlanta Hawks,2002,10-16 ft,0.146
+Atlanta Hawks,2002,Over 16 ft,0.193
+Atlanta Hawks,2002,3P Corner,0.046155
+Atlanta Hawks,2002,3P Top,0.134845
+Atlanta Hawks,2003,0-3 ft,0.269
+Atlanta Hawks,2003,3-10 ft,0.158
+Atlanta Hawks,2003,10-16 ft,0.181
+Atlanta Hawks,2003,Over 16 ft,0.214
+Atlanta Hawks,2003,3P Corner,0.048852
+Atlanta Hawks,2003,3P Top,0.128148
+Atlanta Hawks,2004,0-3 ft,0.303
+Atlanta Hawks,2004,3-10 ft,0.148
+Atlanta Hawks,2004,10-16 ft,0.153
+Atlanta Hawks,2004,Over 16 ft,0.205
+Atlanta Hawks,2004,3P Corner,0.055772
+Atlanta Hawks,2004,3P Top,0.135228
+Atlanta Hawks,2005,0-3 ft,0.371
+Atlanta Hawks,2005,3-10 ft,0.141
+Atlanta Hawks,2005,10-16 ft,0.139
+Atlanta Hawks,2005,Over 16 ft,0.204
+Atlanta Hawks,2005,3P Corner,0.03869
+Atlanta Hawks,2005,3P Top,0.10731
+Atlanta Hawks,2006,0-3 ft,0.342
+Atlanta Hawks,2006,3-10 ft,0.132
+Atlanta Hawks,2006,10-16 ft,0.118
+Atlanta Hawks,2006,Over 16 ft,0.231
+Atlanta Hawks,2006,3P Corner,0.049484
+Atlanta Hawks,2006,3P Top,0.128516
+Atlanta Hawks,2007,0-3 ft,0.356
+Atlanta Hawks,2007,3-10 ft,0.097
+Atlanta Hawks,2007,10-16 ft,0.09
+Atlanta Hawks,2007,Over 16 ft,0.294
+Atlanta Hawks,2007,3P Corner,0.041239
+Atlanta Hawks,2007,3P Top,0.121761
+Atlanta Hawks,2008,0-3 ft,0.339
+Atlanta Hawks,2008,3-10 ft,0.14
+Atlanta Hawks,2008,10-16 ft,0.096
+Atlanta Hawks,2008,Over 16 ft,0.261
+Atlanta Hawks,2008,3P Corner,0.04125
+Atlanta Hawks,2008,3P Top,0.12375
+Atlanta Hawks,2009,0-3 ft,0.267
+Atlanta Hawks,2009,3-10 ft,0.16
+Atlanta Hawks,2009,10-16 ft,0.101
+Atlanta Hawks,2009,Over 16 ft,0.219
+Atlanta Hawks,2009,3P Corner,0.072105
+Atlanta Hawks,2009,3P Top,0.180895
+Atlanta Hawks,2010,0-3 ft,0.296
+Atlanta Hawks,2010,3-10 ft,0.167
+Atlanta Hawks,2010,10-16 ft,0.087
+Atlanta Hawks,2010,Over 16 ft,0.237
+Atlanta Hawks,2010,3P Corner,0.083032
+Atlanta Hawks,2010,3P Top,0.130968
+Atlanta Hawks,2011,0-3 ft,0.233
+Atlanta Hawks,2011,3-10 ft,0.175
+Atlanta Hawks,2011,10-16 ft,0.097
+Atlanta Hawks,2011,Over 16 ft,0.274
+Atlanta Hawks,2011,3P Corner,0.077478
+Atlanta Hawks,2011,3P Top,0.144522
+Atlanta Hawks,2012,0-3 ft,0.277
+Atlanta Hawks,2012,3-10 ft,0.153
+Atlanta Hawks,2012,10-16 ft,0.074
+Atlanta Hawks,2012,Over 16 ft,0.247
+Atlanta Hawks,2012,3P Corner,0.08466
+Atlanta Hawks,2012,3P Top,0.16434
+Atlanta Hawks,2013,0-3 ft,0.281
+Atlanta Hawks,2013,3-10 ft,0.152
+Atlanta Hawks,2013,10-16 ft,0.073
+Atlanta Hawks,2013,Over 16 ft,0.208
+Atlanta Hawks,2013,3P Corner,0.075504
+Atlanta Hawks,2013,3P Top,0.210496
+Atlanta Hawks,2014,0-3 ft,0.263
+Atlanta Hawks,2014,3-10 ft,0.174
+Atlanta Hawks,2014,10-16 ft,0.102
+Atlanta Hawks,2014,Over 16 ft,0.145
+Atlanta Hawks,2014,3P Corner,0.084688
+Atlanta Hawks,2014,3P Top,0.231312
+Atlanta Hawks,2015,0-3 ft,0.29
+Atlanta Hawks,2015,3-10 ft,0.158
+Atlanta Hawks,2015,10-16 ft,0.08
+Atlanta Hawks,2015,Over 16 ft,0.151
+Atlanta Hawks,2015,3P Corner,0.088275
+Atlanta Hawks,2015,3P Top,0.232725
+Atlanta Hawks,2016,0-3 ft,0.326
+Atlanta Hawks,2016,3-10 ft,0.121
+Atlanta Hawks,2016,10-16 ft,0.078
+Atlanta Hawks,2016,Over 16 ft,0.138
+Atlanta Hawks,2016,3P Corner,0.081984
+Atlanta Hawks,2016,3P Top,0.254016
+Atlanta Hawks,2017,0-3 ft,0.331
+Atlanta Hawks,2017,3-10 ft,0.117
+Atlanta Hawks,2017,10-16 ft,0.092
+Atlanta Hawks,2017,Over 16 ft,0.151
+Atlanta Hawks,2017,3P Corner,0.072306
+Atlanta Hawks,2017,3P Top,0.236694
+Atlanta Hawks,2018,0-3 ft,0.279
+Atlanta Hawks,2018,3-10 ft,0.131
+Atlanta Hawks,2018,10-16 ft,0.105
+Atlanta Hawks,2018,Over 16 ft,0.122
+Atlanta Hawks,2018,3P Corner,0.088209
+Atlanta Hawks,2018,3P Top,0.274791
+Boston Celtics,2001,0-3 ft,0.287
+Boston Celtics,2001,3-10 ft,0.161
+Boston Celtics,2001,10-16 ft,0.121
+Boston Celtics,2001,Over 16 ft,0.18
+Boston Celtics,2001,3P Corner,0.065772
+Boston Celtics,2001,3P Top,0.186228
+Boston Celtics,2002,0-3 ft,0.293
+Boston Celtics,2002,3-10 ft,0.124
+Boston Celtics,2002,10-16 ft,0.111
+Boston Celtics,2002,Over 16 ft,0.182
+Boston Celtics,2002,3P Corner,0.061557
+Boston Celtics,2002,3P Top,0.227443
+Boston Celtics,2003,0-3 ft,0.268
+Boston Celtics,2003,3-10 ft,0.14
+Boston Celtics,2003,10-16 ft,0.109
+Boston Celtics,2003,Over 16 ft,0.152
+Boston Celtics,2003,3P Corner,0.07613
+Boston Celtics,2003,3P Top,0.25487
+Boston Celtics,2004,0-3 ft,0.285
+Boston Celtics,2004,3-10 ft,0.126
+Boston Celtics,2004,10-16 ft,0.118
+Boston Celtics,2004,Over 16 ft,0.222
+Boston Celtics,2004,3P Corner,0.064491
+Boston Celtics,2004,3P Top,0.184509
+Boston Celtics,2005,0-3 ft,0.364
+Boston Celtics,2005,3-10 ft,0.119
+Boston Celtics,2005,10-16 ft,0.113
+Boston Celtics,2005,Over 16 ft,0.212
+Boston Celtics,2005,3P Corner,0.056832
+Boston Celtics,2005,3P Top,0.135168
+Boston Celtics,2006,0-3 ft,0.341
+Boston Celtics,2006,3-10 ft,0.117
+Boston Celtics,2006,10-16 ft,0.111
+Boston Celtics,2006,Over 16 ft,0.228
+Boston Celtics,2006,3P Corner,0.054468
+Boston Celtics,2006,3P Top,0.149532
+Boston Celtics,2007,0-3 ft,0.317
+Boston Celtics,2007,3-10 ft,0.152
+Boston Celtics,2007,10-16 ft,0.102
+Boston Celtics,2007,Over 16 ft,0.23
+Boston Celtics,2007,3P Corner,0.053929
+Boston Celtics,2007,3P Top,0.145071
+Boston Celtics,2008,0-3 ft,0.32
+Boston Celtics,2008,3-10 ft,0.118
+Boston Celtics,2008,10-16 ft,0.102
+Boston Celtics,2008,Over 16 ft,0.211
+Boston Celtics,2008,3P Corner,0.062997
+Boston Celtics,2008,3P Top,0.186003
+Boston Celtics,2009,0-3 ft,0.332
+Boston Celtics,2009,3-10 ft,0.123
+Boston Celtics,2009,10-16 ft,0.109
+Boston Celtics,2009,Over 16 ft,0.223
+Boston Celtics,2009,3P Corner,0.064414
+Boston Celtics,2009,3P Top,0.149586
+Boston Celtics,2010,0-3 ft,0.339
+Boston Celtics,2010,3-10 ft,0.139
+Boston Celtics,2010,10-16 ft,0.107
+Boston Celtics,2010,Over 16 ft,0.188
+Boston Celtics,2010,3P Corner,0.048792
+Boston Celtics,2010,3P Top,0.179208
+Boston Celtics,2011,0-3 ft,0.313
+Boston Celtics,2011,3-10 ft,0.14
+Boston Celtics,2011,10-16 ft,0.113
+Boston Celtics,2011,Over 16 ft,0.254
+Boston Celtics,2011,3P Corner,0.0468
+Boston Celtics,2011,3P Top,0.1332
+Boston Celtics,2012,0-3 ft,0.28
+Boston Celtics,2012,3-10 ft,0.116
+Boston Celtics,2012,10-16 ft,0.145
+Boston Celtics,2012,Over 16 ft,0.266
+Boston Celtics,2012,3P Corner,0.059946
+Boston Celtics,2012,3P Top,0.134054
+Boston Celtics,2013,0-3 ft,0.287
+Boston Celtics,2013,3-10 ft,0.13
+Boston Celtics,2013,10-16 ft,0.128
+Boston Celtics,2013,Over 16 ft,0.239
+Boston Celtics,2013,3P Corner,0.072885
+Boston Celtics,2013,3P Top,0.142115
+Boston Celtics,2014,0-3 ft,0.273
+Boston Celtics,2014,3-10 ft,0.148
+Boston Celtics,2014,10-16 ft,0.109
+Boston Celtics,2014,Over 16 ft,0.219
+Boston Celtics,2014,3P Corner,0.060742
+Boston Celtics,2014,3P Top,0.190258
+Boston Celtics,2015,0-3 ft,0.279
+Boston Celtics,2015,3-10 ft,0.145
+Boston Celtics,2015,10-16 ft,0.103
+Boston Celtics,2015,Over 16 ft,0.193
+Boston Celtics,2015,3P Corner,0.05712
+Boston Celtics,2015,3P Top,0.22288
+Boston Celtics,2016,0-3 ft,0.318
+Boston Celtics,2016,3-10 ft,0.141
+Boston Celtics,2016,10-16 ft,0.094
+Boston Celtics,2016,Over 16 ft,0.154
+Boston Celtics,2016,3P Corner,0.067976
+Boston Celtics,2016,3P Top,0.225024
+Boston Celtics,2017,0-3 ft,0.296
+Boston Celtics,2017,3-10 ft,0.129
+Boston Celtics,2017,10-16 ft,0.071
+Boston Celtics,2017,Over 16 ft,0.111
+Boston Celtics,2017,3P Corner,0.08646
+Boston Celtics,2017,3P Top,0.30654
+Boston Celtics,2018,0-3 ft,0.259
+Boston Celtics,2018,3-10 ft,0.158
+Boston Celtics,2018,10-16 ft,0.106
+Boston Celtics,2018,Over 16 ft,0.12
+Boston Celtics,2018,3P Corner,0.076041
+Boston Celtics,2018,3P Top,0.280959
+Brooklyn Nets,2001,0-3 ft,0.322
+Brooklyn Nets,2001,3-10 ft,0.137
+Brooklyn Nets,2001,10-16 ft,0.132
+Brooklyn Nets,2001,Over 16 ft,0.243
+Brooklyn Nets,2001,3P Corner,0.032835
+Brooklyn Nets,2001,3P Top,0.132165
+Brooklyn Nets,2002,0-3 ft,0.327
+Brooklyn Nets,2002,3-10 ft,0.135
+Brooklyn Nets,2002,10-16 ft,0.133
+Brooklyn Nets,2002,Over 16 ft,0.23
+Brooklyn Nets,2002,3P Corner,0.033775
+Brooklyn Nets,2002,3P Top,0.141225
+Brooklyn Nets,2003,0-3 ft,0.34
+Brooklyn Nets,2003,3-10 ft,0.133
+Brooklyn Nets,2003,10-16 ft,0.112
+Brooklyn Nets,2003,Over 16 ft,0.258
+Brooklyn Nets,2003,3P Corner,0.03002
+Brooklyn Nets,2003,3P Top,0.12798
+Brooklyn Nets,2004,0-3 ft,0.332
+Brooklyn Nets,2004,3-10 ft,0.111
+Brooklyn Nets,2004,10-16 ft,0.113
+Brooklyn Nets,2004,Over 16 ft,0.268
+Brooklyn Nets,2004,3P Corner,0.03256
+Brooklyn Nets,2004,3P Top,0.14344
+Brooklyn Nets,2005,0-3 ft,0.276
+Brooklyn Nets,2005,3-10 ft,0.118
+Brooklyn Nets,2005,10-16 ft,0.119
+Brooklyn Nets,2005,Over 16 ft,0.299
+Brooklyn Nets,2005,3P Corner,0.052173
+Brooklyn Nets,2005,3P Top,0.134827
+Brooklyn Nets,2006,0-3 ft,0.299
+Brooklyn Nets,2006,3-10 ft,0.114
+Brooklyn Nets,2006,10-16 ft,0.102
+Brooklyn Nets,2006,Over 16 ft,0.257
+Brooklyn Nets,2006,3P Corner,0.061601
+Brooklyn Nets,2006,3P Top,0.167399
+Brooklyn Nets,2007,0-3 ft,0.332
+Brooklyn Nets,2007,3-10 ft,0.089
+Brooklyn Nets,2007,10-16 ft,0.077
+Brooklyn Nets,2007,Over 16 ft,0.24
+Brooklyn Nets,2007,3P Corner,0.071799
+Brooklyn Nets,2007,3P Top,0.191201
+Brooklyn Nets,2008,0-3 ft,0.347
+Brooklyn Nets,2008,3-10 ft,0.085
+Brooklyn Nets,2008,10-16 ft,0.09
+Brooklyn Nets,2008,Over 16 ft,0.256
+Brooklyn Nets,2008,3P Corner,0.057498
+Brooklyn Nets,2008,3P Top,0.164502
+Brooklyn Nets,2009,0-3 ft,0.33
+Brooklyn Nets,2009,3-10 ft,0.088
+Brooklyn Nets,2009,10-16 ft,0.102
+Brooklyn Nets,2009,Over 16 ft,0.215
+Brooklyn Nets,2009,3P Corner,0.081355
+Brooklyn Nets,2009,3P Top,0.183645
+Brooklyn Nets,2010,0-3 ft,0.346
+Brooklyn Nets,2010,3-10 ft,0.126
+Brooklyn Nets,2010,10-16 ft,0.119
+Brooklyn Nets,2010,Over 16 ft,0.229
+Brooklyn Nets,2010,3P Corner,0.057558
+Brooklyn Nets,2010,3P Top,0.123442
+Brooklyn Nets,2011,0-3 ft,0.236
+Brooklyn Nets,2011,3-10 ft,0.213
+Brooklyn Nets,2011,10-16 ft,0.123
+Brooklyn Nets,2011,Over 16 ft,0.227
+Brooklyn Nets,2011,3P Corner,0.054672
+Brooklyn Nets,2011,3P Top,0.146328
+Brooklyn Nets,2012,0-3 ft,0.255
+Brooklyn Nets,2012,3-10 ft,0.134
+Brooklyn Nets,2012,10-16 ft,0.126
+Brooklyn Nets,2012,Over 16 ft,0.207
+Brooklyn Nets,2012,3P Corner,0.074226
+Brooklyn Nets,2012,3P Top,0.203774
+Brooklyn Nets,2013,0-3 ft,0.272
+Brooklyn Nets,2013,3-10 ft,0.203
+Brooklyn Nets,2013,10-16 ft,0.102
+Brooklyn Nets,2013,Over 16 ft,0.154
+Brooklyn Nets,2013,3P Corner,0.093881
+Brooklyn Nets,2013,3P Top,0.175119
+Brooklyn Nets,2014,0-3 ft,0.256
+Brooklyn Nets,2014,3-10 ft,0.171
+Brooklyn Nets,2014,10-16 ft,0.112
+Brooklyn Nets,2014,Over 16 ft,0.16
+Brooklyn Nets,2014,3P Corner,0.073143
+Brooklyn Nets,2014,3P Top,0.227857
+Brooklyn Nets,2015,0-3 ft,0.268
+Brooklyn Nets,2015,3-10 ft,0.213
+Brooklyn Nets,2015,10-16 ft,0.116
+Brooklyn Nets,2015,Over 16 ft,0.164
+Brooklyn Nets,2015,3P Corner,0.06816
+Brooklyn Nets,2015,3P Top,0.17184
+Brooklyn Nets,2016,0-3 ft,0.284
+Brooklyn Nets,2016,3-10 ft,0.211
+Brooklyn Nets,2016,10-16 ft,0.106
+Brooklyn Nets,2016,Over 16 ft,0.181
+Brooklyn Nets,2016,3P Corner,0.067362
+Brooklyn Nets,2016,3P Top,0.150638
+Brooklyn Nets,2017,0-3 ft,0.309
+Brooklyn Nets,2017,3-10 ft,0.173
+Brooklyn Nets,2017,10-16 ft,0.077
+Brooklyn Nets,2017,Over 16 ft,0.07
+Brooklyn Nets,2017,3P Corner,0.079765
+Brooklyn Nets,2017,3P Top,0.291235
+Brooklyn Nets,2018,0-3 ft,0.269
+Brooklyn Nets,2018,3-10 ft,0.175
+Brooklyn Nets,2018,10-16 ft,0.083
+Brooklyn Nets,2018,Over 16 ft,0.062
+Brooklyn Nets,2018,3P Corner,0.082611
+Brooklyn Nets,2018,3P Top,0.328389
+Charlotte Hornets,2005,0-3 ft,0.284
+Charlotte Hornets,2005,3-10 ft,0.149
+Charlotte Hornets,2005,10-16 ft,0.145
+Charlotte Hornets,2005,Over 16 ft,0.294
+Charlotte Hornets,2005,3P Corner,0.044032
+Charlotte Hornets,2005,3P Top,0.083968
+Charlotte Hornets,2006,0-3 ft,0.328
+Charlotte Hornets,2006,3-10 ft,0.12
+Charlotte Hornets,2006,10-16 ft,0.107
+Charlotte Hornets,2006,Over 16 ft,0.261
+Charlotte Hornets,2006,3P Corner,0.05796
+Charlotte Hornets,2006,3P Top,0.12604
+Charlotte Hornets,2007,0-3 ft,0.335
+Charlotte Hornets,2007,3-10 ft,0.129
+Charlotte Hornets,2007,10-16 ft,0.095
+Charlotte Hornets,2007,Over 16 ft,0.249
+Charlotte Hornets,2007,3P Corner,0.067936
+Charlotte Hornets,2007,3P Top,0.125064
+Charlotte Hornets,2008,0-3 ft,0.338
+Charlotte Hornets,2008,3-10 ft,0.114
+Charlotte Hornets,2008,10-16 ft,0.098
+Charlotte Hornets,2008,Over 16 ft,0.229
+Charlotte Hornets,2008,3P Corner,0.07722
+Charlotte Hornets,2008,3P Top,0.14278
+Charlotte Hornets,2009,0-3 ft,0.368
+Charlotte Hornets,2009,3-10 ft,0.119
+Charlotte Hornets,2009,10-16 ft,0.082
+Charlotte Hornets,2009,Over 16 ft,0.219
+Charlotte Hornets,2009,3P Corner,0.063687
+Charlotte Hornets,2009,3P Top,0.149313
+Charlotte Hornets,2010,0-3 ft,0.408
+Charlotte Hornets,2010,3-10 ft,0.098
+Charlotte Hornets,2010,10-16 ft,0.08
+Charlotte Hornets,2010,Over 16 ft,0.203
+Charlotte Hornets,2010,3P Corner,0.060346
+Charlotte Hornets,2010,3P Top,0.150654
+Charlotte Hornets,2011,0-3 ft,0.334
+Charlotte Hornets,2011,3-10 ft,0.145
+Charlotte Hornets,2011,10-16 ft,0.097
+Charlotte Hornets,2011,Over 16 ft,0.235
+Charlotte Hornets,2011,3P Corner,0.035343
+Charlotte Hornets,2011,3P Top,0.153657
+Charlotte Hornets,2012,0-3 ft,0.29
+Charlotte Hornets,2012,3-10 ft,0.125
+Charlotte Hornets,2012,10-16 ft,0.108
+Charlotte Hornets,2012,Over 16 ft,0.309
+Charlotte Hornets,2012,3P Corner,0.026702
+Charlotte Hornets,2012,3P Top,0.142298
+Charlotte Hornets,2013,0-3 ft,0.319
+Charlotte Hornets,2013,3-10 ft,0.147
+Charlotte Hornets,2013,10-16 ft,0.111
+Charlotte Hornets,2013,Over 16 ft,0.212
+Charlotte Hornets,2013,3P Corner,0.04368
+Charlotte Hornets,2013,3P Top,0.16632
+Charlotte Hornets,2014,0-3 ft,0.29
+Charlotte Hornets,2014,3-10 ft,0.151
+Charlotte Hornets,2014,10-16 ft,0.122
+Charlotte Hornets,2014,Over 16 ft,0.218
+Charlotte Hornets,2014,3P Corner,0.045771
+Charlotte Hornets,2014,3P Top,0.173229
+Charlotte Hornets,2015,0-3 ft,0.263
+Charlotte Hornets,2015,3-10 ft,0.153
+Charlotte Hornets,2015,10-16 ft,0.124
+Charlotte Hornets,2015,Over 16 ft,0.234
+Charlotte Hornets,2015,3P Corner,0.040002
+Charlotte Hornets,2015,3P Top,0.185998
+Charlotte Hornets,2016,0-3 ft,0.274
+Charlotte Hornets,2016,3-10 ft,0.129
+Charlotte Hornets,2016,10-16 ft,0.093
+Charlotte Hornets,2016,Over 16 ft,0.156
+Charlotte Hornets,2016,3P Corner,0.059508
+Charlotte Hornets,2016,3P Top,0.288492
+Charlotte Hornets,2017,0-3 ft,0.282
+Charlotte Hornets,2017,3-10 ft,0.133
+Charlotte Hornets,2017,10-16 ft,0.099
+Charlotte Hornets,2017,Over 16 ft,0.152
+Charlotte Hornets,2017,3P Corner,0.044555
+Charlotte Hornets,2017,3P Top,0.290445
+Charlotte Hornets,2018,0-3 ft,0.273
+Charlotte Hornets,2018,3-10 ft,0.16
+Charlotte Hornets,2018,10-16 ft,0.114
+Charlotte Hornets,2018,Over 16 ft,0.138
+Charlotte Hornets,2018,3P Corner,0.048356
+Charlotte Hornets,2018,3P Top,0.265644
+Chicago Bulls,2001,0-3 ft,0.275
+Chicago Bulls,2001,3-10 ft,0.151
+Chicago Bulls,2001,10-16 ft,0.175
+Chicago Bulls,2001,Over 16 ft,0.251
+Chicago Bulls,2001,3P Corner,0.019536
+Chicago Bulls,2001,3P Top,0.128464
+Chicago Bulls,2002,0-3 ft,0.295
+Chicago Bulls,2002,3-10 ft,0.111
+Chicago Bulls,2002,10-16 ft,0.161
+Chicago Bulls,2002,Over 16 ft,0.299
+Chicago Bulls,2002,3P Corner,0.025326
+Chicago Bulls,2002,3P Top,0.108674
+Chicago Bulls,2003,0-3 ft,0.324
+Chicago Bulls,2003,3-10 ft,0.169
+Chicago Bulls,2003,10-16 ft,0.148
+Chicago Bulls,2003,Over 16 ft,0.211
+Chicago Bulls,2003,3P Corner,0.03848
+Chicago Bulls,2003,3P Top,0.10952
+Chicago Bulls,2004,0-3 ft,0.283
+Chicago Bulls,2004,3-10 ft,0.13
+Chicago Bulls,2004,10-16 ft,0.142
+Chicago Bulls,2004,Over 16 ft,0.259
+Chicago Bulls,2004,3P Corner,0.039804
+Chicago Bulls,2004,3P Top,0.146196
+Chicago Bulls,2005,0-3 ft,0.297
+Chicago Bulls,2005,3-10 ft,0.144
+Chicago Bulls,2005,10-16 ft,0.128
+Chicago Bulls,2005,Over 16 ft,0.214
+Chicago Bulls,2005,3P Corner,0.050778
+Chicago Bulls,2005,3P Top,0.166222
+Chicago Bulls,2006,0-3 ft,0.292
+Chicago Bulls,2006,3-10 ft,0.106
+Chicago Bulls,2006,10-16 ft,0.114
+Chicago Bulls,2006,Over 16 ft,0.269
+Chicago Bulls,2006,3P Corner,0.062196
+Chicago Bulls,2006,3P Top,0.156804
+Chicago Bulls,2007,0-3 ft,0.302
+Chicago Bulls,2007,3-10 ft,0.1
+Chicago Bulls,2007,10-16 ft,0.118
+Chicago Bulls,2007,Over 16 ft,0.295
+Chicago Bulls,2007,3P Corner,0.041478
+Chicago Bulls,2007,3P Top,0.144522
+Chicago Bulls,2008,0-3 ft,0.306
+Chicago Bulls,2008,3-10 ft,0.102
+Chicago Bulls,2008,10-16 ft,0.12
+Chicago Bulls,2008,Over 16 ft,0.282
+Chicago Bulls,2008,3P Corner,0.04408
+Chicago Bulls,2008,3P Top,0.14592
+Chicago Bulls,2009,0-3 ft,0.33
+Chicago Bulls,2009,3-10 ft,0.084
+Chicago Bulls,2009,10-16 ft,0.104
+Chicago Bulls,2009,Over 16 ft,0.293
+Chicago Bulls,2009,3P Corner,0.046494
+Chicago Bulls,2009,3P Top,0.142506
+Chicago Bulls,2010,0-3 ft,0.331
+Chicago Bulls,2010,3-10 ft,0.105
+Chicago Bulls,2010,10-16 ft,0.108
+Chicago Bulls,2010,Over 16 ft,0.3
+Chicago Bulls,2010,3P Corner,0.048048
+Chicago Bulls,2010,3P Top,0.107952
+Chicago Bulls,2011,0-3 ft,0.304
+Chicago Bulls,2011,3-10 ft,0.151
+Chicago Bulls,2011,10-16 ft,0.102
+Chicago Bulls,2011,Over 16 ft,0.229
+Chicago Bulls,2011,3P Corner,0.059125
+Chicago Bulls,2011,3P Top,0.155875
+Chicago Bulls,2012,0-3 ft,0.297
+Chicago Bulls,2012,3-10 ft,0.142
+Chicago Bulls,2012,10-16 ft,0.116
+Chicago Bulls,2012,Over 16 ft,0.241
+Chicago Bulls,2012,3P Corner,0.053505
+Chicago Bulls,2012,3P Top,0.151495
+Chicago Bulls,2013,0-3 ft,0.306
+Chicago Bulls,2013,3-10 ft,0.139
+Chicago Bulls,2013,10-16 ft,0.14
+Chicago Bulls,2013,Over 16 ft,0.226
+Chicago Bulls,2013,3P Corner,0.043281
+Chicago Bulls,2013,3P Top,0.145719
+Chicago Bulls,2014,0-3 ft,0.297
+Chicago Bulls,2014,3-10 ft,0.148
+Chicago Bulls,2014,10-16 ft,0.112
+Chicago Bulls,2014,Over 16 ft,0.222
+Chicago Bulls,2014,3P Corner,0.04884
+Chicago Bulls,2014,3P Top,0.17316
+Chicago Bulls,2015,0-3 ft,0.308
+Chicago Bulls,2015,3-10 ft,0.156
+Chicago Bulls,2015,10-16 ft,0.099
+Chicago Bulls,2015,Over 16 ft,0.163
+Chicago Bulls,2015,3P Corner,0.058104
+Chicago Bulls,2015,3P Top,0.210896
+Chicago Bulls,2016,0-3 ft,0.291
+Chicago Bulls,2016,3-10 ft,0.162
+Chicago Bulls,2016,10-16 ft,0.117
+Chicago Bulls,2016,Over 16 ft,0.185
+Chicago Bulls,2016,3P Corner,0.054656
+Chicago Bulls,2016,3P Top,0.189344
+Chicago Bulls,2017,0-3 ft,0.28
+Chicago Bulls,2017,3-10 ft,0.167
+Chicago Bulls,2017,10-16 ft,0.117
+Chicago Bulls,2017,Over 16 ft,0.179
+Chicago Bulls,2017,3P Corner,0.073984
+Chicago Bulls,2017,3P Top,0.182016
+Chicago Bulls,2018,0-3 ft,0.254
+Chicago Bulls,2018,3-10 ft,0.165
+Chicago Bulls,2018,10-16 ft,0.095
+Chicago Bulls,2018,Over 16 ft,0.135
+Chicago Bulls,2018,3P Corner,0.0644
+Chicago Bulls,2018,3P Top,0.2856
+Cleveland Cavaliers,2001,0-3 ft,0.28
+Cleveland Cavaliers,2001,3-10 ft,0.201
+Cleveland Cavaliers,2001,10-16 ft,0.19
+Cleveland Cavaliers,2001,Over 16 ft,0.228
+Cleveland Cavaliers,2001,3P Corner,0.034138
+Cleveland Cavaliers,2001,3P Top,0.066862
+Cleveland Cavaliers,2002,0-3 ft,0.255
+Cleveland Cavaliers,2002,3-10 ft,0.141
+Cleveland Cavaliers,2002,10-16 ft,0.206
+Cleveland Cavaliers,2002,Over 16 ft,0.242
+Cleveland Cavaliers,2002,3P Corner,0.037128
+Cleveland Cavaliers,2002,3P Top,0.118872
+Cleveland Cavaliers,2003,0-3 ft,0.303
+Cleveland Cavaliers,2003,3-10 ft,0.159
+Cleveland Cavaliers,2003,10-16 ft,0.188
+Cleveland Cavaliers,2003,Over 16 ft,0.216
+Cleveland Cavaliers,2003,3P Corner,0.044555
+Cleveland Cavaliers,2003,3P Top,0.088445
+Cleveland Cavaliers,2004,0-3 ft,0.318
+Cleveland Cavaliers,2004,3-10 ft,0.173
+Cleveland Cavaliers,2004,10-16 ft,0.196
+Cleveland Cavaliers,2004,Over 16 ft,0.197
+Cleveland Cavaliers,2004,3P Corner,0.03364
+Cleveland Cavaliers,2004,3P Top,0.08236
+Cleveland Cavaliers,2005,0-3 ft,0.312
+Cleveland Cavaliers,2005,3-10 ft,0.161
+Cleveland Cavaliers,2005,10-16 ft,0.159
+Cleveland Cavaliers,2005,Over 16 ft,0.233
+Cleveland Cavaliers,2005,3P Corner,0.03942
+Cleveland Cavaliers,2005,3P Top,0.09558
+Cleveland Cavaliers,2006,0-3 ft,0.351
+Cleveland Cavaliers,2006,3-10 ft,0.121
+Cleveland Cavaliers,2006,10-16 ft,0.103
+Cleveland Cavaliers,2006,Over 16 ft,0.198
+Cleveland Cavaliers,2006,3P Corner,0.08322
+Cleveland Cavaliers,2006,3P Top,0.14478
+Cleveland Cavaliers,2007,0-3 ft,0.323
+Cleveland Cavaliers,2007,3-10 ft,0.129
+Cleveland Cavaliers,2007,10-16 ft,0.123
+Cleveland Cavaliers,2007,Over 16 ft,0.214
+Cleveland Cavaliers,2007,3P Corner,0.072162
+Cleveland Cavaliers,2007,3P Top,0.138838
+Cleveland Cavaliers,2008,0-3 ft,0.321
+Cleveland Cavaliers,2008,3-10 ft,0.105
+Cleveland Cavaliers,2008,10-16 ft,0.106
+Cleveland Cavaliers,2008,Over 16 ft,0.238
+Cleveland Cavaliers,2008,3P Corner,0.079695
+Cleveland Cavaliers,2008,3P Top,0.151305
+Cleveland Cavaliers,2009,0-3 ft,0.278
+Cleveland Cavaliers,2009,3-10 ft,0.101
+Cleveland Cavaliers,2009,10-16 ft,0.101
+Cleveland Cavaliers,2009,Over 16 ft,0.262
+Cleveland Cavaliers,2009,3P Corner,0.090909
+Cleveland Cavaliers,2009,3P Top,0.168091
+Cleveland Cavaliers,2010,0-3 ft,0.339
+Cleveland Cavaliers,2010,3-10 ft,0.119
+Cleveland Cavaliers,2010,10-16 ft,0.08
+Cleveland Cavaliers,2010,Over 16 ft,0.214
+Cleveland Cavaliers,2010,3P Corner,0.081592
+Cleveland Cavaliers,2010,3P Top,0.166408
+Cleveland Cavaliers,2011,0-3 ft,0.296
+Cleveland Cavaliers,2011,3-10 ft,0.179
+Cleveland Cavaliers,2011,10-16 ft,0.097
+Cleveland Cavaliers,2011,Over 16 ft,0.203
+Cleveland Cavaliers,2011,3P Corner,0.052416
+Cleveland Cavaliers,2011,3P Top,0.171584
+Cleveland Cavaliers,2012,0-3 ft,0.326
+Cleveland Cavaliers,2012,3-10 ft,0.188
+Cleveland Cavaliers,2012,10-16 ft,0.081
+Cleveland Cavaliers,2012,Over 16 ft,0.167
+Cleveland Cavaliers,2012,3P Corner,0.056168
+Cleveland Cavaliers,2012,3P Top,0.181832
+Cleveland Cavaliers,2013,0-3 ft,0.294
+Cleveland Cavaliers,2013,3-10 ft,0.174
+Cleveland Cavaliers,2013,10-16 ft,0.116
+Cleveland Cavaliers,2013,Over 16 ft,0.188
+Cleveland Cavaliers,2013,3P Corner,0.048319
+Cleveland Cavaliers,2013,3P Top,0.180681
+Cleveland Cavaliers,2014,0-3 ft,0.269
+Cleveland Cavaliers,2014,3-10 ft,0.17
+Cleveland Cavaliers,2014,10-16 ft,0.128
+Cleveland Cavaliers,2014,Over 16 ft,0.197
+Cleveland Cavaliers,2014,3P Corner,0.059472
+Cleveland Cavaliers,2014,3P Top,0.176528
+Cleveland Cavaliers,2015,0-3 ft,0.295
+Cleveland Cavaliers,2015,3-10 ft,0.156
+Cleveland Cavaliers,2015,10-16 ft,0.092
+Cleveland Cavaliers,2015,Over 16 ft,0.124
+Cleveland Cavaliers,2015,3P Corner,0.096526
+Cleveland Cavaliers,2015,3P Top,0.237474
+Cleveland Cavaliers,2016,0-3 ft,0.28
+Cleveland Cavaliers,2016,3-10 ft,0.149
+Cleveland Cavaliers,2016,10-16 ft,0.095
+Cleveland Cavaliers,2016,Over 16 ft,0.125
+Cleveland Cavaliers,2016,3P Corner,0.09152
+Cleveland Cavaliers,2016,3P Top,0.26048
+Cleveland Cavaliers,2017,0-3 ft,0.284
+Cleveland Cavaliers,2017,3-10 ft,0.11
+Cleveland Cavaliers,2017,10-16 ft,0.092
+Cleveland Cavaliers,2017,Over 16 ft,0.115
+Cleveland Cavaliers,2017,3P Corner,0.116907
+Cleveland Cavaliers,2017,3P Top,0.282093
+Cleveland Cavaliers,2018,0-3 ft,0.297
+Cleveland Cavaliers,2018,3-10 ft,0.113
+Cleveland Cavaliers,2018,10-16 ft,0.092
+Cleveland Cavaliers,2018,Over 16 ft,0.119
+Cleveland Cavaliers,2018,3P Corner,0.095508
+Cleveland Cavaliers,2018,3P Top,0.283492
+Dallas Mavericks,2001,0-3 ft,0.257
+Dallas Mavericks,2001,3-10 ft,0.165
+Dallas Mavericks,2001,10-16 ft,0.166
+Dallas Mavericks,2001,Over 16 ft,0.21
+Dallas Mavericks,2001,3P Corner,0.047268
+Dallas Mavericks,2001,3P Top,0.154732
+Dallas Mavericks,2002,0-3 ft,0.281
+Dallas Mavericks,2002,3-10 ft,0.121
+Dallas Mavericks,2002,10-16 ft,0.146
+Dallas Mavericks,2002,Over 16 ft,0.214
+Dallas Mavericks,2002,3P Corner,0.03792
+Dallas Mavericks,2002,3P Top,0.19908
+Dallas Mavericks,2003,0-3 ft,0.253
+Dallas Mavericks,2003,3-10 ft,0.131
+Dallas Mavericks,2003,10-16 ft,0.136
+Dallas Mavericks,2003,Over 16 ft,0.241
+Dallas Mavericks,2003,3P Corner,0.057838
+Dallas Mavericks,2003,3P Top,0.181162
+Dallas Mavericks,2004,0-3 ft,0.29
+Dallas Mavericks,2004,3-10 ft,0.159
+Dallas Mavericks,2004,10-16 ft,0.129
+Dallas Mavericks,2004,Over 16 ft,0.219
+Dallas Mavericks,2004,3P Corner,0.033768
+Dallas Mavericks,2004,3P Top,0.167232
+Dallas Mavericks,2005,0-3 ft,0.287
+Dallas Mavericks,2005,3-10 ft,0.132
+Dallas Mavericks,2005,10-16 ft,0.148
+Dallas Mavericks,2005,Over 16 ft,0.243
+Dallas Mavericks,2005,3P Corner,0.04598
+Dallas Mavericks,2005,3P Top,0.14402
+Dallas Mavericks,2006,0-3 ft,0.287
+Dallas Mavericks,2006,3-10 ft,0.143
+Dallas Mavericks,2006,10-16 ft,0.178
+Dallas Mavericks,2006,Over 16 ft,0.218
+Dallas Mavericks,2006,3P Corner,0.0406
+Dallas Mavericks,2006,3P Top,0.1344
+Dallas Mavericks,2007,0-3 ft,0.269
+Dallas Mavericks,2007,3-10 ft,0.104
+Dallas Mavericks,2007,10-16 ft,0.163
+Dallas Mavericks,2007,Over 16 ft,0.246
+Dallas Mavericks,2007,3P Corner,0.071504
+Dallas Mavericks,2007,3P Top,0.146496
+Dallas Mavericks,2008,0-3 ft,0.264
+Dallas Mavericks,2008,3-10 ft,0.108
+Dallas Mavericks,2008,10-16 ft,0.17
+Dallas Mavericks,2008,Over 16 ft,0.243
+Dallas Mavericks,2008,3P Corner,0.059985
+Dallas Mavericks,2008,3P Top,0.155015
+Dallas Mavericks,2009,0-3 ft,0.266
+Dallas Mavericks,2009,3-10 ft,0.089
+Dallas Mavericks,2009,10-16 ft,0.162
+Dallas Mavericks,2009,Over 16 ft,0.242
+Dallas Mavericks,2009,3P Corner,0.067962
+Dallas Mavericks,2009,3P Top,0.173038
+Dallas Mavericks,2010,0-3 ft,0.282
+Dallas Mavericks,2010,3-10 ft,0.127
+Dallas Mavericks,2010,10-16 ft,0.142
+Dallas Mavericks,2010,Over 16 ft,0.229
+Dallas Mavericks,2010,3P Corner,0.049062
+Dallas Mavericks,2010,3P Top,0.172938
+Dallas Mavericks,2011,0-3 ft,0.24
+Dallas Mavericks,2011,3-10 ft,0.162
+Dallas Mavericks,2011,10-16 ft,0.125
+Dallas Mavericks,2011,Over 16 ft,0.199
+Dallas Mavericks,2011,3P Corner,0.080282
+Dallas Mavericks,2011,3P Top,0.193718
+Dallas Mavericks,2012,0-3 ft,0.24
+Dallas Mavericks,2012,3-10 ft,0.167
+Dallas Mavericks,2012,10-16 ft,0.148
+Dallas Mavericks,2012,Over 16 ft,0.175
+Dallas Mavericks,2012,3P Corner,0.061788
+Dallas Mavericks,2012,3P Top,0.209212
+Dallas Mavericks,2013,0-3 ft,0.242
+Dallas Mavericks,2013,3-10 ft,0.179
+Dallas Mavericks,2013,10-16 ft,0.16
+Dallas Mavericks,2013,Over 16 ft,0.182
+Dallas Mavericks,2013,3P Corner,0.054752
+Dallas Mavericks,2013,3P Top,0.181248
+Dallas Mavericks,2014,0-3 ft,0.262
+Dallas Mavericks,2014,3-10 ft,0.156
+Dallas Mavericks,2014,10-16 ft,0.135
+Dallas Mavericks,2014,Over 16 ft,0.173
+Dallas Mavericks,2014,3P Corner,0.054526
+Dallas Mavericks,2014,3P Top,0.219474
+Dallas Mavericks,2015,0-3 ft,0.287
+Dallas Mavericks,2015,3-10 ft,0.142
+Dallas Mavericks,2015,10-16 ft,0.094
+Dallas Mavericks,2015,Over 16 ft,0.182
+Dallas Mavericks,2015,3P Corner,0.067784
+Dallas Mavericks,2015,3P Top,0.228216
+Dallas Mavericks,2016,0-3 ft,0.243
+Dallas Mavericks,2016,3-10 ft,0.149
+Dallas Mavericks,2016,10-16 ft,0.111
+Dallas Mavericks,2016,Over 16 ft,0.159
+Dallas Mavericks,2016,3P Corner,0.072207
+Dallas Mavericks,2016,3P Top,0.266793
+Dallas Mavericks,2017,0-3 ft,0.201
+Dallas Mavericks,2017,3-10 ft,0.127
+Dallas Mavericks,2017,10-16 ft,0.116
+Dallas Mavericks,2017,Over 16 ft,0.189
+Dallas Mavericks,2017,3P Corner,0.071736
+Dallas Mavericks,2017,3P Top,0.294264
+Dallas Mavericks,2018,0-3 ft,0.241
+Dallas Mavericks,2018,3-10 ft,0.135
+Dallas Mavericks,2018,10-16 ft,0.105
+Dallas Mavericks,2018,Over 16 ft,0.137
+Dallas Mavericks,2018,3P Corner,0.064558
+Dallas Mavericks,2018,3P Top,0.317442
+Denver Nuggets,2001,0-3 ft,0.295
+Denver Nuggets,2001,3-10 ft,0.137
+Denver Nuggets,2001,10-16 ft,0.138
+Denver Nuggets,2001,Over 16 ft,0.221
+Denver Nuggets,2001,3P Corner,0.06195
+Denver Nuggets,2001,3P Top,0.14805
+Denver Nuggets,2002,0-3 ft,0.3
+Denver Nuggets,2002,3-10 ft,0.147
+Denver Nuggets,2002,10-16 ft,0.121
+Denver Nuggets,2002,Over 16 ft,0.245
+Denver Nuggets,2002,3P Corner,0.057222
+Denver Nuggets,2002,3P Top,0.129778
+Denver Nuggets,2003,0-3 ft,0.297
+Denver Nuggets,2003,3-10 ft,0.171
+Denver Nuggets,2003,10-16 ft,0.135
+Denver Nuggets,2003,Over 16 ft,0.272
+Denver Nuggets,2003,3P Corner,0.030492
+Denver Nuggets,2003,3P Top,0.095508
+Denver Nuggets,2004,0-3 ft,0.345
+Denver Nuggets,2004,3-10 ft,0.111
+Denver Nuggets,2004,10-16 ft,0.127
+Denver Nuggets,2004,Over 16 ft,0.272
+Denver Nuggets,2004,3P Corner,0.028032
+Denver Nuggets,2004,3P Top,0.117968
+Denver Nuggets,2005,0-3 ft,0.364
+Denver Nuggets,2005,3-10 ft,0.102
+Denver Nuggets,2005,10-16 ft,0.117
+Denver Nuggets,2005,Over 16 ft,0.274
+Denver Nuggets,2005,3P Corner,0.043168
+Denver Nuggets,2005,3P Top,0.098832
+Denver Nuggets,2006,0-3 ft,0.367
+Denver Nuggets,2006,3-10 ft,0.088
+Denver Nuggets,2006,10-16 ft,0.103
+Denver Nuggets,2006,Over 16 ft,0.28
+Denver Nuggets,2006,3P Corner,0.048783
+Denver Nuggets,2006,3P Top,0.112217
+Denver Nuggets,2007,0-3 ft,0.37
+Denver Nuggets,2007,3-10 ft,0.104
+Denver Nuggets,2007,10-16 ft,0.1
+Denver Nuggets,2007,Over 16 ft,0.214
+Denver Nuggets,2007,3P Corner,0.053212
+Denver Nuggets,2007,3P Top,0.158788
+Denver Nuggets,2008,0-3 ft,0.362
+Denver Nuggets,2008,3-10 ft,0.102
+Denver Nuggets,2008,10-16 ft,0.1
+Denver Nuggets,2008,Over 16 ft,0.208
+Denver Nuggets,2008,3P Corner,0.054948
+Denver Nuggets,2008,3P Top,0.173052
+Denver Nuggets,2009,0-3 ft,0.376
+Denver Nuggets,2009,3-10 ft,0.1
+Denver Nuggets,2009,10-16 ft,0.081
+Denver Nuggets,2009,Over 16 ft,0.216
+Denver Nuggets,2009,3P Corner,0.043811
+Denver Nuggets,2009,3P Top,0.183189
+Denver Nuggets,2010,0-3 ft,0.351
+Denver Nuggets,2010,3-10 ft,0.11
+Denver Nuggets,2010,10-16 ft,0.094
+Denver Nuggets,2010,Over 16 ft,0.218
+Denver Nuggets,2010,3P Corner,0.048578
+Denver Nuggets,2010,3P Top,0.178422
+Denver Nuggets,2011,0-3 ft,0.349
+Denver Nuggets,2011,3-10 ft,0.133
+Denver Nuggets,2011,10-16 ft,0.074
+Denver Nuggets,2011,Over 16 ft,0.186
+Denver Nuggets,2011,3P Corner,0.073788
+Denver Nuggets,2011,3P Top,0.184212
+Denver Nuggets,2012,0-3 ft,0.404
+Denver Nuggets,2012,3-10 ft,0.151
+Denver Nuggets,2012,10-16 ft,0.077
+Denver Nuggets,2012,Over 16 ft,0.125
+Denver Nuggets,2012,3P Corner,0.076059
+Denver Nuggets,2012,3P Top,0.166941
+Denver Nuggets,2013,0-3 ft,0.415
+Denver Nuggets,2013,3-10 ft,0.172
+Denver Nuggets,2013,10-16 ft,0.08
+Denver Nuggets,2013,Over 16 ft,0.115
+Denver Nuggets,2013,3P Corner,0.074865
+Denver Nuggets,2013,3P Top,0.142135
+Denver Nuggets,2014,0-3 ft,0.309
+Denver Nuggets,2014,3-10 ft,0.182
+Denver Nuggets,2014,10-16 ft,0.08
+Denver Nuggets,2014,Over 16 ft,0.15
+Denver Nuggets,2014,3P Corner,0.06672
+Denver Nuggets,2014,3P Top,0.21128
+Denver Nuggets,2015,0-3 ft,0.297
+Denver Nuggets,2015,3-10 ft,0.177
+Denver Nuggets,2015,10-16 ft,0.09
+Denver Nuggets,2015,Over 16 ft,0.151
+Denver Nuggets,2015,3P Corner,0.067024
+Denver Nuggets,2015,3P Top,0.216976
+Denver Nuggets,2016,0-3 ft,0.342
+Denver Nuggets,2016,3-10 ft,0.158
+Denver Nuggets,2016,10-16 ft,0.08
+Denver Nuggets,2016,Over 16 ft,0.142
+Denver Nuggets,2016,3P Corner,0.05817
+Denver Nuggets,2016,3P Top,0.21883
+Denver Nuggets,2017,0-3 ft,0.33
+Denver Nuggets,2017,3-10 ft,0.156
+Denver Nuggets,2017,10-16 ft,0.078
+Denver Nuggets,2017,Over 16 ft,0.108
+Denver Nuggets,2017,3P Corner,0.063168
+Denver Nuggets,2017,3P Top,0.265832
+Denver Nuggets,2018,0-3 ft,0.275
+Denver Nuggets,2018,3-10 ft,0.204
+Denver Nuggets,2018,10-16 ft,0.09
+Denver Nuggets,2018,Over 16 ft,0.074
+Denver Nuggets,2018,3P Corner,0.059619
+Denver Nuggets,2018,3P Top,0.297381
+Detroit Pistons,2001,0-3 ft,0.295
+Detroit Pistons,2001,3-10 ft,0.109
+Detroit Pistons,2001,10-16 ft,0.15
+Detroit Pistons,2001,Over 16 ft,0.284
+Detroit Pistons,2001,3P Corner,0.044874
+Detroit Pistons,2001,3P Top,0.117126
+Detroit Pistons,2002,0-3 ft,0.283
+Detroit Pistons,2002,3-10 ft,0.124
+Detroit Pistons,2002,10-16 ft,0.146
+Detroit Pistons,2002,Over 16 ft,0.207
+Detroit Pistons,2002,3P Corner,0.07344
+Detroit Pistons,2002,3P Top,0.16656
+Detroit Pistons,2003,0-3 ft,0.264
+Detroit Pistons,2003,3-10 ft,0.135
+Detroit Pistons,2003,10-16 ft,0.145
+Detroit Pistons,2003,Over 16 ft,0.219
+Detroit Pistons,2003,3P Corner,0.057117
+Detroit Pistons,2003,3P Top,0.179883
+Detroit Pistons,2004,0-3 ft,0.34
+Detroit Pistons,2004,3-10 ft,0.153
+Detroit Pistons,2004,10-16 ft,0.175
+Detroit Pistons,2004,Over 16 ft,0.179
+Detroit Pistons,2004,3P Corner,0.039321
+Detroit Pistons,2004,3P Top,0.113679
+Detroit Pistons,2005,0-3 ft,0.321
+Detroit Pistons,2005,3-10 ft,0.117
+Detroit Pistons,2005,10-16 ft,0.183
+Detroit Pistons,2005,Over 16 ft,0.215
+Detroit Pistons,2005,3P Corner,0.044772
+Detroit Pistons,2005,3P Top,0.119228
+Detroit Pistons,2006,0-3 ft,0.269
+Detroit Pistons,2006,3-10 ft,0.086
+Detroit Pistons,2006,10-16 ft,0.174
+Detroit Pistons,2006,Over 16 ft,0.249
+Detroit Pistons,2006,3P Corner,0.064753
+Detroit Pistons,2006,3P Top,0.156247
+Detroit Pistons,2007,0-3 ft,0.291
+Detroit Pistons,2007,3-10 ft,0.11
+Detroit Pistons,2007,10-16 ft,0.182
+Detroit Pistons,2007,Over 16 ft,0.216
+Detroit Pistons,2007,3P Corner,0.063918
+Detroit Pistons,2007,3P Top,0.137082
+Detroit Pistons,2008,0-3 ft,0.265
+Detroit Pistons,2008,3-10 ft,0.085
+Detroit Pistons,2008,10-16 ft,0.153
+Detroit Pistons,2008,Over 16 ft,0.295
+Detroit Pistons,2008,3P Corner,0.052577
+Detroit Pistons,2008,3P Top,0.150423
+Detroit Pistons,2009,0-3 ft,0.284
+Detroit Pistons,2009,3-10 ft,0.091
+Detroit Pistons,2009,10-16 ft,0.156
+Detroit Pistons,2009,Over 16 ft,0.304
+Detroit Pistons,2009,3P Corner,0.0627
+Detroit Pistons,2009,3P Top,0.1023
+Detroit Pistons,2010,0-3 ft,0.319
+Detroit Pistons,2010,3-10 ft,0.125
+Detroit Pistons,2010,10-16 ft,0.145
+Detroit Pistons,2010,Over 16 ft,0.23
+Detroit Pistons,2010,3P Corner,0.05796
+Detroit Pistons,2010,3P Top,0.12204
+Detroit Pistons,2011,0-3 ft,0.307
+Detroit Pistons,2011,3-10 ft,0.15
+Detroit Pistons,2011,10-16 ft,0.132
+Detroit Pistons,2011,Over 16 ft,0.222
+Detroit Pistons,2011,3P Corner,0.068985
+Detroit Pistons,2011,3P Top,0.120015
+Detroit Pistons,2012,0-3 ft,0.329
+Detroit Pistons,2012,3-10 ft,0.172
+Detroit Pistons,2012,10-16 ft,0.107
+Detroit Pistons,2012,Over 16 ft,0.216
+Detroit Pistons,2012,3P Corner,0.041825
+Detroit Pistons,2012,3P Top,0.133175
+Detroit Pistons,2013,0-3 ft,0.37
+Detroit Pistons,2013,3-10 ft,0.172
+Detroit Pistons,2013,10-16 ft,0.072
+Detroit Pistons,2013,Over 16 ft,0.169
+Detroit Pistons,2013,3P Corner,0.057939
+Detroit Pistons,2013,3P Top,0.159061
+Detroit Pistons,2014,0-3 ft,0.356
+Detroit Pistons,2014,3-10 ft,0.197
+Detroit Pistons,2014,10-16 ft,0.068
+Detroit Pistons,2014,Over 16 ft,0.157
+Detroit Pistons,2014,3P Corner,0.055722
+Detroit Pistons,2014,3P Top,0.166278
+Detroit Pistons,2015,0-3 ft,0.323
+Detroit Pistons,2015,3-10 ft,0.192
+Detroit Pistons,2015,10-16 ft,0.065
+Detroit Pistons,2015,Over 16 ft,0.128
+Detroit Pistons,2015,3P Corner,0.0696
+Detroit Pistons,2015,3P Top,0.2204
+Detroit Pistons,2016,0-3 ft,0.294
+Detroit Pistons,2016,3-10 ft,0.184
+Detroit Pistons,2016,10-16 ft,0.104
+Detroit Pistons,2016,Over 16 ft,0.116
+Detroit Pistons,2016,3P Corner,0.076962
+Detroit Pistons,2016,3P Top,0.226038
+Detroit Pistons,2017,0-3 ft,0.25
+Detroit Pistons,2017,3-10 ft,0.189
+Detroit Pistons,2017,10-16 ft,0.141
+Detroit Pistons,2017,Over 16 ft,0.157
+Detroit Pistons,2017,3P Corner,0.053389
+Detroit Pistons,2017,3P Top,0.209611
+Detroit Pistons,2018,0-3 ft,0.26
+Detroit Pistons,2018,3-10 ft,0.185
+Detroit Pistons,2018,10-16 ft,0.107
+Detroit Pistons,2018,Over 16 ft,0.116
+Detroit Pistons,2018,3P Corner,0.075591
+Detroit Pistons,2018,3P Top,0.257409
+Golden State Warriors,2001,0-3 ft,0.24
+Golden State Warriors,2001,3-10 ft,0.226
+Golden State Warriors,2001,10-16 ft,0.159
+Golden State Warriors,2001,Over 16 ft,0.241
+Golden State Warriors,2001,3P Corner,0.026398
+Golden State Warriors,2001,3P Top,0.107602
+Golden State Warriors,2002,0-3 ft,0.297
+Golden State Warriors,2002,3-10 ft,0.235
+Golden State Warriors,2002,10-16 ft,0.111
+Golden State Warriors,2002,Over 16 ft,0.215
+Golden State Warriors,2002,3P Corner,0.027406
+Golden State Warriors,2002,3P Top,0.114594
+Golden State Warriors,2003,0-3 ft,0.271
+Golden State Warriors,2003,3-10 ft,0.207
+Golden State Warriors,2003,10-16 ft,0.123
+Golden State Warriors,2003,Over 16 ft,0.222
+Golden State Warriors,2003,3P Corner,0.038626
+Golden State Warriors,2003,3P Top,0.139374
+Golden State Warriors,2004,0-3 ft,0.272
+Golden State Warriors,2004,3-10 ft,0.196
+Golden State Warriors,2004,10-16 ft,0.117
+Golden State Warriors,2004,Over 16 ft,0.218
+Golden State Warriors,2004,3P Corner,0.050038
+Golden State Warriors,2004,3P Top,0.146962
+Golden State Warriors,2005,0-3 ft,0.254
+Golden State Warriors,2005,3-10 ft,0.155
+Golden State Warriors,2005,10-16 ft,0.092
+Golden State Warriors,2005,Over 16 ft,0.248
+Golden State Warriors,2005,3P Corner,0.061992
+Golden State Warriors,2005,3P Top,0.190008
+Golden State Warriors,2006,0-3 ft,0.283
+Golden State Warriors,2006,3-10 ft,0.152
+Golden State Warriors,2006,10-16 ft,0.083
+Golden State Warriors,2006,Over 16 ft,0.211
+Golden State Warriors,2006,3P Corner,0.07209
+Golden State Warriors,2006,3P Top,0.19791
+Golden State Warriors,2007,0-3 ft,0.338
+Golden State Warriors,2007,3-10 ft,0.135
+Golden State Warriors,2007,10-16 ft,0.077
+Golden State Warriors,2007,Over 16 ft,0.172
+Golden State Warriors,2007,3P Corner,0.094581
+Golden State Warriors,2007,3P Top,0.184419
+Golden State Warriors,2008,0-3 ft,0.345
+Golden State Warriors,2008,3-10 ft,0.121
+Golden State Warriors,2008,10-16 ft,0.068
+Golden State Warriors,2008,Over 16 ft,0.171
+Golden State Warriors,2008,3P Corner,0.072275
+Golden State Warriors,2008,3P Top,0.222725
+Golden State Warriors,2009,0-3 ft,0.308
+Golden State Warriors,2009,3-10 ft,0.138
+Golden State Warriors,2009,10-16 ft,0.092
+Golden State Warriors,2009,Over 16 ft,0.252
+Golden State Warriors,2009,3P Corner,0.046816
+Golden State Warriors,2009,3P Top,0.162184
+Golden State Warriors,2010,0-3 ft,0.298
+Golden State Warriors,2010,3-10 ft,0.113
+Golden State Warriors,2010,10-16 ft,0.095
+Golden State Warriors,2010,Over 16 ft,0.256
+Golden State Warriors,2010,3P Corner,0.060214
+Golden State Warriors,2010,3P Top,0.177786
+Golden State Warriors,2011,0-3 ft,0.276
+Golden State Warriors,2011,3-10 ft,0.169
+Golden State Warriors,2011,10-16 ft,0.093
+Golden State Warriors,2011,Over 16 ft,0.214
+Golden State Warriors,2011,3P Corner,0.07316
+Golden State Warriors,2011,3P Top,0.17484
+Golden State Warriors,2012,0-3 ft,0.259
+Golden State Warriors,2012,3-10 ft,0.166
+Golden State Warriors,2012,10-16 ft,0.091
+Golden State Warriors,2012,Over 16 ft,0.236
+Golden State Warriors,2012,3P Corner,0.067952
+Golden State Warriors,2012,3P Top,0.180048
+Golden State Warriors,2013,0-3 ft,0.242
+Golden State Warriors,2013,3-10 ft,0.173
+Golden State Warriors,2013,10-16 ft,0.118
+Golden State Warriors,2013,Over 16 ft,0.229
+Golden State Warriors,2013,3P Corner,0.054014
+Golden State Warriors,2013,3P Top,0.184986
+Golden State Warriors,2014,0-3 ft,0.264
+Golden State Warriors,2014,3-10 ft,0.176
+Golden State Warriors,2014,10-16 ft,0.1
+Golden State Warriors,2014,Over 16 ft,0.169
+Golden State Warriors,2014,3P Corner,0.06984
+Golden State Warriors,2014,3P Top,0.22116
+Golden State Warriors,2015,0-3 ft,0.286
+Golden State Warriors,2015,3-10 ft,0.145
+Golden State Warriors,2015,10-16 ft,0.104
+Golden State Warriors,2015,Over 16 ft,0.154
+Golden State Warriors,2015,3P Corner,0.068731
+Golden State Warriors,2015,3P Top,0.242269
+Golden State Warriors,2016,0-3 ft,0.301
+Golden State Warriors,2016,3-10 ft,0.125
+Golden State Warriors,2016,10-16 ft,0.093
+Golden State Warriors,2016,Over 16 ft,0.119
+Golden State Warriors,2016,3P Corner,0.082898
+Golden State Warriors,2016,3P Top,0.279102
+Golden State Warriors,2017,0-3 ft,0.303
+Golden State Warriors,2017,3-10 ft,0.102
+Golden State Warriors,2017,10-16 ft,0.107
+Golden State Warriors,2017,Over 16 ft,0.129
+Golden State Warriors,2017,3P Corner,0.074672
+Golden State Warriors,2017,3P Top,0.284328
+Golden State Warriors,2018,0-3 ft,0.267
+Golden State Warriors,2018,3-10 ft,0.111
+Golden State Warriors,2018,10-16 ft,0.139
+Golden State Warriors,2018,Over 16 ft,0.144
+Golden State Warriors,2018,3P Corner,0.053562
+Golden State Warriors,2018,3P Top,0.285438
+Houston Rockets,2001,0-3 ft,0.306
+Houston Rockets,2001,3-10 ft,0.141
+Houston Rockets,2001,10-16 ft,0.133
+Houston Rockets,2001,Over 16 ft,0.204
+Houston Rockets,2001,3P Corner,0.055118
+Houston Rockets,2001,3P Top,0.161882
+Houston Rockets,2002,0-3 ft,0.295
+Houston Rockets,2002,3-10 ft,0.108
+Houston Rockets,2002,10-16 ft,0.103
+Houston Rockets,2002,Over 16 ft,0.271
+Houston Rockets,2002,3P Corner,0.053743
+Houston Rockets,2002,3P Top,0.169257
+Houston Rockets,2003,0-3 ft,0.305
+Houston Rockets,2003,3-10 ft,0.145
+Houston Rockets,2003,10-16 ft,0.126
+Houston Rockets,2003,Over 16 ft,0.229
+Houston Rockets,2003,3P Corner,0.04704
+Houston Rockets,2003,3P Top,0.14896
+Houston Rockets,2004,0-3 ft,0.268
+Houston Rockets,2004,3-10 ft,0.153
+Houston Rockets,2004,10-16 ft,0.141
+Houston Rockets,2004,Over 16 ft,0.211
+Houston Rockets,2004,3P Corner,0.071505
+Houston Rockets,2004,3P Top,0.155495
+Houston Rockets,2005,0-3 ft,0.254
+Houston Rockets,2005,3-10 ft,0.134
+Houston Rockets,2005,10-16 ft,0.119
+Houston Rockets,2005,Over 16 ft,0.256
+Houston Rockets,2005,3P Corner,0.065649
+Houston Rockets,2005,3P Top,0.171351
+Houston Rockets,2006,0-3 ft,0.281
+Houston Rockets,2006,3-10 ft,0.151
+Houston Rockets,2006,10-16 ft,0.118
+Houston Rockets,2006,Over 16 ft,0.225
+Houston Rockets,2006,3P Corner,0.05876
+Houston Rockets,2006,3P Top,0.16724
+Houston Rockets,2007,0-3 ft,0.276
+Houston Rockets,2007,3-10 ft,0.145
+Houston Rockets,2007,10-16 ft,0.104
+Houston Rockets,2007,Over 16 ft,0.185
+Houston Rockets,2007,3P Corner,0.07801
+Houston Rockets,2007,3P Top,0.21199
+Houston Rockets,2008,0-3 ft,0.315
+Houston Rockets,2008,3-10 ft,0.127
+Houston Rockets,2008,10-16 ft,0.096
+Houston Rockets,2008,Over 16 ft,0.206
+Houston Rockets,2008,3P Corner,0.05202
+Houston Rockets,2008,3P Top,0.20298
+Houston Rockets,2009,0-3 ft,0.309
+Houston Rockets,2009,3-10 ft,0.16
+Houston Rockets,2009,10-16 ft,0.111
+Houston Rockets,2009,Over 16 ft,0.166
+Houston Rockets,2009,3P Corner,0.049276
+Houston Rockets,2009,3P Top,0.204724
+Houston Rockets,2010,0-3 ft,0.346
+Houston Rockets,2010,3-10 ft,0.134
+Houston Rockets,2010,10-16 ft,0.089
+Houston Rockets,2010,Over 16 ft,0.165
+Houston Rockets,2010,3P Corner,0.0636
+Houston Rockets,2010,3P Top,0.2014
+Houston Rockets,2011,0-3 ft,0.263
+Houston Rockets,2011,3-10 ft,0.203
+Houston Rockets,2011,10-16 ft,0.092
+Houston Rockets,2011,Over 16 ft,0.177
+Houston Rockets,2011,3P Corner,0.059928
+Houston Rockets,2011,3P Top,0.204072
+Houston Rockets,2012,0-3 ft,0.25
+Houston Rockets,2012,3-10 ft,0.202
+Houston Rockets,2012,10-16 ft,0.12
+Houston Rockets,2012,Over 16 ft,0.189
+Houston Rockets,2012,3P Corner,0.06888
+Houston Rockets,2012,3P Top,0.17112
+Houston Rockets,2013,0-3 ft,0.341
+Houston Rockets,2013,3-10 ft,0.156
+Houston Rockets,2013,10-16 ft,0.048
+Houston Rockets,2013,Over 16 ft,0.106
+Houston Rockets,2013,3P Corner,0.10121
+Houston Rockets,2013,3P Top,0.24779
+Houston Rockets,2014,0-3 ft,0.341
+Houston Rockets,2014,3-10 ft,0.214
+Houston Rockets,2014,10-16 ft,0.049
+Houston Rockets,2014,Over 16 ft,0.065
+Houston Rockets,2014,3P Corner,0.0759
+Houston Rockets,2014,3P Top,0.2541
+Houston Rockets,2015,0-3 ft,0.309
+Houston Rockets,2015,3-10 ft,0.184
+Houston Rockets,2015,10-16 ft,0.047
+Houston Rockets,2015,Over 16 ft,0.068
+Houston Rockets,2015,3P Corner,0.128184
+Houston Rockets,2015,3P Top,0.263816
+Houston Rockets,2016,0-3 ft,0.321
+Houston Rockets,2016,3-10 ft,0.164
+Houston Rockets,2016,10-16 ft,0.064
+Houston Rockets,2016,Over 16 ft,0.082
+Houston Rockets,2016,3P Corner,0.11359
+Houston Rockets,2016,3P Top,0.25641
+Houston Rockets,2017,0-3 ft,0.321
+Houston Rockets,2017,3-10 ft,0.125
+Houston Rockets,2017,10-16 ft,0.041
+Houston Rockets,2017,Over 16 ft,0.05
+Houston Rockets,2017,3P Corner,0.092862
+Houston Rockets,2017,3P Top,0.369138
+Houston Rockets,2018,0-3 ft,0.288
+Houston Rockets,2018,3-10 ft,0.103
+Houston Rockets,2018,10-16 ft,0.062
+Houston Rockets,2018,Over 16 ft,0.044
+Houston Rockets,2018,3P Corner,0.113954
+Houston Rockets,2018,3P Top,0.388046
+Indiana Pacers,2001,0-3 ft,0.221
+Indiana Pacers,2001,3-10 ft,0.201
+Indiana Pacers,2001,10-16 ft,0.157
+Indiana Pacers,2001,Over 16 ft,0.241
+Indiana Pacers,2001,3P Corner,0.05922
+Indiana Pacers,2001,3P Top,0.12078
+Indiana Pacers,2002,0-3 ft,0.236
+Indiana Pacers,2002,3-10 ft,0.193
+Indiana Pacers,2002,10-16 ft,0.168
+Indiana Pacers,2002,Over 16 ft,0.222
+Indiana Pacers,2002,3P Corner,0.052416
+Indiana Pacers,2002,3P Top,0.129584
+Indiana Pacers,2003,0-3 ft,0.278
+Indiana Pacers,2003,3-10 ft,0.163
+Indiana Pacers,2003,10-16 ft,0.163
+Indiana Pacers,2003,Over 16 ft,0.226
+Indiana Pacers,2003,3P Corner,0.037518
+Indiana Pacers,2003,3P Top,0.131482
+Indiana Pacers,2004,0-3 ft,0.288
+Indiana Pacers,2004,3-10 ft,0.156
+Indiana Pacers,2004,10-16 ft,0.157
+Indiana Pacers,2004,Over 16 ft,0.196
+Indiana Pacers,2004,3P Corner,0.06699
+Indiana Pacers,2004,3P Top,0.13601
+Indiana Pacers,2005,0-3 ft,0.27
+Indiana Pacers,2005,3-10 ft,0.14
+Indiana Pacers,2005,10-16 ft,0.137
+Indiana Pacers,2005,Over 16 ft,0.199
+Indiana Pacers,2005,3P Corner,0.06936
+Indiana Pacers,2005,3P Top,0.18564
+Indiana Pacers,2006,0-3 ft,0.283
+Indiana Pacers,2006,3-10 ft,0.141
+Indiana Pacers,2006,10-16 ft,0.133
+Indiana Pacers,2006,Over 16 ft,0.198
+Indiana Pacers,2006,3P Corner,0.058555
+Indiana Pacers,2006,3P Top,0.186445
+Indiana Pacers,2007,0-3 ft,0.272
+Indiana Pacers,2007,3-10 ft,0.158
+Indiana Pacers,2007,10-16 ft,0.146
+Indiana Pacers,2007,Over 16 ft,0.213
+Indiana Pacers,2007,3P Corner,0.057028
+Indiana Pacers,2007,3P Top,0.154972
+Indiana Pacers,2008,0-3 ft,0.246
+Indiana Pacers,2008,3-10 ft,0.138
+Indiana Pacers,2008,10-16 ft,0.111
+Indiana Pacers,2008,Over 16 ft,0.216
+Indiana Pacers,2008,3P Corner,0.054332
+Indiana Pacers,2008,3P Top,0.234668
+Indiana Pacers,2009,0-3 ft,0.295
+Indiana Pacers,2009,3-10 ft,0.135
+Indiana Pacers,2009,10-16 ft,0.103
+Indiana Pacers,2009,Over 16 ft,0.223
+Indiana Pacers,2009,3P Corner,0.042456
+Indiana Pacers,2009,3P Top,0.201544
+Indiana Pacers,2010,0-3 ft,0.28
+Indiana Pacers,2010,3-10 ft,0.135
+Indiana Pacers,2010,10-16 ft,0.098
+Indiana Pacers,2010,Over 16 ft,0.209
+Indiana Pacers,2010,3P Corner,0.052542
+Indiana Pacers,2010,3P Top,0.225458
+Indiana Pacers,2011,0-3 ft,0.245
+Indiana Pacers,2011,3-10 ft,0.182
+Indiana Pacers,2011,10-16 ft,0.116
+Indiana Pacers,2011,Over 16 ft,0.213
+Indiana Pacers,2011,3P Corner,0.049532
+Indiana Pacers,2011,3P Top,0.194468
+Indiana Pacers,2012,0-3 ft,0.269
+Indiana Pacers,2012,3-10 ft,0.219
+Indiana Pacers,2012,10-16 ft,0.127
+Indiana Pacers,2012,Over 16 ft,0.187
+Indiana Pacers,2012,3P Corner,0.054846
+Indiana Pacers,2012,3P Top,0.143154
+Indiana Pacers,2013,0-3 ft,0.271
+Indiana Pacers,2013,3-10 ft,0.19
+Indiana Pacers,2013,10-16 ft,0.116
+Indiana Pacers,2013,Over 16 ft,0.178
+Indiana Pacers,2013,3P Corner,0.061495
+Indiana Pacers,2013,3P Top,0.183505
+Indiana Pacers,2014,0-3 ft,0.249
+Indiana Pacers,2014,3-10 ft,0.188
+Indiana Pacers,2014,10-16 ft,0.124
+Indiana Pacers,2014,Over 16 ft,0.205
+Indiana Pacers,2014,3P Corner,0.05781
+Indiana Pacers,2014,3P Top,0.17719
+Indiana Pacers,2015,0-3 ft,0.244
+Indiana Pacers,2015,3-10 ft,0.173
+Indiana Pacers,2015,10-16 ft,0.105
+Indiana Pacers,2015,Over 16 ft,0.222
+Indiana Pacers,2015,3P Corner,0.06783
+Indiana Pacers,2015,3P Top,0.18717
+Indiana Pacers,2016,0-3 ft,0.27
+Indiana Pacers,2016,3-10 ft,0.133
+Indiana Pacers,2016,10-16 ft,0.108
+Indiana Pacers,2016,Over 16 ft,0.219
+Indiana Pacers,2016,3P Corner,0.07371
+Indiana Pacers,2016,3P Top,0.19629
+Indiana Pacers,2017,0-3 ft,0.241
+Indiana Pacers,2017,3-10 ft,0.186
+Indiana Pacers,2017,10-16 ft,0.107
+Indiana Pacers,2017,Over 16 ft,0.194
+Indiana Pacers,2017,3P Corner,0.070176
+Indiana Pacers,2017,3P Top,0.201824
+Indiana Pacers,2018,0-3 ft,0.293
+Indiana Pacers,2018,3-10 ft,0.136
+Indiana Pacers,2018,10-16 ft,0.096
+Indiana Pacers,2018,Over 16 ft,0.191
+Indiana Pacers,2018,3P Corner,0.06248
+Indiana Pacers,2018,3P Top,0.22152
+Los Angeles Clippers,2001,0-3 ft,0.273
+Los Angeles Clippers,2001,3-10 ft,0.226
+Los Angeles Clippers,2001,10-16 ft,0.152
+Los Angeles Clippers,2001,Over 16 ft,0.184
+Los Angeles Clippers,2001,3P Corner,0.02542
+Los Angeles Clippers,2001,3P Top,0.13858
+Los Angeles Clippers,2002,0-3 ft,0.261
+Los Angeles Clippers,2002,3-10 ft,0.23
+Los Angeles Clippers,2002,10-16 ft,0.184
+Los Angeles Clippers,2002,Over 16 ft,0.153
+Los Angeles Clippers,2002,3P Corner,0.019436
+Los Angeles Clippers,2002,3P Top,0.152564
+Los Angeles Clippers,2003,0-3 ft,0.317
+Los Angeles Clippers,2003,3-10 ft,0.194
+Los Angeles Clippers,2003,10-16 ft,0.137
+Los Angeles Clippers,2003,Over 16 ft,0.17
+Los Angeles Clippers,2003,3P Corner,0.027664
+Los Angeles Clippers,2003,3P Top,0.154336
+Los Angeles Clippers,2004,0-3 ft,0.341
+Los Angeles Clippers,2004,3-10 ft,0.155
+Los Angeles Clippers,2004,10-16 ft,0.13
+Los Angeles Clippers,2004,Over 16 ft,0.218
+Los Angeles Clippers,2004,3P Corner,0.02106
+Los Angeles Clippers,2004,3P Top,0.13494
+Los Angeles Clippers,2005,0-3 ft,0.298
+Los Angeles Clippers,2005,3-10 ft,0.151
+Los Angeles Clippers,2005,10-16 ft,0.156
+Los Angeles Clippers,2005,Over 16 ft,0.29
+Los Angeles Clippers,2005,3P Corner,0.03171
+Los Angeles Clippers,2005,3P Top,0.07329
+Los Angeles Clippers,2006,0-3 ft,0.248
+Los Angeles Clippers,2006,3-10 ft,0.174
+Los Angeles Clippers,2006,10-16 ft,0.206
+Los Angeles Clippers,2006,Over 16 ft,0.242
+Los Angeles Clippers,2006,3P Corner,0.028427
+Los Angeles Clippers,2006,3P Top,0.102573
+Los Angeles Clippers,2007,0-3 ft,0.252
+Los Angeles Clippers,2007,3-10 ft,0.157
+Los Angeles Clippers,2007,10-16 ft,0.194
+Los Angeles Clippers,2007,Over 16 ft,0.255
+Los Angeles Clippers,2007,3P Corner,0.025883
+Los Angeles Clippers,2007,3P Top,0.117117
+Los Angeles Clippers,2008,0-3 ft,0.261
+Los Angeles Clippers,2008,3-10 ft,0.128
+Los Angeles Clippers,2008,10-16 ft,0.153
+Los Angeles Clippers,2008,Over 16 ft,0.291
+Los Angeles Clippers,2008,3P Corner,0.025217
+Los Angeles Clippers,2008,3P Top,0.141783
+Los Angeles Clippers,2009,0-3 ft,0.336
+Los Angeles Clippers,2009,3-10 ft,0.119
+Los Angeles Clippers,2009,10-16 ft,0.102
+Los Angeles Clippers,2009,Over 16 ft,0.218
+Los Angeles Clippers,2009,3P Corner,0.04068
+Los Angeles Clippers,2009,3P Top,0.18532
+Los Angeles Clippers,2010,0-3 ft,0.341
+Los Angeles Clippers,2010,3-10 ft,0.113
+Los Angeles Clippers,2010,10-16 ft,0.117
+Los Angeles Clippers,2010,Over 16 ft,0.208
+Los Angeles Clippers,2010,3P Corner,0.049725
+Los Angeles Clippers,2010,3P Top,0.171275
+Los Angeles Clippers,2011,0-3 ft,0.307
+Los Angeles Clippers,2011,3-10 ft,0.199
+Los Angeles Clippers,2011,10-16 ft,0.081
+Los Angeles Clippers,2011,Over 16 ft,0.183
+Los Angeles Clippers,2011,3P Corner,0.05842
+Los Angeles Clippers,2011,3P Top,0.17158
+Los Angeles Clippers,2012,0-3 ft,0.256
+Los Angeles Clippers,2012,3-10 ft,0.159
+Los Angeles Clippers,2012,10-16 ft,0.083
+Los Angeles Clippers,2012,Over 16 ft,0.234
+Los Angeles Clippers,2012,3P Corner,0.077472
+Los Angeles Clippers,2012,3P Top,0.191528
+Los Angeles Clippers,2013,0-3 ft,0.281
+Los Angeles Clippers,2013,3-10 ft,0.17
+Los Angeles Clippers,2013,10-16 ft,0.089
+Los Angeles Clippers,2013,Over 16 ft,0.195
+Los Angeles Clippers,2013,3P Corner,0.08851
+Los Angeles Clippers,2013,3P Top,0.17649
+Los Angeles Clippers,2014,0-3 ft,0.267
+Los Angeles Clippers,2014,3-10 ft,0.137
+Los Angeles Clippers,2014,10-16 ft,0.097
+Los Angeles Clippers,2014,Over 16 ft,0.208
+Los Angeles Clippers,2014,3P Corner,0.083226
+Los Angeles Clippers,2014,3P Top,0.207774
+Los Angeles Clippers,2015,0-3 ft,0.241
+Los Angeles Clippers,2015,3-10 ft,0.119
+Los Angeles Clippers,2015,10-16 ft,0.096
+Los Angeles Clippers,2015,Over 16 ft,0.217
+Los Angeles Clippers,2015,3P Corner,0.085008
+Los Angeles Clippers,2015,3P Top,0.236992
+Los Angeles Clippers,2016,0-3 ft,0.239
+Los Angeles Clippers,2016,3-10 ft,0.129
+Los Angeles Clippers,2016,10-16 ft,0.093
+Los Angeles Clippers,2016,Over 16 ft,0.215
+Los Angeles Clippers,2016,3P Corner,0.073224
+Los Angeles Clippers,2016,3P Top,0.250776
+Los Angeles Clippers,2017,0-3 ft,0.275
+Los Angeles Clippers,2017,3-10 ft,0.118
+Los Angeles Clippers,2017,10-16 ft,0.081
+Los Angeles Clippers,2017,Over 16 ft,0.197
+Los Angeles Clippers,2017,3P Corner,0.065142
+Los Angeles Clippers,2017,3P Top,0.263858
+Los Angeles Clippers,2018,0-3 ft,0.347
+Los Angeles Clippers,2018,3-10 ft,0.164
+Los Angeles Clippers,2018,10-16 ft,0.083
+Los Angeles Clippers,2018,Over 16 ft,0.091
+Los Angeles Clippers,2018,3P Corner,0.068766
+Los Angeles Clippers,2018,3P Top,0.245234
+Los Angeles Lakers,2001,0-3 ft,0.285
+Los Angeles Lakers,2001,3-10 ft,0.186
+Los Angeles Lakers,2001,10-16 ft,0.137
+Los Angeles Lakers,2001,Over 16 ft,0.201
+Los Angeles Lakers,2001,3P Corner,0.03247
+Los Angeles Lakers,2001,3P Top,0.15853
+Los Angeles Lakers,2002,0-3 ft,0.28
+Los Angeles Lakers,2002,3-10 ft,0.167
+Los Angeles Lakers,2002,10-16 ft,0.137
+Los Angeles Lakers,2002,Over 16 ft,0.206
+Los Angeles Lakers,2002,3P Corner,0.05397
+Los Angeles Lakers,2002,3P Top,0.15603
+Los Angeles Lakers,2003,0-3 ft,0.283
+Los Angeles Lakers,2003,3-10 ft,0.158
+Los Angeles Lakers,2003,10-16 ft,0.133
+Los Angeles Lakers,2003,Over 16 ft,0.225
+Los Angeles Lakers,2003,3P Corner,0.048158
+Los Angeles Lakers,2003,3P Top,0.150842
+Los Angeles Lakers,2004,0-3 ft,0.326
+Los Angeles Lakers,2004,3-10 ft,0.143
+Los Angeles Lakers,2004,10-16 ft,0.126
+Los Angeles Lakers,2004,Over 16 ft,0.238
+Los Angeles Lakers,2004,3P Corner,0.039913
+Los Angeles Lakers,2004,3P Top,0.127087
+Los Angeles Lakers,2005,0-3 ft,0.329
+Los Angeles Lakers,2005,3-10 ft,0.118
+Los Angeles Lakers,2005,10-16 ft,0.092
+Los Angeles Lakers,2005,Over 16 ft,0.188
+Los Angeles Lakers,2005,3P Corner,0.06825
+Los Angeles Lakers,2005,3P Top,0.20475
+Los Angeles Lakers,2006,0-3 ft,0.304
+Los Angeles Lakers,2006,3-10 ft,0.121
+Los Angeles Lakers,2006,10-16 ft,0.106
+Los Angeles Lakers,2006,Over 16 ft,0.229
+Los Angeles Lakers,2006,3P Corner,0.04464
+Los Angeles Lakers,2006,3P Top,0.19536
+Los Angeles Lakers,2007,0-3 ft,0.326
+Los Angeles Lakers,2007,3-10 ft,0.122
+Los Angeles Lakers,2007,10-16 ft,0.096
+Los Angeles Lakers,2007,Over 16 ft,0.196
+Los Angeles Lakers,2007,3P Corner,0.059311
+Los Angeles Lakers,2007,3P Top,0.199689
+Los Angeles Lakers,2008,0-3 ft,0.328
+Los Angeles Lakers,2008,3-10 ft,0.109
+Los Angeles Lakers,2008,10-16 ft,0.093
+Los Angeles Lakers,2008,Over 16 ft,0.213
+Los Angeles Lakers,2008,3P Corner,0.07196
+Los Angeles Lakers,2008,3P Top,0.18504
+Los Angeles Lakers,2009,0-3 ft,0.32
+Los Angeles Lakers,2009,3-10 ft,0.148
+Los Angeles Lakers,2009,10-16 ft,0.119
+Los Angeles Lakers,2009,Over 16 ft,0.196
+Los Angeles Lakers,2009,3P Corner,0.059458
+Los Angeles Lakers,2009,3P Top,0.157542
+Los Angeles Lakers,2010,0-3 ft,0.311
+Los Angeles Lakers,2010,3-10 ft,0.15
+Los Angeles Lakers,2010,10-16 ft,0.121
+Los Angeles Lakers,2010,Over 16 ft,0.191
+Los Angeles Lakers,2010,3P Corner,0.052437
+Los Angeles Lakers,2010,3P Top,0.174563
+Los Angeles Lakers,2011,0-3 ft,0.256
+Los Angeles Lakers,2011,3-10 ft,0.206
+Los Angeles Lakers,2011,10-16 ft,0.118
+Los Angeles Lakers,2011,Over 16 ft,0.199
+Los Angeles Lakers,2011,3P Corner,0.06292
+Los Angeles Lakers,2011,3P Top,0.15708
+Los Angeles Lakers,2012,0-3 ft,0.258
+Los Angeles Lakers,2012,3-10 ft,0.212
+Los Angeles Lakers,2012,10-16 ft,0.117
+Los Angeles Lakers,2012,Over 16 ft,0.205
+Los Angeles Lakers,2012,3P Corner,0.059147
+Los Angeles Lakers,2012,3P Top,0.149853
+Los Angeles Lakers,2013,0-3 ft,0.281
+Los Angeles Lakers,2013,3-10 ft,0.17
+Los Angeles Lakers,2013,10-16 ft,0.089
+Los Angeles Lakers,2013,Over 16 ft,0.158
+Los Angeles Lakers,2013,3P Corner,0.077871
+Los Angeles Lakers,2013,3P Top,0.225129
+Los Angeles Lakers,2014,0-3 ft,0.247
+Los Angeles Lakers,2014,3-10 ft,0.177
+Los Angeles Lakers,2014,10-16 ft,0.116
+Los Angeles Lakers,2014,Over 16 ft,0.169
+Los Angeles Lakers,2014,3P Corner,0.069549
+Los Angeles Lakers,2014,3P Top,0.221451
+Los Angeles Lakers,2015,0-3 ft,0.263
+Los Angeles Lakers,2015,3-10 ft,0.151
+Los Angeles Lakers,2015,10-16 ft,0.131
+Los Angeles Lakers,2015,Over 16 ft,0.232
+Los Angeles Lakers,2015,3P Corner,0.04026
+Los Angeles Lakers,2015,3P Top,0.17974
+Los Angeles Lakers,2016,0-3 ft,0.255
+Los Angeles Lakers,2016,3-10 ft,0.163
+Los Angeles Lakers,2016,10-16 ft,0.125
+Los Angeles Lakers,2016,Over 16 ft,0.168
+Los Angeles Lakers,2016,3P Corner,0.05568
+Los Angeles Lakers,2016,3P Top,0.23432
+Los Angeles Lakers,2017,0-3 ft,0.299
+Los Angeles Lakers,2017,3-10 ft,0.187
+Los Angeles Lakers,2017,10-16 ft,0.103
+Los Angeles Lakers,2017,Over 16 ft,0.118
+Los Angeles Lakers,2017,3P Corner,0.064015
+Los Angeles Lakers,2017,3P Top,0.230985
+Los Angeles Lakers,2018,0-3 ft,0.321
+Los Angeles Lakers,2018,3-10 ft,0.168
+Los Angeles Lakers,2018,10-16 ft,0.086
+Los Angeles Lakers,2018,Over 16 ft,0.096
+Los Angeles Lakers,2018,3P Corner,0.052311
+Los Angeles Lakers,2018,3P Top,0.276689
+Memphis Grizzlies,2001,0-3 ft,0.217
+Memphis Grizzlies,2001,3-10 ft,0.184
+Memphis Grizzlies,2001,10-16 ft,0.13
+Memphis Grizzlies,2001,Over 16 ft,0.323
+Memphis Grizzlies,2001,3P Corner,0.038715
+Memphis Grizzlies,2001,3P Top,0.106285
+Memphis Grizzlies,2002,0-3 ft,0.288
+Memphis Grizzlies,2002,3-10 ft,0.176
+Memphis Grizzlies,2002,10-16 ft,0.135
+Memphis Grizzlies,2002,Over 16 ft,0.233
+Memphis Grizzlies,2002,3P Corner,0.03612
+Memphis Grizzlies,2002,3P Top,0.13188
+Memphis Grizzlies,2003,0-3 ft,0.287
+Memphis Grizzlies,2003,3-10 ft,0.173
+Memphis Grizzlies,2003,10-16 ft,0.132
+Memphis Grizzlies,2003,Over 16 ft,0.218
+Memphis Grizzlies,2003,3P Corner,0.04902
+Memphis Grizzlies,2003,3P Top,0.14098
+Memphis Grizzlies,2004,0-3 ft,0.342
+Memphis Grizzlies,2004,3-10 ft,0.17
+Memphis Grizzlies,2004,10-16 ft,0.101
+Memphis Grizzlies,2004,Over 16 ft,0.19
+Memphis Grizzlies,2004,3P Corner,0.054569
+Memphis Grizzlies,2004,3P Top,0.142431
+Memphis Grizzlies,2005,0-3 ft,0.354
+Memphis Grizzlies,2005,3-10 ft,0.145
+Memphis Grizzlies,2005,10-16 ft,0.089
+Memphis Grizzlies,2005,Over 16 ft,0.176
+Memphis Grizzlies,2005,3P Corner,0.07347
+Memphis Grizzlies,2005,3P Top,0.16353
+Memphis Grizzlies,2006,0-3 ft,0.328
+Memphis Grizzlies,2006,3-10 ft,0.145
+Memphis Grizzlies,2006,10-16 ft,0.092
+Memphis Grizzlies,2006,Over 16 ft,0.178
+Memphis Grizzlies,2006,3P Corner,0.078432
+Memphis Grizzlies,2006,3P Top,0.179568
+Memphis Grizzlies,2007,0-3 ft,0.343
+Memphis Grizzlies,2007,3-10 ft,0.139
+Memphis Grizzlies,2007,10-16 ft,0.1
+Memphis Grizzlies,2007,Over 16 ft,0.207
+Memphis Grizzlies,2007,3P Corner,0.034393
+Memphis Grizzlies,2007,3P Top,0.176607
+Memphis Grizzlies,2008,0-3 ft,0.324
+Memphis Grizzlies,2008,3-10 ft,0.142
+Memphis Grizzlies,2008,10-16 ft,0.093
+Memphis Grizzlies,2008,Over 16 ft,0.178
+Memphis Grizzlies,2008,3P Corner,0.052008
+Memphis Grizzlies,2008,3P Top,0.211992
+Memphis Grizzlies,2009,0-3 ft,0.332
+Memphis Grizzlies,2009,3-10 ft,0.164
+Memphis Grizzlies,2009,10-16 ft,0.102
+Memphis Grizzlies,2009,Over 16 ft,0.227
+Memphis Grizzlies,2009,3P Corner,0.0441
+Memphis Grizzlies,2009,3P Top,0.1309
+Memphis Grizzlies,2010,0-3 ft,0.37
+Memphis Grizzlies,2010,3-10 ft,0.168
+Memphis Grizzlies,2010,10-16 ft,0.11
+Memphis Grizzlies,2010,Over 16 ft,0.203
+Memphis Grizzlies,2010,3P Corner,0.033004
+Memphis Grizzlies,2010,3P Top,0.114996
+Memphis Grizzlies,2011,0-3 ft,0.309
+Memphis Grizzlies,2011,3-10 ft,0.244
+Memphis Grizzlies,2011,10-16 ft,0.107
+Memphis Grizzlies,2011,Over 16 ft,0.204
+Memphis Grizzlies,2011,3P Corner,0.036312
+Memphis Grizzlies,2011,3P Top,0.099688
+Memphis Grizzlies,2012,0-3 ft,0.298
+Memphis Grizzlies,2012,3-10 ft,0.192
+Memphis Grizzlies,2012,10-16 ft,0.134
+Memphis Grizzlies,2012,Over 16 ft,0.219
+Memphis Grizzlies,2012,3P Corner,0.035482
+Memphis Grizzlies,2012,3P Top,0.121518
+Memphis Grizzlies,2013,0-3 ft,0.304
+Memphis Grizzlies,2013,3-10 ft,0.196
+Memphis Grizzlies,2013,10-16 ft,0.125
+Memphis Grizzlies,2013,Over 16 ft,0.21
+Memphis Grizzlies,2013,3P Corner,0.047642
+Memphis Grizzlies,2013,3P Top,0.118358
+Memphis Grizzlies,2014,0-3 ft,0.301
+Memphis Grizzlies,2014,3-10 ft,0.223
+Memphis Grizzlies,2014,10-16 ft,0.115
+Memphis Grizzlies,2014,Over 16 ft,0.191
+Memphis Grizzlies,2014,3P Corner,0.04788
+Memphis Grizzlies,2014,3P Top,0.12312
+Memphis Grizzlies,2015,0-3 ft,0.305
+Memphis Grizzlies,2015,3-10 ft,0.202
+Memphis Grizzlies,2015,10-16 ft,0.13
+Memphis Grizzlies,2015,Over 16 ft,0.179
+Memphis Grizzlies,2015,3P Corner,0.048208
+Memphis Grizzlies,2015,3P Top,0.135792
+Memphis Grizzlies,2016,0-3 ft,0.313
+Memphis Grizzlies,2016,3-10 ft,0.19
+Memphis Grizzlies,2016,10-16 ft,0.103
+Memphis Grizzlies,2016,Over 16 ft,0.172
+Memphis Grizzlies,2016,3P Corner,0.059274
+Memphis Grizzlies,2016,3P Top,0.162726
+Memphis Grizzlies,2017,0-3 ft,0.288
+Memphis Grizzlies,2017,3-10 ft,0.158
+Memphis Grizzlies,2017,10-16 ft,0.092
+Memphis Grizzlies,2017,Over 16 ft,0.144
+Memphis Grizzlies,2017,3P Corner,0.060672
+Memphis Grizzlies,2017,3P Top,0.255328
+Memphis Grizzlies,2018,0-3 ft,0.312
+Memphis Grizzlies,2018,3-10 ft,0.139
+Memphis Grizzlies,2018,10-16 ft,0.1
+Memphis Grizzlies,2018,Over 16 ft,0.132
+Memphis Grizzlies,2018,3P Corner,0.059913
+Memphis Grizzlies,2018,3P Top,0.257087
+Miami Heat,2001,0-3 ft,0.25
+Miami Heat,2001,3-10 ft,0.149
+Miami Heat,2001,10-16 ft,0.146
+Miami Heat,2001,Over 16 ft,0.233
+Miami Heat,2001,3P Corner,0.04641
+Miami Heat,2001,3P Top,0.17459
+Miami Heat,2002,0-3 ft,0.238
+Miami Heat,2002,3-10 ft,0.134
+Miami Heat,2002,10-16 ft,0.164
+Miami Heat,2002,Over 16 ft,0.323
+Miami Heat,2002,3P Corner,0.043005
+Miami Heat,2002,3P Top,0.097995
+Miami Heat,2003,0-3 ft,0.251
+Miami Heat,2003,3-10 ft,0.127
+Miami Heat,2003,10-16 ft,0.154
+Miami Heat,2003,Over 16 ft,0.299
+Miami Heat,2003,3P Corner,0.046982
+Miami Heat,2003,3P Top,0.122018
+Miami Heat,2004,0-3 ft,0.297
+Miami Heat,2004,3-10 ft,0.143
+Miami Heat,2004,10-16 ft,0.117
+Miami Heat,2004,Over 16 ft,0.231
+Miami Heat,2004,3P Corner,0.048108
+Miami Heat,2004,3P Top,0.162892
+Miami Heat,2005,0-3 ft,0.336
+Miami Heat,2005,3-10 ft,0.137
+Miami Heat,2005,10-16 ft,0.111
+Miami Heat,2005,Over 16 ft,0.218
+Miami Heat,2005,3P Corner,0.05049
+Miami Heat,2005,3P Top,0.14751
+Miami Heat,2006,0-3 ft,0.34
+Miami Heat,2006,3-10 ft,0.162
+Miami Heat,2006,10-16 ft,0.094
+Miami Heat,2006,Over 16 ft,0.177
+Miami Heat,2006,3P Corner,0.064468
+Miami Heat,2006,3P Top,0.162532
+Miami Heat,2007,0-3 ft,0.304
+Miami Heat,2007,3-10 ft,0.147
+Miami Heat,2007,10-16 ft,0.094
+Miami Heat,2007,Over 16 ft,0.211
+Miami Heat,2007,3P Corner,0.064435
+Miami Heat,2007,3P Top,0.180565
+Miami Heat,2008,0-3 ft,0.268
+Miami Heat,2008,3-10 ft,0.115
+Miami Heat,2008,10-16 ft,0.107
+Miami Heat,2008,Over 16 ft,0.294
+Miami Heat,2008,3P Corner,0.047957
+Miami Heat,2008,3P Top,0.169043
+Miami Heat,2009,0-3 ft,0.275
+Miami Heat,2009,3-10 ft,0.119
+Miami Heat,2009,10-16 ft,0.114
+Miami Heat,2009,Over 16 ft,0.247
+Miami Heat,2009,3P Corner,0.07056
+Miami Heat,2009,3P Top,0.17444
+Miami Heat,2010,0-3 ft,0.272
+Miami Heat,2010,3-10 ft,0.114
+Miami Heat,2010,10-16 ft,0.14
+Miami Heat,2010,Over 16 ft,0.256
+Miami Heat,2010,3P Corner,0.058254
+Miami Heat,2010,3P Top,0.160746
+Miami Heat,2011,0-3 ft,0.242
+Miami Heat,2011,3-10 ft,0.155
+Miami Heat,2011,10-16 ft,0.102
+Miami Heat,2011,Over 16 ft,0.267
+Miami Heat,2011,3P Corner,0.076845
+Miami Heat,2011,3P Top,0.158155
+Miami Heat,2012,0-3 ft,0.309
+Miami Heat,2012,3-10 ft,0.157
+Miami Heat,2012,10-16 ft,0.119
+Miami Heat,2012,Over 16 ft,0.218
+Miami Heat,2012,3P Corner,0.06534
+Miami Heat,2012,3P Top,0.13266
+Miami Heat,2013,0-3 ft,0.297
+Miami Heat,2013,3-10 ft,0.127
+Miami Heat,2013,10-16 ft,0.099
+Miami Heat,2013,Over 16 ft,0.192
+Miami Heat,2013,3P Corner,0.10944
+Miami Heat,2013,3P Top,0.17556
+Miami Heat,2014,0-3 ft,0.33
+Miami Heat,2014,3-10 ft,0.127
+Miami Heat,2014,10-16 ft,0.084
+Miami Heat,2014,Over 16 ft,0.168
+Miami Heat,2014,3P Corner,0.108624
+Miami Heat,2014,3P Top,0.183376
+Miami Heat,2015,0-3 ft,0.294
+Miami Heat,2015,3-10 ft,0.141
+Miami Heat,2015,10-16 ft,0.118
+Miami Heat,2015,Over 16 ft,0.184
+Miami Heat,2015,3P Corner,0.083316
+Miami Heat,2015,3P Top,0.178684
+Miami Heat,2016,0-3 ft,0.303
+Miami Heat,2016,3-10 ft,0.166
+Miami Heat,2016,10-16 ft,0.128
+Miami Heat,2016,Over 16 ft,0.182
+Miami Heat,2016,3P Corner,0.082212
+Miami Heat,2016,3P Top,0.138788
+Miami Heat,2017,0-3 ft,0.29
+Miami Heat,2017,3-10 ft,0.169
+Miami Heat,2017,10-16 ft,0.094
+Miami Heat,2017,Over 16 ft,0.131
+Miami Heat,2017,3P Corner,0.094514
+Miami Heat,2017,3P Top,0.219486
+Miami Heat,2018,0-3 ft,0.279
+Miami Heat,2018,3-10 ft,0.163
+Miami Heat,2018,10-16 ft,0.095
+Miami Heat,2018,Over 16 ft,0.104
+Miami Heat,2018,3P Corner,0.091648
+Miami Heat,2018,3P Top,0.266352
+Milwaukee Bucks,2001,0-3 ft,0.224
+Milwaukee Bucks,2001,3-10 ft,0.121
+Milwaukee Bucks,2001,10-16 ft,0.258
+Milwaukee Bucks,2001,Over 16 ft,0.179
+Milwaukee Bucks,2001,3P Corner,0.059732
+Milwaukee Bucks,2001,3P Top,0.158268
+Milwaukee Bucks,2002,0-3 ft,0.237
+Milwaukee Bucks,2002,3-10 ft,0.126
+Milwaukee Bucks,2002,10-16 ft,0.236
+Milwaukee Bucks,2002,Over 16 ft,0.16
+Milwaukee Bucks,2002,3P Corner,0.064588
+Milwaukee Bucks,2002,3P Top,0.176412
+Milwaukee Bucks,2003,0-3 ft,0.267
+Milwaukee Bucks,2003,3-10 ft,0.136
+Milwaukee Bucks,2003,10-16 ft,0.191
+Milwaukee Bucks,2003,Over 16 ft,0.177
+Milwaukee Bucks,2003,3P Corner,0.059311
+Milwaukee Bucks,2003,3P Top,0.169689
+Milwaukee Bucks,2004,0-3 ft,0.32
+Milwaukee Bucks,2004,3-10 ft,0.152
+Milwaukee Bucks,2004,10-16 ft,0.176
+Milwaukee Bucks,2004,Over 16 ft,0.179
+Milwaukee Bucks,2004,3P Corner,0.044892
+Milwaukee Bucks,2004,3P Top,0.127108
+Milwaukee Bucks,2005,0-3 ft,0.331
+Milwaukee Bucks,2005,3-10 ft,0.128
+Milwaukee Bucks,2005,10-16 ft,0.177
+Milwaukee Bucks,2005,Over 16 ft,0.224
+Milwaukee Bucks,2005,3P Corner,0.037506
+Milwaukee Bucks,2005,3P Top,0.103494
+Milwaukee Bucks,2006,0-3 ft,0.339
+Milwaukee Bucks,2006,3-10 ft,0.134
+Milwaukee Bucks,2006,10-16 ft,0.132
+Milwaukee Bucks,2006,Over 16 ft,0.192
+Milwaukee Bucks,2006,3P Corner,0.059885
+Milwaukee Bucks,2006,3P Top,0.143115
+Milwaukee Bucks,2007,0-3 ft,0.36
+Milwaukee Bucks,2007,3-10 ft,0.124
+Milwaukee Bucks,2007,10-16 ft,0.113
+Milwaukee Bucks,2007,Over 16 ft,0.183
+Milwaukee Bucks,2007,3P Corner,0.05694
+Milwaukee Bucks,2007,3P Top,0.16206
+Milwaukee Bucks,2008,0-3 ft,0.33
+Milwaukee Bucks,2008,3-10 ft,0.149
+Milwaukee Bucks,2008,10-16 ft,0.117
+Milwaukee Bucks,2008,Over 16 ft,0.21
+Milwaukee Bucks,2008,3P Corner,0.0507
+Milwaukee Bucks,2008,3P Top,0.1443
+Milwaukee Bucks,2009,0-3 ft,0.305
+Milwaukee Bucks,2009,3-10 ft,0.118
+Milwaukee Bucks,2009,10-16 ft,0.125
+Milwaukee Bucks,2009,Over 16 ft,0.243
+Milwaukee Bucks,2009,3P Corner,0.063232
+Milwaukee Bucks,2009,3P Top,0.144768
+Milwaukee Bucks,2010,0-3 ft,0.288
+Milwaukee Bucks,2010,3-10 ft,0.13
+Milwaukee Bucks,2010,10-16 ft,0.114
+Milwaukee Bucks,2010,Over 16 ft,0.209
+Milwaukee Bucks,2010,3P Corner,0.073815
+Milwaukee Bucks,2010,3P Top,0.185185
+Milwaukee Bucks,2011,0-3 ft,0.268
+Milwaukee Bucks,2011,3-10 ft,0.165
+Milwaukee Bucks,2011,10-16 ft,0.123
+Milwaukee Bucks,2011,Over 16 ft,0.227
+Milwaukee Bucks,2011,3P Corner,0.064584
+Milwaukee Bucks,2011,3P Top,0.151416
+Milwaukee Bucks,2012,0-3 ft,0.308
+Milwaukee Bucks,2012,3-10 ft,0.146
+Milwaukee Bucks,2012,10-16 ft,0.12
+Milwaukee Bucks,2012,Over 16 ft,0.202
+Milwaukee Bucks,2012,3P Corner,0.054208
+Milwaukee Bucks,2012,3P Top,0.169792
+Milwaukee Bucks,2013,0-3 ft,0.32
+Milwaukee Bucks,2013,3-10 ft,0.143
+Milwaukee Bucks,2013,10-16 ft,0.122
+Milwaukee Bucks,2013,Over 16 ft,0.183
+Milwaukee Bucks,2013,3P Corner,0.054288
+Milwaukee Bucks,2013,3P Top,0.177712
+Milwaukee Bucks,2014,0-3 ft,0.314
+Milwaukee Bucks,2014,3-10 ft,0.168
+Milwaukee Bucks,2014,10-16 ft,0.106
+Milwaukee Bucks,2014,Over 16 ft,0.182
+Milwaukee Bucks,2014,3P Corner,0.042042
+Milwaukee Bucks,2014,3P Top,0.188958
+Milwaukee Bucks,2015,0-3 ft,0.337
+Milwaukee Bucks,2015,3-10 ft,0.137
+Milwaukee Bucks,2015,10-16 ft,0.111
+Milwaukee Bucks,2015,Over 16 ft,0.193
+Milwaukee Bucks,2015,3P Corner,0.070468
+Milwaukee Bucks,2015,3P Top,0.152532
+Milwaukee Bucks,2016,0-3 ft,0.365
+Milwaukee Bucks,2016,3-10 ft,0.19
+Milwaukee Bucks,2016,10-16 ft,0.106
+Milwaukee Bucks,2016,Over 16 ft,0.149
+Milwaukee Bucks,2016,3P Corner,0.053109
+Milwaukee Bucks,2016,3P Top,0.135891
+Milwaukee Bucks,2017,0-3 ft,0.351
+Milwaukee Bucks,2017,3-10 ft,0.174
+Milwaukee Bucks,2017,10-16 ft,0.077
+Milwaukee Bucks,2017,Over 16 ft,0.108
+Milwaukee Bucks,2017,3P Corner,0.08004
+Milwaukee Bucks,2017,3P Top,0.20996
+Milwaukee Bucks,2018,0-3 ft,0.31
+Milwaukee Bucks,2018,3-10 ft,0.152
+Milwaukee Bucks,2018,10-16 ft,0.114
+Milwaukee Bucks,2018,Over 16 ft,0.127
+Milwaukee Bucks,2018,3P Corner,0.078111
+Milwaukee Bucks,2018,3P Top,0.218889
+Minnesota Timberwolves,2001,0-3 ft,0.236
+Minnesota Timberwolves,2001,3-10 ft,0.164
+Minnesota Timberwolves,2001,10-16 ft,0.155
+Minnesota Timberwolves,2001,Over 16 ft,0.315
+Minnesota Timberwolves,2001,3P Corner,0.034322
+Minnesota Timberwolves,2001,3P Top,0.096678
+Minnesota Timberwolves,2002,0-3 ft,0.236
+Minnesota Timberwolves,2002,3-10 ft,0.175
+Minnesota Timberwolves,2002,10-16 ft,0.151
+Minnesota Timberwolves,2002,Over 16 ft,0.286
+Minnesota Timberwolves,2002,3P Corner,0.032072
+Minnesota Timberwolves,2002,3P Top,0.119928
+Minnesota Timberwolves,2003,0-3 ft,0.249
+Minnesota Timberwolves,2003,3-10 ft,0.15
+Minnesota Timberwolves,2003,10-16 ft,0.156
+Minnesota Timberwolves,2003,Over 16 ft,0.327
+Minnesota Timberwolves,2003,3P Corner,0.028202
+Minnesota Timberwolves,2003,3P Top,0.089798
+Minnesota Timberwolves,2004,0-3 ft,0.206
+Minnesota Timberwolves,2004,3-10 ft,0.147
+Minnesota Timberwolves,2004,10-16 ft,0.21
+Minnesota Timberwolves,2004,Over 16 ft,0.301
+Minnesota Timberwolves,2004,3P Corner,0.035483
+Minnesota Timberwolves,2004,3P Top,0.101517
+Minnesota Timberwolves,2005,0-3 ft,0.225
+Minnesota Timberwolves,2005,3-10 ft,0.138
+Minnesota Timberwolves,2005,10-16 ft,0.18
+Minnesota Timberwolves,2005,Over 16 ft,0.285
+Minnesota Timberwolves,2005,3P Corner,0.036503
+Minnesota Timberwolves,2005,3P Top,0.136497
+Minnesota Timberwolves,2006,0-3 ft,0.285
+Minnesota Timberwolves,2006,3-10 ft,0.118
+Minnesota Timberwolves,2006,10-16 ft,0.145
+Minnesota Timberwolves,2006,Over 16 ft,0.304
+Minnesota Timberwolves,2006,3P Corner,0.029353
+Minnesota Timberwolves,2006,3P Top,0.119647
+Minnesota Timberwolves,2007,0-3 ft,0.267
+Minnesota Timberwolves,2007,3-10 ft,0.127
+Minnesota Timberwolves,2007,10-16 ft,0.133
+Minnesota Timberwolves,2007,Over 16 ft,0.305
+Minnesota Timberwolves,2007,3P Corner,0.043253
+Minnesota Timberwolves,2007,3P Top,0.123747
+Minnesota Timberwolves,2008,0-3 ft,0.306
+Minnesota Timberwolves,2008,3-10 ft,0.181
+Minnesota Timberwolves,2008,10-16 ft,0.122
+Minnesota Timberwolves,2008,Over 16 ft,0.206
+Minnesota Timberwolves,2008,3P Corner,0.035335
+Minnesota Timberwolves,2008,3P Top,0.149665
+Minnesota Timberwolves,2009,0-3 ft,0.332
+Minnesota Timberwolves,2009,3-10 ft,0.137
+Minnesota Timberwolves,2009,10-16 ft,0.107
+Minnesota Timberwolves,2009,Over 16 ft,0.196
+Minnesota Timberwolves,2009,3P Corner,0.066284
+Minnesota Timberwolves,2009,3P Top,0.160716
+Minnesota Timberwolves,2010,0-3 ft,0.308
+Minnesota Timberwolves,2010,3-10 ft,0.166
+Minnesota Timberwolves,2010,10-16 ft,0.146
+Minnesota Timberwolves,2010,Over 16 ft,0.21
+Minnesota Timberwolves,2010,3P Corner,0.038304
+Minnesota Timberwolves,2010,3P Top,0.132696
+Minnesota Timberwolves,2011,0-3 ft,0.241
+Minnesota Timberwolves,2011,3-10 ft,0.233
+Minnesota Timberwolves,2011,10-16 ft,0.099
+Minnesota Timberwolves,2011,Over 16 ft,0.204
+Minnesota Timberwolves,2011,3P Corner,0.045492
+Minnesota Timberwolves,2011,3P Top,0.177508
+Minnesota Timberwolves,2012,0-3 ft,0.31
+Minnesota Timberwolves,2012,3-10 ft,0.157
+Minnesota Timberwolves,2012,10-16 ft,0.086
+Minnesota Timberwolves,2012,Over 16 ft,0.186
+Minnesota Timberwolves,2012,3P Corner,0.067072
+Minnesota Timberwolves,2012,3P Top,0.194928
+Minnesota Timberwolves,2013,0-3 ft,0.331
+Minnesota Timberwolves,2013,3-10 ft,0.139
+Minnesota Timberwolves,2013,10-16 ft,0.083
+Minnesota Timberwolves,2013,Over 16 ft,0.227
+Minnesota Timberwolves,2013,3P Corner,0.04972
+Minnesota Timberwolves,2013,3P Top,0.17028
+Minnesota Timberwolves,2014,0-3 ft,0.334
+Minnesota Timberwolves,2014,3-10 ft,0.157
+Minnesota Timberwolves,2014,10-16 ft,0.091
+Minnesota Timberwolves,2014,Over 16 ft,0.174
+Minnesota Timberwolves,2014,3P Corner,0.05488
+Minnesota Timberwolves,2014,3P Top,0.19012
+Minnesota Timberwolves,2015,0-3 ft,0.284
+Minnesota Timberwolves,2015,3-10 ft,0.176
+Minnesota Timberwolves,2015,10-16 ft,0.122
+Minnesota Timberwolves,2015,Over 16 ft,0.234
+Minnesota Timberwolves,2015,3P Corner,0.038843
+Minnesota Timberwolves,2015,3P Top,0.140157
+Minnesota Timberwolves,2016,0-3 ft,0.298
+Minnesota Timberwolves,2016,3-10 ft,0.16
+Minnesota Timberwolves,2016,10-16 ft,0.101
+Minnesota Timberwolves,2016,Over 16 ft,0.239
+Minnesota Timberwolves,2016,3P Corner,0.042016
+Minnesota Timberwolves,2016,3P Top,0.159984
+Minnesota Timberwolves,2017,0-3 ft,0.304
+Minnesota Timberwolves,2017,3-10 ft,0.164
+Minnesota Timberwolves,2017,10-16 ft,0.097
+Minnesota Timberwolves,2017,Over 16 ft,0.186
+Minnesota Timberwolves,2017,3P Corner,0.066483
+Minnesota Timberwolves,2017,3P Top,0.182517
+Minnesota Timberwolves,2018,0-3 ft,0.264
+Minnesota Timberwolves,2018,3-10 ft,0.196
+Minnesota Timberwolves,2018,10-16 ft,0.129
+Minnesota Timberwolves,2018,Over 16 ft,0.15
+Minnesota Timberwolves,2018,3P Corner,0.058986
+Minnesota Timberwolves,2018,3P Top,0.202014
+New Orleans Pelicans,2001,0-3 ft,0.27
+New Orleans Pelicans,2001,3-10 ft,0.134
+New Orleans Pelicans,2001,10-16 ft,0.18
+New Orleans Pelicans,2001,Over 16 ft,0.265
+New Orleans Pelicans,2001,3P Corner,0.026878
+New Orleans Pelicans,2001,3P Top,0.124122
+New Orleans Pelicans,2002,0-3 ft,0.308
+New Orleans Pelicans,2002,3-10 ft,0.131
+New Orleans Pelicans,2002,10-16 ft,0.162
+New Orleans Pelicans,2002,Over 16 ft,0.248
+New Orleans Pelicans,2002,3P Corner,0.023103
+New Orleans Pelicans,2002,3P Top,0.127897
+New Orleans Pelicans,2003,0-3 ft,0.278
+New Orleans Pelicans,2003,3-10 ft,0.132
+New Orleans Pelicans,2003,10-16 ft,0.187
+New Orleans Pelicans,2003,Over 16 ft,0.241
+New Orleans Pelicans,2003,3P Corner,0.040411
+New Orleans Pelicans,2003,3P Top,0.120589
+New Orleans Pelicans,2004,0-3 ft,0.294
+New Orleans Pelicans,2004,3-10 ft,0.115
+New Orleans Pelicans,2004,10-16 ft,0.131
+New Orleans Pelicans,2004,Over 16 ft,0.209
+New Orleans Pelicans,2004,3P Corner,0.058464
+New Orleans Pelicans,2004,3P Top,0.193536
+New Orleans Pelicans,2005,0-3 ft,0.304
+New Orleans Pelicans,2005,3-10 ft,0.096
+New Orleans Pelicans,2005,10-16 ft,0.122
+New Orleans Pelicans,2005,Over 16 ft,0.277
+New Orleans Pelicans,2005,3P Corner,0.045627
+New Orleans Pelicans,2005,3P Top,0.155373
+New Orleans Pelicans,2006,0-3 ft,0.324
+New Orleans Pelicans,2006,3-10 ft,0.133
+New Orleans Pelicans,2006,10-16 ft,0.139
+New Orleans Pelicans,2006,Over 16 ft,0.267
+New Orleans Pelicans,2006,3P Corner,0.032292
+New Orleans Pelicans,2006,3P Top,0.105708
+New Orleans Pelicans,2007,0-3 ft,0.307
+New Orleans Pelicans,2007,3-10 ft,0.17
+New Orleans Pelicans,2007,10-16 ft,0.119
+New Orleans Pelicans,2007,Over 16 ft,0.216
+New Orleans Pelicans,2007,3P Corner,0.040796
+New Orleans Pelicans,2007,3P Top,0.147204
+New Orleans Pelicans,2008,0-3 ft,0.284
+New Orleans Pelicans,2008,3-10 ft,0.137
+New Orleans Pelicans,2008,10-16 ft,0.113
+New Orleans Pelicans,2008,Over 16 ft,0.227
+New Orleans Pelicans,2008,3P Corner,0.069071
+New Orleans Pelicans,2008,3P Top,0.169929
+New Orleans Pelicans,2009,0-3 ft,0.276
+New Orleans Pelicans,2009,3-10 ft,0.134
+New Orleans Pelicans,2009,10-16 ft,0.137
+New Orleans Pelicans,2009,Over 16 ft,0.213
+New Orleans Pelicans,2009,3P Corner,0.0792
+New Orleans Pelicans,2009,3P Top,0.1608
+New Orleans Pelicans,2010,0-3 ft,0.318
+New Orleans Pelicans,2010,3-10 ft,0.121
+New Orleans Pelicans,2010,10-16 ft,0.127
+New Orleans Pelicans,2010,Over 16 ft,0.204
+New Orleans Pelicans,2010,3P Corner,0.04669
+New Orleans Pelicans,2010,3P Top,0.18331
+New Orleans Pelicans,2011,0-3 ft,0.223
+New Orleans Pelicans,2011,3-10 ft,0.213
+New Orleans Pelicans,2011,10-16 ft,0.136
+New Orleans Pelicans,2011,Over 16 ft,0.237
+New Orleans Pelicans,2011,3P Corner,0.061824
+New Orleans Pelicans,2011,3P Top,0.130176
+New Orleans Pelicans,2012,0-3 ft,0.267
+New Orleans Pelicans,2012,3-10 ft,0.207
+New Orleans Pelicans,2012,10-16 ft,0.149
+New Orleans Pelicans,2012,Over 16 ft,0.225
+New Orleans Pelicans,2012,3P Corner,0.040432
+New Orleans Pelicans,2012,3P Top,0.111568
+New Orleans Pelicans,2013,0-3 ft,0.298
+New Orleans Pelicans,2013,3-10 ft,0.208
+New Orleans Pelicans,2013,10-16 ft,0.095
+New Orleans Pelicans,2013,Over 16 ft,0.175
+New Orleans Pelicans,2013,3P Corner,0.039424
+New Orleans Pelicans,2013,3P Top,0.184576
+New Orleans Pelicans,2014,0-3 ft,0.332
+New Orleans Pelicans,2014,3-10 ft,0.183
+New Orleans Pelicans,2014,10-16 ft,0.107
+New Orleans Pelicans,2014,Over 16 ft,0.184
+New Orleans Pelicans,2014,3P Corner,0.044583
+New Orleans Pelicans,2014,3P Top,0.148417
+New Orleans Pelicans,2015,0-3 ft,0.347
+New Orleans Pelicans,2015,3-10 ft,0.152
+New Orleans Pelicans,2015,10-16 ft,0.098
+New Orleans Pelicans,2015,Over 16 ft,0.169
+New Orleans Pelicans,2015,3P Corner,0.055687
+New Orleans Pelicans,2015,3P Top,0.177313
+New Orleans Pelicans,2016,0-3 ft,0.304
+New Orleans Pelicans,2016,3-10 ft,0.144
+New Orleans Pelicans,2016,10-16 ft,0.101
+New Orleans Pelicans,2016,Over 16 ft,0.174
+New Orleans Pelicans,2016,3P Corner,0.063433
+New Orleans Pelicans,2016,3P Top,0.213567
+New Orleans Pelicans,2017,0-3 ft,0.279
+New Orleans Pelicans,2017,3-10 ft,0.17
+New Orleans Pelicans,2017,10-16 ft,0.094
+New Orleans Pelicans,2017,Over 16 ft,0.149
+New Orleans Pelicans,2017,3P Corner,0.067452
+New Orleans Pelicans,2017,3P Top,0.240548
+New Orleans Pelicans,2018,0-3 ft,0.295
+New Orleans Pelicans,2018,3-10 ft,0.179
+New Orleans Pelicans,2018,10-16 ft,0.099
+New Orleans Pelicans,2018,Over 16 ft,0.109
+New Orleans Pelicans,2018,3P Corner,0.074327
+New Orleans Pelicans,2018,3P Top,0.244673
+New York Knicks,2001,0-3 ft,0.27
+New York Knicks,2001,3-10 ft,0.163
+New York Knicks,2001,10-16 ft,0.184
+New York Knicks,2001,Over 16 ft,0.203
+New York Knicks,2001,3P Corner,0.04086
+New York Knicks,2001,3P Top,0.13914
+New York Knicks,2002,0-3 ft,0.246
+New York Knicks,2002,3-10 ft,0.159
+New York Knicks,2002,10-16 ft,0.19
+New York Knicks,2002,Over 16 ft,0.198
+New York Knicks,2002,3P Corner,0.055826
+New York Knicks,2002,3P Top,0.150174
+New York Knicks,2003,0-3 ft,0.21
+New York Knicks,2003,3-10 ft,0.145
+New York Knicks,2003,10-16 ft,0.188
+New York Knicks,2003,Over 16 ft,0.222
+New York Knicks,2003,3P Corner,0.061805
+New York Knicks,2003,3P Top,0.173195
+New York Knicks,2004,0-3 ft,0.259
+New York Knicks,2004,3-10 ft,0.156
+New York Knicks,2004,10-16 ft,0.177
+New York Knicks,2004,Over 16 ft,0.237
+New York Knicks,2004,3P Corner,0.046341
+New York Knicks,2004,3P Top,0.124659
+New York Knicks,2005,0-3 ft,0.3
+New York Knicks,2005,3-10 ft,0.14
+New York Knicks,2005,10-16 ft,0.122
+New York Knicks,2005,Over 16 ft,0.251
+New York Knicks,2005,3P Corner,0.049068
+New York Knicks,2005,3P Top,0.138932
+New York Knicks,2006,0-3 ft,0.383
+New York Knicks,2006,3-10 ft,0.161
+New York Knicks,2006,10-16 ft,0.108
+New York Knicks,2006,Over 16 ft,0.205
+New York Knicks,2006,3P Corner,0.054102
+New York Knicks,2006,3P Top,0.087898
+New York Knicks,2007,0-3 ft,0.389
+New York Knicks,2007,3-10 ft,0.142
+New York Knicks,2007,10-16 ft,0.073
+New York Knicks,2007,Over 16 ft,0.18
+New York Knicks,2007,3P Corner,0.056376
+New York Knicks,2007,3P Top,0.159624
+New York Knicks,2008,0-3 ft,0.353
+New York Knicks,2008,3-10 ft,0.137
+New York Knicks,2008,10-16 ft,0.101
+New York Knicks,2008,Over 16 ft,0.194
+New York Knicks,2008,3P Corner,0.053535
+New York Knicks,2008,3P Top,0.161465
+New York Knicks,2009,0-3 ft,0.349
+New York Knicks,2009,3-10 ft,0.091
+New York Knicks,2009,10-16 ft,0.084
+New York Knicks,2009,Over 16 ft,0.154
+New York Knicks,2009,3P Corner,0.076958
+New York Knicks,2009,3P Top,0.245042
+New York Knicks,2010,0-3 ft,0.327
+New York Knicks,2010,3-10 ft,0.087
+New York Knicks,2010,10-16 ft,0.071
+New York Knicks,2010,Over 16 ft,0.203
+New York Knicks,2010,3P Corner,0.063648
+New York Knicks,2010,3P Top,0.248352
+New York Knicks,2011,0-3 ft,0.265
+New York Knicks,2011,3-10 ft,0.166
+New York Knicks,2011,10-16 ft,0.086
+New York Knicks,2011,Over 16 ft,0.179
+New York Knicks,2011,3P Corner,0.08181
+New York Knicks,2011,3P Top,0.22119
+New York Knicks,2012,0-3 ft,0.316
+New York Knicks,2012,3-10 ft,0.13
+New York Knicks,2012,10-16 ft,0.085
+New York Knicks,2012,Over 16 ft,0.181
+New York Knicks,2012,3P Corner,0.07056
+New York Knicks,2012,3P Top,0.21744
+New York Knicks,2013,0-3 ft,0.28
+New York Knicks,2013,3-10 ft,0.096
+New York Knicks,2013,10-16 ft,0.083
+New York Knicks,2013,Over 16 ft,0.188
+New York Knicks,2013,3P Corner,0.083544
+New York Knicks,2013,3P Top,0.270456
+New York Knicks,2014,0-3 ft,0.252
+New York Knicks,2014,3-10 ft,0.112
+New York Knicks,2014,10-16 ft,0.111
+New York Knicks,2014,Over 16 ft,0.222
+New York Knicks,2014,3P Corner,0.062514
+New York Knicks,2014,3P Top,0.239486
+New York Knicks,2015,0-3 ft,0.239
+New York Knicks,2015,3-10 ft,0.146
+New York Knicks,2015,10-16 ft,0.125
+New York Knicks,2015,Over 16 ft,0.246
+New York Knicks,2015,3P Corner,0.04488
+New York Knicks,2015,3P Top,0.19512
+New York Knicks,2016,0-3 ft,0.245
+New York Knicks,2016,3-10 ft,0.154
+New York Knicks,2016,10-16 ft,0.143
+New York Knicks,2016,Over 16 ft,0.201
+New York Knicks,2016,3P Corner,0.059136
+New York Knicks,2016,3P Top,0.196864
+New York Knicks,2017,0-3 ft,0.291
+New York Knicks,2017,3-10 ft,0.126
+New York Knicks,2017,10-16 ft,0.132
+New York Knicks,2017,Over 16 ft,0.172
+New York Knicks,2017,3P Corner,0.063891
+New York Knicks,2017,3P Top,0.215109
+New York Knicks,2018,0-3 ft,0.278
+New York Knicks,2018,3-10 ft,0.156
+New York Knicks,2018,10-16 ft,0.14
+New York Knicks,2018,Over 16 ft,0.159
+New York Knicks,2018,3P Corner,0.051604
+New York Knicks,2018,3P Top,0.214396
+Oklahoma City Thunder,2001,0-3 ft,0.305
+Oklahoma City Thunder,2001,3-10 ft,0.226
+Oklahoma City Thunder,2001,10-16 ft,0.129
+Oklahoma City Thunder,2001,Over 16 ft,0.164
+Oklahoma City Thunder,2001,3P Corner,0.041712
+Oklahoma City Thunder,2001,3P Top,0.134288
+Oklahoma City Thunder,2002,0-3 ft,0.28
+Oklahoma City Thunder,2002,3-10 ft,0.19
+Oklahoma City Thunder,2002,10-16 ft,0.121
+Oklahoma City Thunder,2002,Over 16 ft,0.216
+Oklahoma City Thunder,2002,3P Corner,0.050373
+Oklahoma City Thunder,2002,3P Top,0.142627
+Oklahoma City Thunder,2003,0-3 ft,0.247
+Oklahoma City Thunder,2003,3-10 ft,0.177
+Oklahoma City Thunder,2003,10-16 ft,0.129
+Oklahoma City Thunder,2003,Over 16 ft,0.25
+Oklahoma City Thunder,2003,3P Corner,0.052528
+Oklahoma City Thunder,2003,3P Top,0.143472
+Oklahoma City Thunder,2004,0-3 ft,0.245
+Oklahoma City Thunder,2004,3-10 ft,0.158
+Oklahoma City Thunder,2004,10-16 ft,0.121
+Oklahoma City Thunder,2004,Over 16 ft,0.182
+Oklahoma City Thunder,2004,3P Corner,0.079968
+Oklahoma City Thunder,2004,3P Top,0.214032
+Oklahoma City Thunder,2005,0-3 ft,0.276
+Oklahoma City Thunder,2005,3-10 ft,0.16
+Oklahoma City Thunder,2005,10-16 ft,0.118
+Oklahoma City Thunder,2005,Over 16 ft,0.165
+Oklahoma City Thunder,2005,3P Corner,0.067159
+Oklahoma City Thunder,2005,3P Top,0.213841
+Oklahoma City Thunder,2006,0-3 ft,0.275
+Oklahoma City Thunder,2006,3-10 ft,0.173
+Oklahoma City Thunder,2006,10-16 ft,0.124
+Oklahoma City Thunder,2006,Over 16 ft,0.184
+Oklahoma City Thunder,2006,3P Corner,0.050301
+Oklahoma City Thunder,2006,3P Top,0.192699
+Oklahoma City Thunder,2007,0-3 ft,0.291
+Oklahoma City Thunder,2007,3-10 ft,0.183
+Oklahoma City Thunder,2007,10-16 ft,0.137
+Oklahoma City Thunder,2007,Over 16 ft,0.17
+Oklahoma City Thunder,2007,3P Corner,0.051465
+Oklahoma City Thunder,2007,3P Top,0.167535
+Oklahoma City Thunder,2008,0-3 ft,0.287
+Oklahoma City Thunder,2008,3-10 ft,0.159
+Oklahoma City Thunder,2008,10-16 ft,0.144
+Oklahoma City Thunder,2008,Over 16 ft,0.277
+Oklahoma City Thunder,2008,3P Corner,0.032562
+Oklahoma City Thunder,2008,3P Top,0.101438
+Oklahoma City Thunder,2009,0-3 ft,0.338
+Oklahoma City Thunder,2009,3-10 ft,0.134
+Oklahoma City Thunder,2009,10-16 ft,0.138
+Oklahoma City Thunder,2009,Over 16 ft,0.248
+Oklahoma City Thunder,2009,3P Corner,0.030597
+Oklahoma City Thunder,2009,3P Top,0.110403
+Oklahoma City Thunder,2010,0-3 ft,0.332
+Oklahoma City Thunder,2010,3-10 ft,0.125
+Oklahoma City Thunder,2010,10-16 ft,0.135
+Oklahoma City Thunder,2010,Over 16 ft,0.223
+Oklahoma City Thunder,2010,3P Corner,0.04292
+Oklahoma City Thunder,2010,3P Top,0.14208
+Oklahoma City Thunder,2011,0-3 ft,0.284
+Oklahoma City Thunder,2011,3-10 ft,0.159
+Oklahoma City Thunder,2011,10-16 ft,0.126
+Oklahoma City Thunder,2011,Over 16 ft,0.218
+Oklahoma City Thunder,2011,3P Corner,0.039644
+Oklahoma City Thunder,2011,3P Top,0.172356
+Oklahoma City Thunder,2012,0-3 ft,0.294
+Oklahoma City Thunder,2012,3-10 ft,0.148
+Oklahoma City Thunder,2012,10-16 ft,0.13
+Oklahoma City Thunder,2012,Over 16 ft,0.175
+Oklahoma City Thunder,2012,3P Corner,0.046116
+Oklahoma City Thunder,2012,3P Top,0.205884
+Oklahoma City Thunder,2013,0-3 ft,0.294
+Oklahoma City Thunder,2013,3-10 ft,0.146
+Oklahoma City Thunder,2013,10-16 ft,0.13
+Oklahoma City Thunder,2013,Over 16 ft,0.186
+Oklahoma City Thunder,2013,3P Corner,0.061488
+Oklahoma City Thunder,2013,3P Top,0.182512
+Oklahoma City Thunder,2014,0-3 ft,0.282
+Oklahoma City Thunder,2014,3-10 ft,0.149
+Oklahoma City Thunder,2014,10-16 ft,0.131
+Oklahoma City Thunder,2014,Over 16 ft,0.167
+Oklahoma City Thunder,2014,3P Corner,0.064769
+Oklahoma City Thunder,2014,3P Top,0.206231
+Oklahoma City Thunder,2015,0-3 ft,0.302
+Oklahoma City Thunder,2015,3-10 ft,0.158
+Oklahoma City Thunder,2015,10-16 ft,0.113
+Oklahoma City Thunder,2015,Over 16 ft,0.165
+Oklahoma City Thunder,2015,3P Corner,0.064714
+Oklahoma City Thunder,2015,3P Top,0.197286
+Oklahoma City Thunder,2016,0-3 ft,0.33
+Oklahoma City Thunder,2016,3-10 ft,0.126
+Oklahoma City Thunder,2016,10-16 ft,0.122
+Oklahoma City Thunder,2016,Over 16 ft,0.146
+Oklahoma City Thunder,2016,3P Corner,0.080025
+Oklahoma City Thunder,2016,3P Top,0.194975
+Oklahoma City Thunder,2017,0-3 ft,0.346
+Oklahoma City Thunder,2017,3-10 ft,0.146
+Oklahoma City Thunder,2017,10-16 ft,0.104
+Oklahoma City Thunder,2017,Over 16 ft,0.109
+Oklahoma City Thunder,2017,3P Corner,0.07434
+Oklahoma City Thunder,2017,3P Top,0.22066
+Oklahoma City Thunder,2018,0-3 ft,0.315
+Oklahoma City Thunder,2018,3-10 ft,0.096
+Oklahoma City Thunder,2018,10-16 ft,0.105
+Oklahoma City Thunder,2018,Over 16 ft,0.138
+Oklahoma City Thunder,2018,3P Corner,0.082455
+Oklahoma City Thunder,2018,3P Top,0.262545
+Orlando Magic,2001,0-3 ft,0.29
+Orlando Magic,2001,3-10 ft,0.117
+Orlando Magic,2001,10-16 ft,0.137
+Orlando Magic,2001,Over 16 ft,0.26
+Orlando Magic,2001,3P Corner,0.031164
+Orlando Magic,2001,3P Top,0.164836
+Orlando Magic,2002,0-3 ft,0.294
+Orlando Magic,2002,3-10 ft,0.113
+Orlando Magic,2002,10-16 ft,0.109
+Orlando Magic,2002,Over 16 ft,0.242
+Orlando Magic,2002,3P Corner,0.046272
+Orlando Magic,2002,3P Top,0.194728
+Orlando Magic,2003,0-3 ft,0.292
+Orlando Magic,2003,3-10 ft,0.08
+Orlando Magic,2003,10-16 ft,0.098
+Orlando Magic,2003,Over 16 ft,0.295
+Orlando Magic,2003,3P Corner,0.04418
+Orlando Magic,2003,3P Top,0.19082
+Orlando Magic,2004,0-3 ft,0.26
+Orlando Magic,2004,3-10 ft,0.138
+Orlando Magic,2004,10-16 ft,0.145
+Orlando Magic,2004,Over 16 ft,0.273
+Orlando Magic,2004,3P Corner,0.03496
+Orlando Magic,2004,3P Top,0.14904
+Orlando Magic,2005,0-3 ft,0.327
+Orlando Magic,2005,3-10 ft,0.106
+Orlando Magic,2005,10-16 ft,0.154
+Orlando Magic,2005,Over 16 ft,0.276
+Orlando Magic,2005,3P Corner,0.027948
+Orlando Magic,2005,3P Top,0.109052
+Orlando Magic,2006,0-3 ft,0.358
+Orlando Magic,2006,3-10 ft,0.125
+Orlando Magic,2006,10-16 ft,0.13
+Orlando Magic,2006,Over 16 ft,0.258
+Orlando Magic,2006,3P Corner,0.025542
+Orlando Magic,2006,3P Top,0.103458
+Orlando Magic,2007,0-3 ft,0.361
+Orlando Magic,2007,3-10 ft,0.15
+Orlando Magic,2007,10-16 ft,0.106
+Orlando Magic,2007,Over 16 ft,0.225
+Orlando Magic,2007,3P Corner,0.045978
+Orlando Magic,2007,3P Top,0.112022
+Orlando Magic,2008,0-3 ft,0.325
+Orlando Magic,2008,3-10 ft,0.126
+Orlando Magic,2008,10-16 ft,0.096
+Orlando Magic,2008,Over 16 ft,0.132
+Orlando Magic,2008,3P Corner,0.107548
+Orlando Magic,2008,3P Top,0.214452
+Orlando Magic,2009,0-3 ft,0.282
+Orlando Magic,2009,3-10 ft,0.127
+Orlando Magic,2009,10-16 ft,0.101
+Orlando Magic,2009,Over 16 ft,0.155
+Orlando Magic,2009,3P Corner,0.101505
+Orlando Magic,2009,3P Top,0.233495
+Orlando Magic,2010,0-3 ft,0.301
+Orlando Magic,2010,3-10 ft,0.123
+Orlando Magic,2010,10-16 ft,0.082
+Orlando Magic,2010,Over 16 ft,0.144
+Orlando Magic,2010,3P Corner,0.0987
+Orlando Magic,2010,3P Top,0.2513
+Orlando Magic,2011,0-3 ft,0.253
+Orlando Magic,2011,3-10 ft,0.158
+Orlando Magic,2011,10-16 ft,0.096
+Orlando Magic,2011,Over 16 ft,0.164
+Orlando Magic,2011,3P Corner,0.079704
+Orlando Magic,2011,3P Top,0.248296
+Orlando Magic,2012,0-3 ft,0.286
+Orlando Magic,2012,3-10 ft,0.153
+Orlando Magic,2012,10-16 ft,0.063
+Orlando Magic,2012,Over 16 ft,0.152
+Orlando Magic,2012,3P Corner,0.074736
+Orlando Magic,2012,3P Top,0.271264
+Orlando Magic,2013,0-3 ft,0.289
+Orlando Magic,2013,3-10 ft,0.166
+Orlando Magic,2013,10-16 ft,0.116
+Orlando Magic,2013,Over 16 ft,0.206
+Orlando Magic,2013,3P Corner,0.050844
+Orlando Magic,2013,3P Top,0.172156
+Orlando Magic,2014,0-3 ft,0.277
+Orlando Magic,2014,3-10 ft,0.152
+Orlando Magic,2014,10-16 ft,0.103
+Orlando Magic,2014,Over 16 ft,0.232
+Orlando Magic,2014,3P Corner,0.06674
+Orlando Magic,2014,3P Top,0.16826
+Orlando Magic,2015,0-3 ft,0.315
+Orlando Magic,2015,3-10 ft,0.184
+Orlando Magic,2015,10-16 ft,0.094
+Orlando Magic,2015,Over 16 ft,0.172
+Orlando Magic,2015,3P Corner,0.0611
+Orlando Magic,2015,3P Top,0.1739
+Orlando Magic,2016,0-3 ft,0.296
+Orlando Magic,2016,3-10 ft,0.15
+Orlando Magic,2016,10-16 ft,0.093
+Orlando Magic,2016,Over 16 ft,0.206
+Orlando Magic,2016,3P Corner,0.061455
+Orlando Magic,2016,3P Top,0.193545
+Orlando Magic,2017,0-3 ft,0.266
+Orlando Magic,2017,3-10 ft,0.168
+Orlando Magic,2017,10-16 ft,0.109
+Orlando Magic,2017,Over 16 ft,0.157
+Orlando Magic,2017,3P Corner,0.0546
+Orlando Magic,2017,3P Top,0.2454
+Orlando Magic,2018,0-3 ft,0.259
+Orlando Magic,2018,3-10 ft,0.18
+Orlando Magic,2018,10-16 ft,0.108
+Orlando Magic,2018,Over 16 ft,0.112
+Orlando Magic,2018,3P Corner,0.060876
+Orlando Magic,2018,3P Top,0.281124
+Philadelphia 76ers,2001,0-3 ft,0.276
+Philadelphia 76ers,2001,3-10 ft,0.206
+Philadelphia 76ers,2001,10-16 ft,0.211
+Philadelphia 76ers,2001,Over 16 ft,0.184
+Philadelphia 76ers,2001,3P Corner,0.029016
+Philadelphia 76ers,2001,3P Top,0.094984
+Philadelphia 76ers,2002,0-3 ft,0.304
+Philadelphia 76ers,2002,3-10 ft,0.149
+Philadelphia 76ers,2002,10-16 ft,0.217
+Philadelphia 76ers,2002,Over 16 ft,0.218
+Philadelphia 76ers,2002,3P Corner,0.026418
+Philadelphia 76ers,2002,3P Top,0.084582
+Philadelphia 76ers,2003,0-3 ft,0.367
+Philadelphia 76ers,2003,3-10 ft,0.144
+Philadelphia 76ers,2003,10-16 ft,0.169
+Philadelphia 76ers,2003,Over 16 ft,0.202
+Philadelphia 76ers,2003,3P Corner,0.033677
+Philadelphia 76ers,2003,3P Top,0.085323
+Philadelphia 76ers,2004,0-3 ft,0.319
+Philadelphia 76ers,2004,3-10 ft,0.132
+Philadelphia 76ers,2004,10-16 ft,0.174
+Philadelphia 76ers,2004,Over 16 ft,0.216
+Philadelphia 76ers,2004,3P Corner,0.049928
+Philadelphia 76ers,2004,3P Top,0.108072
+Philadelphia 76ers,2005,0-3 ft,0.323
+Philadelphia 76ers,2005,3-10 ft,0.12
+Philadelphia 76ers,2005,10-16 ft,0.129
+Philadelphia 76ers,2005,Over 16 ft,0.213
+Philadelphia 76ers,2005,3P Corner,0.054648
+Philadelphia 76ers,2005,3P Top,0.161352
+Philadelphia 76ers,2006,0-3 ft,0.328
+Philadelphia 76ers,2006,3-10 ft,0.15
+Philadelphia 76ers,2006,10-16 ft,0.145
+Philadelphia 76ers,2006,Over 16 ft,0.22
+Philadelphia 76ers,2006,3P Corner,0.041554
+Philadelphia 76ers,2006,3P Top,0.116446
+Philadelphia 76ers,2007,0-3 ft,0.321
+Philadelphia 76ers,2007,3-10 ft,0.117
+Philadelphia 76ers,2007,10-16 ft,0.171
+Philadelphia 76ers,2007,Over 16 ft,0.262
+Philadelphia 76ers,2007,3P Corner,0.027264
+Philadelphia 76ers,2007,3P Top,0.100736
+Philadelphia 76ers,2008,0-3 ft,0.359
+Philadelphia 76ers,2008,3-10 ft,0.116
+Philadelphia 76ers,2008,10-16 ft,0.154
+Philadelphia 76ers,2008,Over 16 ft,0.227
+Philadelphia 76ers,2008,3P Corner,0.037323
+Philadelphia 76ers,2008,3P Top,0.105677
+Philadelphia 76ers,2009,0-3 ft,0.382
+Philadelphia 76ers,2009,3-10 ft,0.112
+Philadelphia 76ers,2009,10-16 ft,0.138
+Philadelphia 76ers,2009,Over 16 ft,0.204
+Philadelphia 76ers,2009,3P Corner,0.04674
+Philadelphia 76ers,2009,3P Top,0.11726
+Philadelphia 76ers,2010,0-3 ft,0.311
+Philadelphia 76ers,2010,3-10 ft,0.127
+Philadelphia 76ers,2010,10-16 ft,0.146
+Philadelphia 76ers,2010,Over 16 ft,0.209
+Philadelphia 76ers,2010,3P Corner,0.051706
+Philadelphia 76ers,2010,3P Top,0.154294
+Philadelphia 76ers,2011,0-3 ft,0.258
+Philadelphia 76ers,2011,3-10 ft,0.175
+Philadelphia 76ers,2011,10-16 ft,0.17
+Philadelphia 76ers,2011,Over 16 ft,0.213
+Philadelphia 76ers,2011,3P Corner,0.044896
+Philadelphia 76ers,2011,3P Top,0.139104
+Philadelphia 76ers,2012,0-3 ft,0.232
+Philadelphia 76ers,2012,3-10 ft,0.182
+Philadelphia 76ers,2012,10-16 ft,0.187
+Philadelphia 76ers,2012,Over 16 ft,0.225
+Philadelphia 76ers,2012,3P Corner,0.0364
+Philadelphia 76ers,2012,3P Top,0.1386
+Philadelphia 76ers,2013,0-3 ft,0.263
+Philadelphia 76ers,2013,3-10 ft,0.153
+Philadelphia 76ers,2013,10-16 ft,0.147
+Philadelphia 76ers,2013,Over 16 ft,0.228
+Philadelphia 76ers,2013,3P Corner,0.0627
+Philadelphia 76ers,2013,3P Top,0.1463
+Philadelphia 76ers,2014,0-3 ft,0.353
+Philadelphia 76ers,2014,3-10 ft,0.19
+Philadelphia 76ers,2014,10-16 ft,0.087
+Philadelphia 76ers,2014,Over 16 ft,0.111
+Philadelphia 76ers,2014,3P Corner,0.049794
+Philadelphia 76ers,2014,3P Top,0.208206
+Philadelphia 76ers,2015,0-3 ft,0.318
+Philadelphia 76ers,2015,3-10 ft,0.172
+Philadelphia 76ers,2015,10-16 ft,0.068
+Philadelphia 76ers,2015,Over 16 ft,0.114
+Philadelphia 76ers,2015,3P Corner,0.056782
+Philadelphia 76ers,2015,3P Top,0.262218
+Philadelphia 76ers,2016,0-3 ft,0.311
+Philadelphia 76ers,2016,3-10 ft,0.166
+Philadelphia 76ers,2016,10-16 ft,0.096
+Philadelphia 76ers,2016,Over 16 ft,0.099
+Philadelphia 76ers,2016,3P Corner,0.076518
+Philadelphia 76ers,2016,3P Top,0.250482
+Philadelphia 76ers,2017,0-3 ft,0.309
+Philadelphia 76ers,2017,3-10 ft,0.149
+Philadelphia 76ers,2017,10-16 ft,0.092
+Philadelphia 76ers,2017,Over 16 ft,0.1
+Philadelphia 76ers,2017,3P Corner,0.053746
+Philadelphia 76ers,2017,3P Top,0.295254
+Philadelphia 76ers,2018,0-3 ft,0.272
+Philadelphia 76ers,2018,3-10 ft,0.168
+Philadelphia 76ers,2018,10-16 ft,0.109
+Philadelphia 76ers,2018,Over 16 ft,0.107
+Philadelphia 76ers,2018,3P Corner,0.051944
+Philadelphia 76ers,2018,3P Top,0.292056
+Phoenix Suns,2001,0-3 ft,0.262
+Phoenix Suns,2001,3-10 ft,0.172
+Phoenix Suns,2001,10-16 ft,0.164
+Phoenix Suns,2001,Over 16 ft,0.246
+Phoenix Suns,2001,3P Corner,0.044304
+Phoenix Suns,2001,3P Top,0.111696
+Phoenix Suns,2002,0-3 ft,0.33
+Phoenix Suns,2002,3-10 ft,0.142
+Phoenix Suns,2002,10-16 ft,0.162
+Phoenix Suns,2002,Over 16 ft,0.208
+Phoenix Suns,2002,3P Corner,0.034602
+Phoenix Suns,2002,3P Top,0.123398
+Phoenix Suns,2003,0-3 ft,0.323
+Phoenix Suns,2003,3-10 ft,0.148
+Phoenix Suns,2003,10-16 ft,0.147
+Phoenix Suns,2003,Over 16 ft,0.213
+Phoenix Suns,2003,3P Corner,0.06137
+Phoenix Suns,2003,3P Top,0.10863
+Phoenix Suns,2004,0-3 ft,0.327
+Phoenix Suns,2004,3-10 ft,0.137
+Phoenix Suns,2004,10-16 ft,0.146
+Phoenix Suns,2004,Over 16 ft,0.21
+Phoenix Suns,2004,3P Corner,0.06066
+Phoenix Suns,2004,3P Top,0.11934
+Phoenix Suns,2005,0-3 ft,0.3
+Phoenix Suns,2005,3-10 ft,0.119
+Phoenix Suns,2005,10-16 ft,0.12
+Phoenix Suns,2005,Over 16 ft,0.172
+Phoenix Suns,2005,3P Corner,0.090168
+Phoenix Suns,2005,3P Top,0.198832
+Phoenix Suns,2006,0-3 ft,0.254
+Phoenix Suns,2006,3-10 ft,0.089
+Phoenix Suns,2006,10-16 ft,0.104
+Phoenix Suns,2006,Over 16 ft,0.26
+Phoenix Suns,2006,3P Corner,0.083798
+Phoenix Suns,2006,3P Top,0.209202
+Phoenix Suns,2007,0-3 ft,0.31
+Phoenix Suns,2007,3-10 ft,0.104
+Phoenix Suns,2007,10-16 ft,0.097
+Phoenix Suns,2007,Over 16 ft,0.202
+Phoenix Suns,2007,3P Corner,0.090405
+Phoenix Suns,2007,3P Top,0.196595
+Phoenix Suns,2008,0-3 ft,0.31
+Phoenix Suns,2008,3-10 ft,0.116
+Phoenix Suns,2008,10-16 ft,0.102
+Phoenix Suns,2008,Over 16 ft,0.211
+Phoenix Suns,2008,3P Corner,0.08372
+Phoenix Suns,2008,3P Top,0.17628
+Phoenix Suns,2009,0-3 ft,0.363
+Phoenix Suns,2009,3-10 ft,0.164
+Phoenix Suns,2009,10-16 ft,0.1
+Phoenix Suns,2009,Over 16 ft,0.158
+Phoenix Suns,2009,3P Corner,0.064152
+Phoenix Suns,2009,3P Top,0.151848
+Phoenix Suns,2010,0-3 ft,0.312
+Phoenix Suns,2010,3-10 ft,0.135
+Phoenix Suns,2010,10-16 ft,0.106
+Phoenix Suns,2010,Over 16 ft,0.185
+Phoenix Suns,2010,3P Corner,0.067338
+Phoenix Suns,2010,3P Top,0.193662
+Phoenix Suns,2011,0-3 ft,0.253
+Phoenix Suns,2011,3-10 ft,0.167
+Phoenix Suns,2011,10-16 ft,0.116
+Phoenix Suns,2011,Over 16 ft,0.193
+Phoenix Suns,2011,3P Corner,0.071273
+Phoenix Suns,2011,3P Top,0.199727
+Phoenix Suns,2012,0-3 ft,0.253
+Phoenix Suns,2012,3-10 ft,0.165
+Phoenix Suns,2012,10-16 ft,0.118
+Phoenix Suns,2012,Over 16 ft,0.226
+Phoenix Suns,2012,3P Corner,0.056644
+Phoenix Suns,2012,3P Top,0.181356
+Phoenix Suns,2013,0-3 ft,0.281
+Phoenix Suns,2013,3-10 ft,0.158
+Phoenix Suns,2013,10-16 ft,0.113
+Phoenix Suns,2013,Over 16 ft,0.237
+Phoenix Suns,2013,3P Corner,0.05796
+Phoenix Suns,2013,3P Top,0.15204
+Phoenix Suns,2014,0-3 ft,0.29
+Phoenix Suns,2014,3-10 ft,0.149
+Phoenix Suns,2014,10-16 ft,0.118
+Phoenix Suns,2014,Over 16 ft,0.143
+Phoenix Suns,2014,3P Corner,0.0819
+Phoenix Suns,2014,3P Top,0.2181
+Phoenix Suns,2015,0-3 ft,0.293
+Phoenix Suns,2015,3-10 ft,0.139
+Phoenix Suns,2015,10-16 ft,0.125
+Phoenix Suns,2015,Over 16 ft,0.153
+Phoenix Suns,2015,3P Corner,0.084099
+Phoenix Suns,2015,3P Top,0.206901
+Phoenix Suns,2016,0-3 ft,0.3
+Phoenix Suns,2016,3-10 ft,0.151
+Phoenix Suns,2016,10-16 ft,0.092
+Phoenix Suns,2016,Over 16 ft,0.155
+Phoenix Suns,2016,3P Corner,0.068252
+Phoenix Suns,2016,3P Top,0.233748
+Phoenix Suns,2017,0-3 ft,0.306
+Phoenix Suns,2017,3-10 ft,0.154
+Phoenix Suns,2017,10-16 ft,0.12
+Phoenix Suns,2017,Over 16 ft,0.165
+Phoenix Suns,2017,3P Corner,0.068595
+Phoenix Suns,2017,3P Top,0.186405
+Phoenix Suns,2018,0-3 ft,0.313
+Phoenix Suns,2018,3-10 ft,0.145
+Phoenix Suns,2018,10-16 ft,0.115
+Phoenix Suns,2018,Over 16 ft,0.107
+Phoenix Suns,2018,3P Corner,0.06688
+Phoenix Suns,2018,3P Top,0.25312
+Portland Trail Blazers,2001,0-3 ft,0.299
+Portland Trail Blazers,2001,3-10 ft,0.153
+Portland Trail Blazers,2001,10-16 ft,0.129
+Portland Trail Blazers,2001,Over 16 ft,0.254
+Portland Trail Blazers,2001,3P Corner,0.03597
+Portland Trail Blazers,2001,3P Top,0.12903
+Portland Trail Blazers,2002,0-3 ft,0.307
+Portland Trail Blazers,2002,3-10 ft,0.123
+Portland Trail Blazers,2002,10-16 ft,0.117
+Portland Trail Blazers,2002,Over 16 ft,0.255
+Portland Trail Blazers,2002,3P Corner,0.041184
+Portland Trail Blazers,2002,3P Top,0.156816
+Portland Trail Blazers,2003,0-3 ft,0.317
+Portland Trail Blazers,2003,3-10 ft,0.159
+Portland Trail Blazers,2003,10-16 ft,0.132
+Portland Trail Blazers,2003,Over 16 ft,0.215
+Portland Trail Blazers,2003,3P Corner,0.041595
+Portland Trail Blazers,2003,3P Top,0.135405
+Portland Trail Blazers,2004,0-3 ft,0.3
+Portland Trail Blazers,2004,3-10 ft,0.171
+Portland Trail Blazers,2004,10-16 ft,0.141
+Portland Trail Blazers,2004,Over 16 ft,0.218
+Portland Trail Blazers,2004,3P Corner,0.03196
+Portland Trail Blazers,2004,3P Top,0.13804
+Portland Trail Blazers,2005,0-3 ft,0.335
+Portland Trail Blazers,2005,3-10 ft,0.161
+Portland Trail Blazers,2005,10-16 ft,0.11
+Portland Trail Blazers,2005,Over 16 ft,0.213
+Portland Trail Blazers,2005,3P Corner,0.038553
+Portland Trail Blazers,2005,3P Top,0.142447
+Portland Trail Blazers,2006,0-3 ft,0.31
+Portland Trail Blazers,2006,3-10 ft,0.143
+Portland Trail Blazers,2006,10-16 ft,0.097
+Portland Trail Blazers,2006,Over 16 ft,0.283
+Portland Trail Blazers,2006,3P Corner,0.046978
+Portland Trail Blazers,2006,3P Top,0.119022
+Portland Trail Blazers,2007,0-3 ft,0.288
+Portland Trail Blazers,2007,3-10 ft,0.162
+Portland Trail Blazers,2007,10-16 ft,0.105
+Portland Trail Blazers,2007,Over 16 ft,0.253
+Portland Trail Blazers,2007,3P Corner,0.070059
+Portland Trail Blazers,2007,3P Top,0.122941
+Portland Trail Blazers,2008,0-3 ft,0.214
+Portland Trail Blazers,2008,3-10 ft,0.137
+Portland Trail Blazers,2008,10-16 ft,0.121
+Portland Trail Blazers,2008,Over 16 ft,0.311
+Portland Trail Blazers,2008,3P Corner,0.082622
+Portland Trail Blazers,2008,3P Top,0.135378
+Portland Trail Blazers,2009,0-3 ft,0.294
+Portland Trail Blazers,2009,3-10 ft,0.126
+Portland Trail Blazers,2009,10-16 ft,0.109
+Portland Trail Blazers,2009,Over 16 ft,0.231
+Portland Trail Blazers,2009,3P Corner,0.094405
+Portland Trail Blazers,2009,3P Top,0.144595
+Portland Trail Blazers,2010,0-3 ft,0.286
+Portland Trail Blazers,2010,3-10 ft,0.111
+Portland Trail Blazers,2010,10-16 ft,0.133
+Portland Trail Blazers,2010,Over 16 ft,0.255
+Portland Trail Blazers,2010,3P Corner,0.07353
+Portland Trail Blazers,2010,3P Top,0.14147
+Portland Trail Blazers,2011,0-3 ft,0.283
+Portland Trail Blazers,2011,3-10 ft,0.168
+Portland Trail Blazers,2011,10-16 ft,0.115
+Portland Trail Blazers,2011,Over 16 ft,0.206
+Portland Trail Blazers,2011,3P Corner,0.072276
+Portland Trail Blazers,2011,3P Top,0.155724
+Portland Trail Blazers,2012,0-3 ft,0.294
+Portland Trail Blazers,2012,3-10 ft,0.139
+Portland Trail Blazers,2012,10-16 ft,0.097
+Portland Trail Blazers,2012,Over 16 ft,0.216
+Portland Trail Blazers,2012,3P Corner,0.07803
+Portland Trail Blazers,2012,3P Top,0.17697
+Portland Trail Blazers,2013,0-3 ft,0.284
+Portland Trail Blazers,2013,3-10 ft,0.126
+Portland Trail Blazers,2013,10-16 ft,0.095
+Portland Trail Blazers,2013,Over 16 ft,0.211
+Portland Trail Blazers,2013,3P Corner,0.067876
+Portland Trail Blazers,2013,3P Top,0.216124
+Portland Trail Blazers,2014,0-3 ft,0.258
+Portland Trail Blazers,2014,3-10 ft,0.133
+Portland Trail Blazers,2014,10-16 ft,0.11
+Portland Trail Blazers,2014,Over 16 ft,0.208
+Portland Trail Blazers,2014,3P Corner,0.07308
+Portland Trail Blazers,2014,3P Top,0.21692
+Portland Trail Blazers,2015,0-3 ft,0.247
+Portland Trail Blazers,2015,3-10 ft,0.134
+Portland Trail Blazers,2015,10-16 ft,0.112
+Portland Trail Blazers,2015,Over 16 ft,0.19
+Portland Trail Blazers,2015,3P Corner,0.078684
+Portland Trail Blazers,2015,3P Top,0.237316
+Portland Trail Blazers,2016,0-3 ft,0.282
+Portland Trail Blazers,2016,3-10 ft,0.137
+Portland Trail Blazers,2016,10-16 ft,0.092
+Portland Trail Blazers,2016,Over 16 ft,0.157
+Portland Trail Blazers,2016,3P Corner,0.079016
+Portland Trail Blazers,2016,3P Top,0.252984
+Portland Trail Blazers,2017,0-3 ft,0.299
+Portland Trail Blazers,2017,3-10 ft,0.141
+Portland Trail Blazers,2017,10-16 ft,0.091
+Portland Trail Blazers,2017,Over 16 ft,0.148
+Portland Trail Blazers,2017,3P Corner,0.064078
+Portland Trail Blazers,2017,3P Top,0.257922
+Portland Trail Blazers,2018,0-3 ft,0.283
+Portland Trail Blazers,2018,3-10 ft,0.155
+Portland Trail Blazers,2018,10-16 ft,0.111
+Portland Trail Blazers,2018,Over 16 ft,0.127
+Portland Trail Blazers,2018,3P Corner,0.0567
+Portland Trail Blazers,2018,3P Top,0.2673
+Sacramento Kings,2001,0-3 ft,0.295
+Sacramento Kings,2001,3-10 ft,0.185
+Sacramento Kings,2001,10-16 ft,0.097
+Sacramento Kings,2001,Over 16 ft,0.23
+Sacramento Kings,2001,3P Corner,0.0485
+Sacramento Kings,2001,3P Top,0.1455
+Sacramento Kings,2002,0-3 ft,0.317
+Sacramento Kings,2002,3-10 ft,0.135
+Sacramento Kings,2002,10-16 ft,0.104
+Sacramento Kings,2002,Over 16 ft,0.278
+Sacramento Kings,2002,3P Corner,0.052622
+Sacramento Kings,2002,3P Top,0.113378
+Sacramento Kings,2003,0-3 ft,0.282
+Sacramento Kings,2003,3-10 ft,0.142
+Sacramento Kings,2003,10-16 ft,0.099
+Sacramento Kings,2003,Over 16 ft,0.293
+Sacramento Kings,2003,3P Corner,0.066608
+Sacramento Kings,2003,3P Top,0.117392
+Sacramento Kings,2004,0-3 ft,0.277
+Sacramento Kings,2004,3-10 ft,0.128
+Sacramento Kings,2004,10-16 ft,0.089
+Sacramento Kings,2004,Over 16 ft,0.284
+Sacramento Kings,2004,3P Corner,0.068461
+Sacramento Kings,2004,3P Top,0.154539
+Sacramento Kings,2005,0-3 ft,0.258
+Sacramento Kings,2005,3-10 ft,0.125
+Sacramento Kings,2005,10-16 ft,0.081
+Sacramento Kings,2005,Over 16 ft,0.336
+Sacramento Kings,2005,3P Corner,0.0508
+Sacramento Kings,2005,3P Top,0.1492
+Sacramento Kings,2006,0-3 ft,0.281
+Sacramento Kings,2006,3-10 ft,0.118
+Sacramento Kings,2006,10-16 ft,0.07
+Sacramento Kings,2006,Over 16 ft,0.315
+Sacramento Kings,2006,3P Corner,0.053599
+Sacramento Kings,2006,3P Top,0.163401
+Sacramento Kings,2007,0-3 ft,0.294
+Sacramento Kings,2007,3-10 ft,0.142
+Sacramento Kings,2007,10-16 ft,0.077
+Sacramento Kings,2007,Over 16 ft,0.255
+Sacramento Kings,2007,3P Corner,0.045008
+Sacramento Kings,2007,3P Top,0.186992
+Sacramento Kings,2008,0-3 ft,0.33
+Sacramento Kings,2008,3-10 ft,0.124
+Sacramento Kings,2008,10-16 ft,0.098
+Sacramento Kings,2008,Over 16 ft,0.239
+Sacramento Kings,2008,3P Corner,0.055536
+Sacramento Kings,2008,3P Top,0.152464
+Sacramento Kings,2009,0-3 ft,0.29
+Sacramento Kings,2009,3-10 ft,0.141
+Sacramento Kings,2009,10-16 ft,0.103
+Sacramento Kings,2009,Over 16 ft,0.229
+Sacramento Kings,2009,3P Corner,0.064022
+Sacramento Kings,2009,3P Top,0.173978
+Sacramento Kings,2010,0-3 ft,0.327
+Sacramento Kings,2010,3-10 ft,0.159
+Sacramento Kings,2010,10-16 ft,0.094
+Sacramento Kings,2010,Over 16 ft,0.22
+Sacramento Kings,2010,3P Corner,0.050451
+Sacramento Kings,2010,3P Top,0.150549
+Sacramento Kings,2011,0-3 ft,0.265
+Sacramento Kings,2011,3-10 ft,0.219
+Sacramento Kings,2011,10-16 ft,0.112
+Sacramento Kings,2011,Over 16 ft,0.221
+Sacramento Kings,2011,3P Corner,0.052338
+Sacramento Kings,2011,3P Top,0.130662
+Sacramento Kings,2012,0-3 ft,0.306
+Sacramento Kings,2012,3-10 ft,0.219
+Sacramento Kings,2012,10-16 ft,0.076
+Sacramento Kings,2012,Over 16 ft,0.172
+Sacramento Kings,2012,3P Corner,0.061104
+Sacramento Kings,2012,3P Top,0.166896
+Sacramento Kings,2013,0-3 ft,0.291
+Sacramento Kings,2013,3-10 ft,0.211
+Sacramento Kings,2013,10-16 ft,0.082
+Sacramento Kings,2013,Over 16 ft,0.172
+Sacramento Kings,2013,3P Corner,0.064395
+Sacramento Kings,2013,3P Top,0.178605
+Sacramento Kings,2014,0-3 ft,0.249
+Sacramento Kings,2014,3-10 ft,0.239
+Sacramento Kings,2014,10-16 ft,0.106
+Sacramento Kings,2014,Over 16 ft,0.188
+Sacramento Kings,2014,3P Corner,0.04469
+Sacramento Kings,2014,3P Top,0.17331
+Sacramento Kings,2015,0-3 ft,0.299
+Sacramento Kings,2015,3-10 ft,0.222
+Sacramento Kings,2015,10-16 ft,0.094
+Sacramento Kings,2015,Over 16 ft,0.181
+Sacramento Kings,2015,3P Corner,0.060996
+Sacramento Kings,2015,3P Top,0.143004
+Sacramento Kings,2016,0-3 ft,0.297
+Sacramento Kings,2016,3-10 ft,0.223
+Sacramento Kings,2016,10-16 ft,0.066
+Sacramento Kings,2016,Over 16 ft,0.155
+Sacramento Kings,2016,3P Corner,0.0598
+Sacramento Kings,2016,3P Top,0.2002
+Sacramento Kings,2017,0-3 ft,0.258
+Sacramento Kings,2017,3-10 ft,0.195
+Sacramento Kings,2017,10-16 ft,0.1
+Sacramento Kings,2017,Over 16 ft,0.155
+Sacramento Kings,2017,3P Corner,0.068967
+Sacramento Kings,2017,3P Top,0.222033
+Sacramento Kings,2018,0-3 ft,0.242
+Sacramento Kings,2018,3-10 ft,0.205
+Sacramento Kings,2018,10-16 ft,0.115
+Sacramento Kings,2018,Over 16 ft,0.159
+Sacramento Kings,2018,3P Corner,0.0556
+Sacramento Kings,2018,3P Top,0.2224
+San Antonio Spurs,2001,0-3 ft,0.26
+San Antonio Spurs,2001,3-10 ft,0.183
+San Antonio Spurs,2001,10-16 ft,0.178
+San Antonio Spurs,2001,Over 16 ft,0.205
+San Antonio Spurs,2001,3P Corner,0.060375
+San Antonio Spurs,2001,3P Top,0.114625
+San Antonio Spurs,2002,0-3 ft,0.314
+San Antonio Spurs,2002,3-10 ft,0.166
+San Antonio Spurs,2002,10-16 ft,0.177
+San Antonio Spurs,2002,Over 16 ft,0.153
+San Antonio Spurs,2002,3P Corner,0.06916
+San Antonio Spurs,2002,3P Top,0.12084
+San Antonio Spurs,2003,0-3 ft,0.313
+San Antonio Spurs,2003,3-10 ft,0.189
+San Antonio Spurs,2003,10-16 ft,0.133
+San Antonio Spurs,2003,Over 16 ft,0.163
+San Antonio Spurs,2003,3P Corner,0.0808
+San Antonio Spurs,2003,3P Top,0.1212
+San Antonio Spurs,2004,0-3 ft,0.282
+San Antonio Spurs,2004,3-10 ft,0.197
+San Antonio Spurs,2004,10-16 ft,0.144
+San Antonio Spurs,2004,Over 16 ft,0.2
+San Antonio Spurs,2004,3P Corner,0.064251
+San Antonio Spurs,2004,3P Top,0.112749
+San Antonio Spurs,2005,0-3 ft,0.293
+San Antonio Spurs,2005,3-10 ft,0.201
+San Antonio Spurs,2005,10-16 ft,0.118
+San Antonio Spurs,2005,Over 16 ft,0.173
+San Antonio Spurs,2005,3P Corner,0.093096
+San Antonio Spurs,2005,3P Top,0.122904
+San Antonio Spurs,2006,0-3 ft,0.295
+San Antonio Spurs,2006,3-10 ft,0.187
+San Antonio Spurs,2006,10-16 ft,0.109
+San Antonio Spurs,2006,Over 16 ft,0.194
+San Antonio Spurs,2006,3P Corner,0.08772
+San Antonio Spurs,2006,3P Top,0.12728
+San Antonio Spurs,2007,0-3 ft,0.288
+San Antonio Spurs,2007,3-10 ft,0.155
+San Antonio Spurs,2007,10-16 ft,0.107
+San Antonio Spurs,2007,Over 16 ft,0.204
+San Antonio Spurs,2007,3P Corner,0.094848
+San Antonio Spurs,2007,3P Top,0.152152
+San Antonio Spurs,2008,0-3 ft,0.248
+San Antonio Spurs,2008,3-10 ft,0.157
+San Antonio Spurs,2008,10-16 ft,0.116
+San Antonio Spurs,2008,Over 16 ft,0.227
+San Antonio Spurs,2008,3P Corner,0.103914
+San Antonio Spurs,2008,3P Top,0.147086
+San Antonio Spurs,2009,0-3 ft,0.253
+San Antonio Spurs,2009,3-10 ft,0.14
+San Antonio Spurs,2009,10-16 ft,0.109
+San Antonio Spurs,2009,Over 16 ft,0.25
+San Antonio Spurs,2009,3P Corner,0.093248
+San Antonio Spurs,2009,3P Top,0.154752
+San Antonio Spurs,2010,0-3 ft,0.312
+San Antonio Spurs,2010,3-10 ft,0.146
+San Antonio Spurs,2010,10-16 ft,0.108
+San Antonio Spurs,2010,Over 16 ft,0.203
+San Antonio Spurs,2010,3P Corner,0.08584
+San Antonio Spurs,2010,3P Top,0.14616
+San Antonio Spurs,2011,0-3 ft,0.264
+San Antonio Spurs,2011,3-10 ft,0.201
+San Antonio Spurs,2011,10-16 ft,0.106
+San Antonio Spurs,2011,Over 16 ft,0.167
+San Antonio Spurs,2011,3P Corner,0.095787
+San Antonio Spurs,2011,3P Top,0.165213
+San Antonio Spurs,2012,0-3 ft,0.278
+San Antonio Spurs,2012,3-10 ft,0.203
+San Antonio Spurs,2012,10-16 ft,0.099
+San Antonio Spurs,2012,Over 16 ft,0.164
+San Antonio Spurs,2012,3P Corner,0.080955
+San Antonio Spurs,2012,3P Top,0.176045
+San Antonio Spurs,2013,0-3 ft,0.298
+San Antonio Spurs,2013,3-10 ft,0.178
+San Antonio Spurs,2013,10-16 ft,0.096
+San Antonio Spurs,2013,Over 16 ft,0.163
+San Antonio Spurs,2013,3P Corner,0.0924
+San Antonio Spurs,2013,3P Top,0.1716
+San Antonio Spurs,2014,0-3 ft,0.287
+San Antonio Spurs,2014,3-10 ft,0.185
+San Antonio Spurs,2014,10-16 ft,0.09
+San Antonio Spurs,2014,Over 16 ft,0.181
+San Antonio Spurs,2014,3P Corner,0.076843
+San Antonio Spurs,2014,3P Top,0.180157
+San Antonio Spurs,2015,0-3 ft,0.276
+San Antonio Spurs,2015,3-10 ft,0.203
+San Antonio Spurs,2015,10-16 ft,0.103
+San Antonio Spurs,2015,Over 16 ft,0.148
+San Antonio Spurs,2015,3P Corner,0.077203
+San Antonio Spurs,2015,3P Top,0.191797
+San Antonio Spurs,2016,0-3 ft,0.264
+San Antonio Spurs,2016,3-10 ft,0.175
+San Antonio Spurs,2016,10-16 ft,0.137
+San Antonio Spurs,2016,Over 16 ft,0.201
+San Antonio Spurs,2016,3P Corner,0.063109
+San Antonio Spurs,2016,3P Top,0.159891
+San Antonio Spurs,2017,0-3 ft,0.255
+San Antonio Spurs,2017,3-10 ft,0.159
+San Antonio Spurs,2017,10-16 ft,0.116
+San Antonio Spurs,2017,Over 16 ft,0.191
+San Antonio Spurs,2017,3P Corner,0.075308
+San Antonio Spurs,2017,3P Top,0.205692
+San Antonio Spurs,2018,0-3 ft,0.261
+San Antonio Spurs,2018,3-10 ft,0.169
+San Antonio Spurs,2018,10-16 ft,0.143
+San Antonio Spurs,2018,Over 16 ft,0.144
+San Antonio Spurs,2018,3P Corner,0.06627
+San Antonio Spurs,2018,3P Top,0.21573
+Toronto Raptors,2001,0-3 ft,0.264
+Toronto Raptors,2001,3-10 ft,0.124
+Toronto Raptors,2001,10-16 ft,0.145
+Toronto Raptors,2001,Over 16 ft,0.3
+Toronto Raptors,2001,3P Corner,0.037241
+Toronto Raptors,2001,3P Top,0.129759
+Toronto Raptors,2002,0-3 ft,0.284
+Toronto Raptors,2002,3-10 ft,0.121
+Toronto Raptors,2002,10-16 ft,0.192
+Toronto Raptors,2002,Over 16 ft,0.238
+Toronto Raptors,2002,3P Corner,0.03531
+Toronto Raptors,2002,3P Top,0.12969
+Toronto Raptors,2003,0-3 ft,0.278
+Toronto Raptors,2003,3-10 ft,0.135
+Toronto Raptors,2003,10-16 ft,0.144
+Toronto Raptors,2003,Over 16 ft,0.263
+Toronto Raptors,2003,3P Corner,0.048688
+Toronto Raptors,2003,3P Top,0.130312
+Toronto Raptors,2004,0-3 ft,0.252
+Toronto Raptors,2004,3-10 ft,0.123
+Toronto Raptors,2004,10-16 ft,0.155
+Toronto Raptors,2004,Over 16 ft,0.267
+Toronto Raptors,2004,3P Corner,0.092004
+Toronto Raptors,2004,3P Top,0.111996
+Toronto Raptors,2005,0-3 ft,0.283
+Toronto Raptors,2005,3-10 ft,0.123
+Toronto Raptors,2005,10-16 ft,0.136
+Toronto Raptors,2005,Over 16 ft,0.206
+Toronto Raptors,2005,3P Corner,0.097152
+Toronto Raptors,2005,3P Top,0.155848
+Toronto Raptors,2006,0-3 ft,0.279
+Toronto Raptors,2006,3-10 ft,0.135
+Toronto Raptors,2006,10-16 ft,0.128
+Toronto Raptors,2006,Over 16 ft,0.214
+Toronto Raptors,2006,3P Corner,0.085888
+Toronto Raptors,2006,3P Top,0.158112
+Toronto Raptors,2007,0-3 ft,0.277
+Toronto Raptors,2007,3-10 ft,0.109
+Toronto Raptors,2007,10-16 ft,0.117
+Toronto Raptors,2007,Over 16 ft,0.273
+Toronto Raptors,2007,3P Corner,0.073696
+Toronto Raptors,2007,3P Top,0.150304
+Toronto Raptors,2008,0-3 ft,0.272
+Toronto Raptors,2008,3-10 ft,0.085
+Toronto Raptors,2008,10-16 ft,0.111
+Toronto Raptors,2008,Over 16 ft,0.314
+Toronto Raptors,2008,3P Corner,0.067487
+Toronto Raptors,2008,3P Top,0.149513
+Toronto Raptors,2009,0-3 ft,0.264
+Toronto Raptors,2009,3-10 ft,0.117
+Toronto Raptors,2009,10-16 ft,0.132
+Toronto Raptors,2009,Over 16 ft,0.294
+Toronto Raptors,2009,3P Corner,0.047671
+Toronto Raptors,2009,3P Top,0.145329
+Toronto Raptors,2010,0-3 ft,0.308
+Toronto Raptors,2010,3-10 ft,0.133
+Toronto Raptors,2010,10-16 ft,0.111
+Toronto Raptors,2010,Over 16 ft,0.238
+Toronto Raptors,2010,3P Corner,0.045365
+Toronto Raptors,2010,3P Top,0.165635
+Toronto Raptors,2011,0-3 ft,0.325
+Toronto Raptors,2011,3-10 ft,0.157
+Toronto Raptors,2011,10-16 ft,0.112
+Toronto Raptors,2011,Over 16 ft,0.245
+Toronto Raptors,2011,3P Corner,0.037908
+Toronto Raptors,2011,3P Top,0.124092
+Toronto Raptors,2012,0-3 ft,0.271
+Toronto Raptors,2012,3-10 ft,0.151
+Toronto Raptors,2012,10-16 ft,0.106
+Toronto Raptors,2012,Over 16 ft,0.263
+Toronto Raptors,2012,3P Corner,0.050369
+Toronto Raptors,2012,3P Top,0.158631
+Toronto Raptors,2013,0-3 ft,0.239
+Toronto Raptors,2013,3-10 ft,0.169
+Toronto Raptors,2013,10-16 ft,0.123
+Toronto Raptors,2013,Over 16 ft,0.22
+Toronto Raptors,2013,3P Corner,0.05229
+Toronto Raptors,2013,3P Top,0.19671
+Toronto Raptors,2014,0-3 ft,0.226
+Toronto Raptors,2014,3-10 ft,0.206
+Toronto Raptors,2014,10-16 ft,0.103
+Toronto Raptors,2014,Over 16 ft,0.181
+Toronto Raptors,2014,3P Corner,0.073815
+Toronto Raptors,2014,3P Top,0.211185
+Toronto Raptors,2015,0-3 ft,0.253
+Toronto Raptors,2015,3-10 ft,0.195
+Toronto Raptors,2015,10-16 ft,0.104
+Toronto Raptors,2015,Over 16 ft,0.146
+Toronto Raptors,2015,3P Corner,0.078822
+Toronto Raptors,2015,3P Top,0.223178
+Toronto Raptors,2016,0-3 ft,0.277
+Toronto Raptors,2016,3-10 ft,0.187
+Toronto Raptors,2016,10-16 ft,0.111
+Toronto Raptors,2016,Over 16 ft,0.139
+Toronto Raptors,2016,3P Corner,0.08323
+Toronto Raptors,2016,3P Top,0.20377
+Toronto Raptors,2017,0-3 ft,0.254
+Toronto Raptors,2017,3-10 ft,0.185
+Toronto Raptors,2017,10-16 ft,0.12
+Toronto Raptors,2017,Over 16 ft,0.153
+Toronto Raptors,2017,3P Corner,0.078897
+Toronto Raptors,2017,3P Top,0.210103
+Toronto Raptors,2018,0-3 ft,0.291
+Toronto Raptors,2018,3-10 ft,0.16
+Toronto Raptors,2018,10-16 ft,0.098
+Toronto Raptors,2018,Over 16 ft,0.074
+Toronto Raptors,2018,3P Corner,0.091611
+Toronto Raptors,2018,3P Top,0.285389
+Utah Jazz,2001,0-3 ft,0.348
+Utah Jazz,2001,3-10 ft,0.134
+Utah Jazz,2001,10-16 ft,0.124
+Utah Jazz,2001,Over 16 ft,0.259
+Utah Jazz,2001,3P Corner,0.036585
+Utah Jazz,2001,3P Top,0.098415
+Utah Jazz,2002,0-3 ft,0.38
+Utah Jazz,2002,3-10 ft,0.102
+Utah Jazz,2002,10-16 ft,0.124
+Utah Jazz,2002,Over 16 ft,0.261
+Utah Jazz,2002,3P Corner,0.02838
+Utah Jazz,2002,3P Top,0.10362
+Utah Jazz,2003,0-3 ft,0.337
+Utah Jazz,2003,3-10 ft,0.111
+Utah Jazz,2003,10-16 ft,0.139
+Utah Jazz,2003,Over 16 ft,0.31
+Utah Jazz,2003,3P Corner,0.0208
+Utah Jazz,2003,3P Top,0.0832
+Utah Jazz,2004,0-3 ft,0.357
+Utah Jazz,2004,3-10 ft,0.085
+Utah Jazz,2004,10-16 ft,0.104
+Utah Jazz,2004,Over 16 ft,0.327
+Utah Jazz,2004,3P Corner,0.029083
+Utah Jazz,2004,3P Top,0.097917
+Utah Jazz,2005,0-3 ft,0.336
+Utah Jazz,2005,3-10 ft,0.093
+Utah Jazz,2005,10-16 ft,0.137
+Utah Jazz,2005,Over 16 ft,0.312
+Utah Jazz,2005,3P Corner,0.030492
+Utah Jazz,2005,3P Top,0.090508
+Utah Jazz,2006,0-3 ft,0.348
+Utah Jazz,2006,3-10 ft,0.097
+Utah Jazz,2006,10-16 ft,0.109
+Utah Jazz,2006,Over 16 ft,0.297
+Utah Jazz,2006,3P Corner,0.019221
+Utah Jazz,2006,3P Top,0.129779
+Utah Jazz,2007,0-3 ft,0.359
+Utah Jazz,2007,3-10 ft,0.107
+Utah Jazz,2007,10-16 ft,0.113
+Utah Jazz,2007,Over 16 ft,0.257
+Utah Jazz,2007,3P Corner,0.025917
+Utah Jazz,2007,3P Top,0.137083
+Utah Jazz,2008,0-3 ft,0.375
+Utah Jazz,2008,3-10 ft,0.099
+Utah Jazz,2008,10-16 ft,0.1
+Utah Jazz,2008,Over 16 ft,0.26
+Utah Jazz,2008,3P Corner,0.03237
+Utah Jazz,2008,3P Top,0.13363
+Utah Jazz,2009,0-3 ft,0.379
+Utah Jazz,2009,3-10 ft,0.101
+Utah Jazz,2009,10-16 ft,0.091
+Utah Jazz,2009,Over 16 ft,0.259
+Utah Jazz,2009,3P Corner,0.034645
+Utah Jazz,2009,3P Top,0.134355
+Utah Jazz,2010,0-3 ft,0.383
+Utah Jazz,2010,3-10 ft,0.121
+Utah Jazz,2010,10-16 ft,0.092
+Utah Jazz,2010,Over 16 ft,0.22
+Utah Jazz,2010,3P Corner,0.03772
+Utah Jazz,2010,3P Top,0.14628
+Utah Jazz,2011,0-3 ft,0.296
+Utah Jazz,2011,3-10 ft,0.181
+Utah Jazz,2011,10-16 ft,0.111
+Utah Jazz,2011,Over 16 ft,0.221
+Utah Jazz,2011,3P Corner,0.035144
+Utah Jazz,2011,3P Top,0.155856
+Utah Jazz,2012,0-3 ft,0.287
+Utah Jazz,2012,3-10 ft,0.238
+Utah Jazz,2012,10-16 ft,0.118
+Utah Jazz,2012,Over 16 ft,0.204
+Utah Jazz,2012,3P Corner,0.030294
+Utah Jazz,2012,3P Top,0.122706
+Utah Jazz,2013,0-3 ft,0.274
+Utah Jazz,2013,3-10 ft,0.192
+Utah Jazz,2013,10-16 ft,0.105
+Utah Jazz,2013,Over 16 ft,0.224
+Utah Jazz,2013,3P Corner,0.045114
+Utah Jazz,2013,3P Top,0.160886
+Utah Jazz,2014,0-3 ft,0.281
+Utah Jazz,2014,3-10 ft,0.177
+Utah Jazz,2014,10-16 ft,0.106
+Utah Jazz,2014,Over 16 ft,0.199
+Utah Jazz,2014,3P Corner,0.057828
+Utah Jazz,2014,3P Top,0.179172
+Utah Jazz,2015,0-3 ft,0.296
+Utah Jazz,2015,3-10 ft,0.173
+Utah Jazz,2015,10-16 ft,0.096
+Utah Jazz,2015,Over 16 ft,0.161
+Utah Jazz,2015,3P Corner,0.07535
+Utah Jazz,2015,3P Top,0.19865
+Utah Jazz,2016,0-3 ft,0.282
+Utah Jazz,2016,3-10 ft,0.177
+Utah Jazz,2016,10-16 ft,0.119
+Utah Jazz,2016,Over 16 ft,0.126
+Utah Jazz,2016,3P Corner,0.093258
+Utah Jazz,2016,3P Top,0.203742
+Utah Jazz,2017,0-3 ft,0.297
+Utah Jazz,2017,3-10 ft,0.152
+Utah Jazz,2017,10-16 ft,0.105
+Utah Jazz,2017,Over 16 ft,0.118
+Utah Jazz,2017,3P Corner,0.09156
+Utah Jazz,2017,3P Top,0.23544
+Utah Jazz,2018,0-3 ft,0.284
+Utah Jazz,2018,3-10 ft,0.151
+Utah Jazz,2018,10-16 ft,0.1
+Utah Jazz,2018,Over 16 ft,0.108
+Utah Jazz,2018,3P Corner,0.095676
+Utah Jazz,2018,3P Top,0.261324
+Washington Wizards,2001,0-3 ft,0.249
+Washington Wizards,2001,3-10 ft,0.219
+Washington Wizards,2001,10-16 ft,0.199
+Washington Wizards,2001,Over 16 ft,0.202
+Washington Wizards,2001,3P Corner,0.028296
+Washington Wizards,2001,3P Top,0.102704
+Washington Wizards,2002,0-3 ft,0.214
+Washington Wizards,2002,3-10 ft,0.159
+Washington Wizards,2002,10-16 ft,0.222
+Washington Wizards,2002,Over 16 ft,0.287
+Washington Wizards,2002,3P Corner,0.019824
+Washington Wizards,2002,3P Top,0.098176
+Washington Wizards,2003,0-3 ft,0.231
+Washington Wizards,2003,3-10 ft,0.13
+Washington Wizards,2003,10-16 ft,0.203
+Washington Wizards,2003,Over 16 ft,0.309
+Washington Wizards,2003,3P Corner,0.035052
+Washington Wizards,2003,3P Top,0.091948
+Washington Wizards,2004,0-3 ft,0.29
+Washington Wizards,2004,3-10 ft,0.18
+Washington Wizards,2004,10-16 ft,0.123
+Washington Wizards,2004,Over 16 ft,0.213
+Washington Wizards,2004,3P Corner,0.041516
+Washington Wizards,2004,3P Top,0.152484
+Washington Wizards,2005,0-3 ft,0.268
+Washington Wizards,2005,3-10 ft,0.188
+Washington Wizards,2005,10-16 ft,0.118
+Washington Wizards,2005,Over 16 ft,0.206
+Washington Wizards,2005,3P Corner,0.04576
+Washington Wizards,2005,3P Top,0.17424
+Washington Wizards,2006,0-3 ft,0.287
+Washington Wizards,2006,3-10 ft,0.164
+Washington Wizards,2006,10-16 ft,0.093
+Washington Wizards,2006,Over 16 ft,0.247
+Washington Wizards,2006,3P Corner,0.037411
+Washington Wizards,2006,3P Top,0.171589
+Washington Wizards,2007,0-3 ft,0.294
+Washington Wizards,2007,3-10 ft,0.121
+Washington Wizards,2007,10-16 ft,0.079
+Washington Wizards,2007,Over 16 ft,0.269
+Washington Wizards,2007,3P Corner,0.049296
+Washington Wizards,2007,3P Top,0.187704
+Washington Wizards,2008,0-3 ft,0.285
+Washington Wizards,2008,3-10 ft,0.145
+Washington Wizards,2008,10-16 ft,0.098
+Washington Wizards,2008,Over 16 ft,0.231
+Washington Wizards,2008,3P Corner,0.043621
+Washington Wizards,2008,3P Top,0.197379
+Washington Wizards,2009,0-3 ft,0.317
+Washington Wizards,2009,3-10 ft,0.154
+Washington Wizards,2009,10-16 ft,0.107
+Washington Wizards,2009,Over 16 ft,0.242
+Washington Wizards,2009,3P Corner,0.03456
+Washington Wizards,2009,3P Top,0.14544
+Washington Wizards,2010,0-3 ft,0.279
+Washington Wizards,2010,3-10 ft,0.148
+Washington Wizards,2010,10-16 ft,0.116
+Washington Wizards,2010,Over 16 ft,0.274
+Washington Wizards,2010,3P Corner,0.042639
+Washington Wizards,2010,3P Top,0.140361
+Washington Wizards,2011,0-3 ft,0.281
+Washington Wizards,2011,3-10 ft,0.171
+Washington Wizards,2011,10-16 ft,0.129
+Washington Wizards,2011,Over 16 ft,0.247
+Washington Wizards,2011,3P Corner,0.050224
+Washington Wizards,2011,3P Top,0.121776
+Washington Wizards,2012,0-3 ft,0.299
+Washington Wizards,2012,3-10 ft,0.167
+Washington Wizards,2012,10-16 ft,0.109
+Washington Wizards,2012,Over 16 ft,0.227
+Washington Wizards,2012,3P Corner,0.057624
+Washington Wizards,2012,3P Top,0.138376
+Washington Wizards,2013,0-3 ft,0.238
+Washington Wizards,2013,3-10 ft,0.177
+Washington Wizards,2013,10-16 ft,0.145
+Washington Wizards,2013,Over 16 ft,0.216
+Washington Wizards,2013,3P Corner,0.07359
+Washington Wizards,2013,3P Top,0.14941
+Washington Wizards,2014,0-3 ft,0.273
+Washington Wizards,2014,3-10 ft,0.143
+Washington Wizards,2014,10-16 ft,0.116
+Washington Wizards,2014,Over 16 ft,0.221
+Washington Wizards,2014,3P Corner,0.075276
+Washington Wizards,2014,3P Top,0.170724
+Washington Wizards,2015,0-3 ft,0.286
+Washington Wizards,2015,3-10 ft,0.142
+Washington Wizards,2015,10-16 ft,0.138
+Washington Wizards,2015,Over 16 ft,0.23
+Washington Wizards,2015,3P Corner,0.056637
+Washington Wizards,2015,3P Top,0.146363
+Washington Wizards,2016,0-3 ft,0.291
+Washington Wizards,2016,3-10 ft,0.129
+Washington Wizards,2016,10-16 ft,0.111
+Washington Wizards,2016,Over 16 ft,0.188
+Washington Wizards,2016,3P Corner,0.069372
+Washington Wizards,2016,3P Top,0.212628
+Washington Wizards,2017,0-3 ft,0.3
+Washington Wizards,2017,3-10 ft,0.137
+Washington Wizards,2017,10-16 ft,0.108
+Washington Wizards,2017,Over 16 ft,0.169
+Washington Wizards,2017,3P Corner,0.072136
+Washington Wizards,2017,3P Top,0.211864
+Washington Wizards,2018,0-3 ft,0.243
+Washington Wizards,2018,3-10 ft,0.159
+Washington Wizards,2018,10-16 ft,0.139
+Washington Wizards,2018,Over 16 ft,0.149
+Washington Wizards,2018,3P Corner,0.05952
+Washington Wizards,2018,3P Top,0.25048

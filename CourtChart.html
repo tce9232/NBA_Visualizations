@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <script src='https://d3js.org/d3.v4.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js'></script>
+    <script src="https://d3js.org/d3-contour.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+    <script src='CourtChart/Court.js'></script>
+    <script src='CourtChart/Slider.js'></script>
+    <script src='CourtChart/Zones.js'></script>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700' rel='stylesheet'>
+    <title>Hoop_Viz</title>
+    <link rel='stylesheet' href='css/styles.css'>
+
+  </head>
+  <body>
+  <div id="nav-container">
+   <div id="teamDropdown"></div>
+  </div>
+    <style>
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#court {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 50px;
+  bottom: 0px;
+}
+
+.slider rect {
+  fill: gray;
+  shape-rendering: crispEdges;
+}
+
+.slider line {
+  fill: none;
+  stroke: red;
+  opacity: 0.3;
+  shape-rendering: crispEdges;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 90px;
+  padding: 5px;
+  height: 40px;
+  font: 10px sans-serif;
+  opacity: .75;
+  pointer-events: none;
+}
+
+.teamName {
+  position: absolute;
+  text-align: center;
+  width: 90px;
+  padding: 5px;
+  height: 50px;
+  font: 18px Righteous;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+.header {
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  font: 25px Righteous;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+   </style>
+    <div id='court'></div>
+    <div id='zone'></div>
+    <div id='stats'></div>
+    <script>
+        const margin = { left: 20, right: 20, top: 20, bottom: 20 };
+        var chartDiv = document.getElementById('court');
+        var court = d3.select(chartDiv).append('court').append('svg');
+        court.attr('width', 700)
+             .attr('height', 750)
+
+        var court_g = court.append('g');
+    
+        var slider_axis = court.append('g')
+                               .attr('class', 'slider-axis');
+        var slider_rect = court.append('g')
+                               .attr('class', 'slider-rect');
+
+        var rect_entity = slider_rect.append('rect');
+
+        const court_xScale = d3.scaleLinear()
+                                     .domain([-25, 25]);
+        const court_yScale = d3.scaleLinear()
+                                     .domain([-4,43]);
+        const shot_xScale = d3.scaleLinear()
+                                     .domain([-250, 250]);
+        const shot_yScale = d3.scaleLinear()
+                                     .domain([-45,420]);
+
+        var Basket;
+        var Backboard;
+        var Outterbox;
+        var Innerbox;
+        var CornerThreeLeft;
+        var CornerThreeRight;
+        var OuterLine;
+        var RestrictedArea;
+        var TopFreeThrow;
+        var BottomFreeThrow;
+        var ThreeLine;
+        var CenterOuter;
+        var CenterInner;
+        
+        var myColor = d3.scaleLinear()
+                      .domain([0, .2, .45])
+                      .range(["blue","#ddd","red"]);
+
+        var data;
+        var CornerThreeLeftFull;
+        var CornerThreeRightFull;
+        var ImagePlaceRight;
+        var ImagePlaceLeft;
+        var ZeroToThree;
+        var ThreeToTen;
+        var TenToSixteen;
+        var SixteenPlus;
+        var ThreePointFull;
+        var TeamName;
+        var value = 2001;
+        var year;
+        var team;
+        var teams;
+        var currentTeamIndex;
+        var Header;
+
+        Slider();
+
+        d3.csv("Final_Data/NBA_shooting_mapped.csv", function(rows) {
+          year = 2001
+          team = "All Teams"
+          data = rows.filter(d=>d.Team===(team));
+
+          data = data.filter(d=>d.year==(year));
+
+          
+
+          execute();
+
+          var nest = d3.nest().key(function(d) { return d.Team; }).entries(rows);
+          teams = nest.map(function(d) { return d.key; });
+          currentTeamIndex = 0;
+
+          var teamMenu = d3.select("#teamDropdown");
+          teamMenu.append("select").attr("id", "teamMenu").selectAll("option").data(teams)
+            .enter().append("option").attr("value", function(d, i) { return i; }).text(function(d) { return d; });
+
+         var selectTeam = nest.find(function(d) {
+            return d.key == teams[currentTeamIndex];
+          });
+
+                  // run update function when dropdown selection changes
+          teamMenu.on("change", function() {
+          // find which location was selected from the dropdown
+          var selectedTeam = d3.select(this).select("select").property("value");
+          currentTeamIndex = +selectedTeam;
+          // run update function with selected location
+
+          court_g.selectAll("path").remove();
+          court_g.selectAll("image").remove();
+          court_g.selectAll("text").remove();
+
+          team = teams[currentTeamIndex]
+
+          data = rows.filter(d=>d.Team===(team));
+
+          data = data.filter(d=>d.year==(year));
+
+          execute();
+
+          });
+
+        });
+
+        function UpdateData() {
+        d3.csv("Final_Data/NBA_shooting_mapped.csv", function(rows) {
+          year = value.getFullYear() + 1
+          team = teams[currentTeamIndex]
+
+          court_g.selectAll("path").remove();
+          court_g.selectAll("image").remove();
+          court_g.selectAll("text").remove();
+
+          data = rows.filter(d=>d.Team==(team));
+
+          data = data.filter(d=>d.year==(year));
+
+          execute();
+        });
+        }
+
+        function execute() {
+
+        Header = court_g.append('text').text((year - 1).toString() + '-' + (year).toString() + ' season shooting')
+                .attr('class', "header")
+                .attr('fill', 'black')
+                .style("text-anchor", "middle")
+
+        Basket = court_g.append('circle');
+        Backboard = court_g.append('rect');
+        Outterbox = court_g.append('rect');
+        Innerbox = court_g.append('rect');
+        CornerThreeLeft = court_g.append('rect');
+        CornerThreeRight = court_g.append('rect');
+        OuterLine = court_g.append('rect');
+        RestrictedArea = court_g.append('path');
+        TopFreeThrow = court_g.append('path');
+        BottomFreeThrow = court_g.append('path');
+        ThreeLine = court_g.append('path');
+        CenterOuter = court_g.append('path');
+        CenterInner = court_g.append('path');
+
+        
+        
+        draw_court();
+        
+        var color = [myColor(data[0].portion_from_0_to_3),
+          myColor(data[0].portion_from_3_to_10),
+          myColor(data[0].portion_from_10_to_16),
+          myColor(data[0].portion_from_over_16),
+          myColor(data[0].portion_from_3)]
+
+        var div = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("display", "none");
+
+        function mouseover() {div.style("display", "inline");}
+        function mouseout() {div.style("display", "none");}
+
+        ImagePlaceRight = court_g.append('image').attr('xlink:href', 'Images/Team_Logo/' + data[0].Team + '.png');
+        ImagePlaceLeft = court_g.append('image').attr('xlink:href', 'Images/Team_Logo/' + data[0].Team + '.png');
+
+        TeamName = court_g.append('text').text(data[0].Team)
+                .attr('class', "teamName")
+                .attr('fill', 'black')
+                .style("text-anchor", "middle")
+
+        ZeroToThree = court_g.append('path').style('fill', color[0]).style("opacity", .9)
+            .on("mouseover", mouseover)
+						.on("mousemove", function mousemove() {
+							div.text(data[0].portion_from_0_to_3 + '% of shots taken between 0 and 3 feet')
+              .style("left", (d3.event.pageX + 5) + "px")
+              .style("top", (d3.event.pageY - 12) + "px");})
+							.on("mouseout", mouseout);
+        
+        ThreeToTen = court_g.append('path').style('fill', color[1]).style("opacity", .9)
+            .on("mouseover", mouseover)
+						.on("mousemove", function mousemove() {
+							div.text(data[0].portion_from_3_to_10 + '% of shots taken between 3 and 10 feet')
+              .style("left", (d3.event.pageX + 5) + "px")
+              .style("top", (d3.event.pageY - 12) + "px");})
+							.on("mouseout", mouseout);
+
+        TenToSixteen = court_g.append('path').style('fill', color[2]).style("opacity", .9)
+            .on("mouseover", mouseover)
+						.on("mousemove", function mousemove() {
+							div.text(data[0].portion_from_10_to_16 + '% of shots taken between 10 and 16 feet')
+              .style("left", (d3.event.pageX + 5) + "px")
+              .style("top", (d3.event.pageY - 12) + "px");})
+							.on("mouseout", mouseout);
+
+        SixteenPlus = court_g.append('path').style('fill', color[3]).style("opacity", .9)
+            .on("mouseover", mouseover)
+						.on("mousemove", function mousemove() {
+							div.text(data[0].portion_from_over_16 + '% of shots taken from over 16 feet')
+              .style("left", (d3.event.pageX + 5) + "px")
+              .style("top", (d3.event.pageY - 12) + "px");})
+							.on("mouseout", mouseout);
+
+      ThreePointFull = court_g.append('path').style('fill', color[4]).style("opacity", .9)
+            .on("mouseover", mouseover)
+					.on("mousemove", function mousemove() {
+							div.text(data[0].portion_from_3 + '% of shots taken from 3')
+              .style("left", (d3.event.pageX) + "px")
+             .style("top", (d3.event.pageY - 12) + "px");})
+							.on("mouseout", mouseout);
+
+
+        draw_zone();
+
+        var defs = court_g.append("defs");
+        
+        var linearGradient = defs.append("linearGradient")
+                                 .attr("id", "linear-gradient");
+
+        //Append a linearGradient element to the defs and give it a unique id
+        //Append multiple color stops by using D3's data/enter step
+        var gradient = linearGradient.selectAll("stop")
+            .data([
+                {offset: "0%", color: "blue"},
+                {offset: "50%", color: "#ddd"},
+                {offset: "100%", color: "red"}
+                ])
+            .enter().append("stop")
+            .attr("offset", function(d) { return d.offset; })
+            .attr("stop-color", function(d) { return d.color; });
+        
+        court_g.append("rect")
+          .attr('x', court_xScale(-25))
+         .attr('y', court_yScale(50))
+         .attr('width', court_xScale(23))
+         .attr('height', 20)
+         .style('opacity', 1)
+          .style("fill", "url(#linear-gradient)");
+
+        court_g.append("text")
+          .attr('class', 'legendText')
+          .attr('x', court_xScale(-24.5))
+         .attr('y', court_yScale(51.2))
+         .attr('width', court_xScale(5))
+         .attr('height', court_yScale(5))
+          .text("Low")
+          .style('font-size','11px')
+          .style("fill", "white")
+          .style("font-weight", "bold")
+          .style('opacity',1)
+          
+        court_g.append("text")
+          .attr('class', 'legendText')
+          .attr('x', court_xScale(22))
+         .attr('y', court_yScale(51.2))
+         .attr('width', court_xScale(5))
+         .attr('height', court_yScale(5))
+          .text("High")
+          .style('font-size','11px')
+          .style("fill", "white")
+          .style("font-weight", "bold")
+          .style('opacity',1)
+
+        court_g.append("text")
+          .attr('class', 'legendText')
+          .attr('x', court_xScale(-13))
+         .attr('y', court_yScale(53))
+         .attr('width', court_xScale(5))
+         .attr('height', court_yScale(5))
+          .text("Percentage of shots taken by location")
+          .style('font-size','14px')
+          .style("fill", "black")
+          .style('opacity',1)
+
+        }
+    </script>
+  </body>
+</html>
